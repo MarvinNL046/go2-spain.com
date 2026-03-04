@@ -1,1 +1,167 @@
-[]
+[
+  {
+    "slug": "paella",
+    "name": { "en": "Paella", "es": "Paella" },
+    "region": "Valencia",
+    "image": "/images/food/paella.jpg",
+    "description": {
+      "en": "Spain's most iconic rice dish, traditionally made with chicken, rabbit, green beans, and saffron in a wide shallow pan over a wood fire. Originating from Valencia, authentic paella never contains seafood.",
+      "es": "El plato de arroz más icónico de España, tradicionalmente hecho con pollo, conejo, judías verdes y azafrán en una paella ancha sobre fuego de leña. Originaria de Valencia, la paella auténtica nunca lleva marisco."
+    },
+    "category": "main"
+  },
+  {
+    "slug": "tapas",
+    "name": { "en": "Tapas", "es": "Tapas" },
+    "region": "Nationwide",
+    "image": "/images/food/tapas.jpg",
+    "description": {
+      "en": "Small dishes served as snacks or appetizers, forming the backbone of Spanish social dining. From patatas bravas to jamón, tapas culture encourages sharing, conversation, and bar-hopping.",
+      "es": "Pequeños platos servidos como aperitivos que forman la columna vertebral de la cultura gastronómica social española. Desde patatas bravas hasta jamón, la cultura de tapas fomenta compartir, conversar e ir de bar en bar."
+    },
+    "category": "appetizer"
+  },
+  {
+    "slug": "jamon-iberico",
+    "name": { "en": "Jamón Ibérico", "es": "Jamón Ibérico" },
+    "region": "Extremadura / Salamanca",
+    "image": "/images/food/jamon-iberico.jpg",
+    "description": {
+      "en": "The crown jewel of Spanish charcuterie, made from acorn-fed Iberian pigs and cured for up to 36 months. The finest grade, jamón ibérico de bellota, has a rich, nutty flavor and melt-in-your-mouth texture.",
+      "es": "La joya de la corona de la charcutería española, hecho de cerdos ibéricos alimentados con bellotas y curado hasta 36 meses. El grado más fino, jamón ibérico de bellota, tiene un rico sabor a frutos secos y una textura que se deshace en la boca."
+    },
+    "category": "appetizer"
+  },
+  {
+    "slug": "gazpacho",
+    "name": { "en": "Gazpacho", "es": "Gazpacho" },
+    "region": "Andalusia",
+    "image": "/images/food/gazpacho.jpg",
+    "description": {
+      "en": "A chilled tomato soup blended with peppers, cucumber, garlic, bread, olive oil, and sherry vinegar. This refreshing Andalusian classic is the perfect antidote to Spain's summer heat.",
+      "es": "Una sopa fría de tomate mezclada con pimientos, pepino, ajo, pan, aceite de oliva y vinagre de Jerez. Este refrescante clásico andaluz es el antídoto perfecto para el calor veraniego de España."
+    },
+    "category": "appetizer"
+  },
+  {
+    "slug": "tortilla-espanola",
+    "name": { "en": "Spanish Omelette", "es": "Tortilla Española" },
+    "region": "Nationwide",
+    "image": "/images/food/tortilla-espanola.jpg",
+    "description": {
+      "en": "A thick, round omelette made with eggs, potatoes, and optionally onion. Served as a tapa, light meal, or sandwich filling, it's the most democratic dish in Spain — every bar and home has its own recipe.",
+      "es": "Una tortilla gruesa y redonda hecha con huevos, patatas y opcionalmente cebolla. Servida como tapa, comida ligera o relleno de bocadillo, es el plato más democrático de España — cada bar y hogar tiene su propia receta."
+    },
+    "category": "main"
+  },
+  {
+    "slug": "churros",
+    "name": { "en": "Churros", "es": "Churros" },
+    "region": "Nationwide",
+    "image": "/images/food/churros.jpg",
+    "description": {
+      "en": "Fried dough pastries dusted with sugar, traditionally dipped in thick hot chocolate. A beloved breakfast or late-night snack, with the iconic Chocolatería San Ginés in Madrid serving them since 1894.",
+      "es": "Masa frita espolvoreada con azúcar, tradicionalmente mojada en chocolate espeso caliente. Un querido desayuno o tentempié nocturno, con la icónica Chocolatería San Ginés de Madrid sirviéndolos desde 1894."
+    },
+    "category": "dessert"
+  },
+  {
+    "slug": "patatas-bravas",
+    "name": { "en": "Patatas Bravas", "es": "Patatas Bravas" },
+    "region": "Nationwide",
+    "image": "/images/food/patatas-bravas.jpg",
+    "description": {
+      "en": "Crispy fried potato cubes topped with a spicy bravas sauce (tomato-based with paprika and chili) and sometimes alioli. Spain's most universal tapa, found in virtually every bar.",
+      "es": "Cubos de patata frita crujiente cubiertos con una salsa brava picante (a base de tomate con pimentón y guindilla) y a veces alioli. La tapa más universal de España, presente en prácticamente todos los bares."
+    },
+    "category": "appetizer"
+  },
+  {
+    "slug": "croquetas",
+    "name": { "en": "Croquetas", "es": "Croquetas" },
+    "region": "Nationwide",
+    "image": "/images/food/croquetas.jpg",
+    "description": {
+      "en": "Creamy béchamel fritters, usually filled with jamón, chicken, or cod, then breaded and deep-fried to golden perfection. Every grandmother in Spain claims to make the best croquetas.",
+      "es": "Croquetas cremosas de bechamel, generalmente rellenas de jamón, pollo o bacalao, empanadas y fritas hasta quedar doradas. Cada abuela en España afirma hacer las mejores croquetas."
+    },
+    "category": "appetizer"
+  },
+  {
+    "slug": "pulpo-a-la-gallega",
+    "name": { "en": "Galician-Style Octopus", "es": "Pulpo a la Gallega" },
+    "region": "Galicia",
+    "image": "/images/food/pulpo-a-la-gallega.jpg",
+    "description": {
+      "en": "Tender boiled octopus sliced and served on a wooden plate, drizzled with olive oil and sprinkled with sweet paprika and coarse salt. A Galician delicacy traditionally served at local fairs.",
+      "es": "Tierno pulpo cocido cortado en rodajas y servido en un plato de madera, rociado con aceite de oliva y espolvoreado con pimentón dulce y sal gruesa. Una delicia gallega tradicionalmente servida en ferias locales."
+    },
+    "category": "main"
+  },
+  {
+    "slug": "pisto",
+    "name": { "en": "Pisto Manchego", "es": "Pisto Manchego" },
+    "region": "Castile-La Mancha",
+    "image": "/images/food/pisto.jpg",
+    "description": {
+      "en": "Spain's answer to ratatouille — a hearty vegetable stew of tomatoes, peppers, zucchini, and onions slowly cooked in olive oil. Often topped with a fried egg and served with crusty bread.",
+      "es": "La respuesta española al ratatouille — un contundente guiso de verduras con tomates, pimientos, calabacín y cebollas cocinados lentamente en aceite de oliva. A menudo coronado con un huevo frito y servido con pan crujiente."
+    },
+    "category": "main"
+  },
+  {
+    "slug": "fabada-asturiana",
+    "name": { "en": "Fabada Asturiana", "es": "Fabada Asturiana" },
+    "region": "Asturias",
+    "image": "/images/food/fabada-asturiana.jpg",
+    "description": {
+      "en": "A rich, hearty bean stew from Asturias made with large white fabes beans, chorizo, morcilla (blood sausage), and pork shoulder. The ultimate comfort food for rainy northern Spanish days.",
+      "es": "Un rico y contundente guiso de alubias de Asturias hecho con grandes fabes blancas, chorizo, morcilla y lacón. La comida reconfortante definitiva para los lluviosos días del norte de España."
+    },
+    "category": "main"
+  },
+  {
+    "slug": "pintxos",
+    "name": { "en": "Pintxos", "es": "Pintxos" },
+    "region": "Basque Country",
+    "image": "/images/food/pintxos.jpg",
+    "description": {
+      "en": "The Basque Country's elevated take on tapas — elaborate small bites often served on bread and skewered with a toothpick. From classic gilda to molecular gastronomy creations, pintxos bars are a culinary art gallery.",
+      "es": "La versión elevada de las tapas del País Vasco — elaborados bocados pequeños a menudo servidos sobre pan y sujetos con un palillo. Desde la clásica gilda hasta creaciones de gastronomía molecular, los bares de pintxos son una galería de arte culinario."
+    },
+    "category": "appetizer"
+  },
+  {
+    "slug": "crema-catalana",
+    "name": { "en": "Crema Catalana", "es": "Crema Catalana" },
+    "region": "Catalonia",
+    "image": "/images/food/crema-catalana.jpg",
+    "description": {
+      "en": "Catalonia's custard dessert flavored with lemon zest and cinnamon, topped with a caramelized sugar crust. Predating French crème brûlée, it is traditionally served on March 19, Saint Joseph's Day.",
+      "es": "El postre de crema de Cataluña aromatizado con ralladura de limón y canela, cubierto con una costra de azúcar caramelizado. Anterior a la crème brûlée francesa, tradicionalmente se sirve el 19 de marzo, día de San José."
+    },
+    "category": "dessert"
+  },
+  {
+    "slug": "pan-con-tomate",
+    "name": { "en": "Pan con Tomate", "es": "Pan con Tomate" },
+    "region": "Catalonia",
+    "image": "/images/food/pan-con-tomate.jpg",
+    "description": {
+      "en": "Toasted bread rubbed with ripe tomato, drizzled with extra virgin olive oil and salt. Deceptively simple, this Catalan staple is the perfect expression of Mediterranean cooking — quality ingredients, minimal fuss.",
+      "es": "Pan tostado frotado con tomate maduro, rociado con aceite de oliva virgen extra y sal. Engañosamente sencillo, este básico catalán es la expresión perfecta de la cocina mediterránea — ingredientes de calidad, mínima complicación."
+    },
+    "category": "appetizer"
+  },
+  {
+    "slug": "cochinillo",
+    "name": { "en": "Roast Suckling Pig", "es": "Cochinillo Asado" },
+    "region": "Segovia / Castile",
+    "image": "/images/food/cochinillo.jpg",
+    "description": {
+      "en": "A whole young pig slow-roasted in a wood-fired oven until the skin is impossibly crispy and the meat melts off the bone. Segovia's legendary restaurants traditionally carve it with the edge of a plate.",
+      "es": "Un lechón entero asado lentamente en horno de leña hasta que la piel queda increíblemente crujiente y la carne se deshace del hueso. Los legendarios restaurantes de Segovia tradicionalmente lo trincha con el borde de un plato."
+    },
+    "category": "main"
+  }
+]

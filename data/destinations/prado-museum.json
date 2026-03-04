@@ -1,0 +1,28 @@
+{
+  "slug": "prado-museum",
+  "name": {
+    "en": "Prado Museum",
+    "es": "Museo del Prado"
+  },
+  "city": "madrid",
+  "region": "central-spain",
+  "image": "/images/destinations/prado-museum.jpg",
+  "description": {
+    "en": "One of the world's greatest art museums, housing masterpieces by Velázquez, Goya, El Greco, and Bosch. Las Meninas by Velázquez and The Garden of Earthly Delights by Bosch are must-sees.",
+    "es": "Uno de los mayores museos de arte del mundo, que alberga obras maestras de Velázquez, Goya, El Greco y El Bosco. Las Meninas de Velázquez y El Jardín de las Delicias del Bosco son imprescindibles."
+  },
+  "category": "museum",
+  "rating": 4.8,
+  "visitDuration": "2-4 hours",
+  "price": "€15",
+  "tips": [
+    {
+      "en": "Free entry Monday-Saturday 6-8pm and Sundays 5-7pm",
+      "es": "Entrada gratuita de lunes a sábado de 18 a 20h y domingos de 17 a 19h"
+    },
+    {
+      "en": "Focus on a few galleries rather than trying to see everything",
+      "es": "Concéntrate en unas pocas salas en lugar de intentar verlo todo"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cycling-mallorca",
+  "name": {
+    "en": "Cycling in Mallorca",
+    "es": "Ciclismo en Mallorca"
+  },
+  "city": "palma",
+  "region": "balearic-islands",
+  "image": "/images/experiences/cycling-mallorca.jpg",
+  "description": {
+    "en": "Ride the legendary mountain roads of the Serra de Tramuntana, where professional teams train each spring. Dramatic switchbacks, tunnels carved through rock, and Mediterranean panoramas await.",
+    "es": "Recorre las legendarias carreteras de montaña de la Serra de Tramuntana, donde equipos profesionales entrenan cada primavera. Espectaculares curvas, túneles excavados en la roca y panoramas mediterráneos te esperan."
+  },
+  "category": "adventure",
+  "duration": "4-8 hours",
+  "price": "€30-60 (bike rental)",
+  "difficulty": "hard",
+  "rating": 4.8
+}

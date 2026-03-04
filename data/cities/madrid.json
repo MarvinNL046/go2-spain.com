@@ -1,0 +1,140 @@
+{
+  "slug": "madrid",
+  "name": { "en": "Madrid", "es": "Madrid" },
+  "region": "central-spain",
+  "province": "Community of Madrid",
+  "population": 3223000,
+  "elevation": 650,
+  "image": "/images/cities/madrid.jpg",
+  "gallery": ["/images/cities/madrid-1.jpg", "/images/cities/madrid-2.jpg", "/images/cities/madrid-3.jpg"],
+  "description": {
+    "en": "Madrid, Spain's central capital, is a city of grand boulevards, manicured parks, and world-class art museums. As the country's largest city, it pulses with energy from morning to well past midnight. The 'Golden Triangle of Art' — the Prado, Reina Sofía, and Thyssen-Bornemisza museums — places Madrid among the world's top cultural destinations. Beyond art, Madrid is a city of barrios, each with its own character, from the regal elegance of Salamanca to the bohemian buzz of Malasaña. The culinary scene ranges from century-old taverns serving cocido madrileño to avant-garde Michelin-starred restaurants.",
+    "es": "Madrid, la capital central de España, es una ciudad de grandes bulevares, parques cuidados y museos de arte de clase mundial. Como la ciudad más grande del país, vibra con energía desde la mañana hasta bien pasada la medianoche. El 'Triángulo del Arte' — los museos del Prado, Reina Sofía y Thyssen-Bornemisza — sitúa a Madrid entre los principales destinos culturales del mundo. Más allá del arte, Madrid es una ciudad de barrios, cada uno con su propio carácter, desde la elegancia señorial de Salamanca hasta el ambiente bohemio de Malasaña. La escena culinaria abarca desde tabernas centenarias que sirven cocido madrileño hasta restaurantes vanguardistas con estrellas Michelin."
+  },
+  "highlights": [
+    { "en": "The Prado Museum", "es": "El Museo del Prado" },
+    { "en": "Retiro Park", "es": "El Parque del Retiro" },
+    { "en": "Royal Palace of Madrid", "es": "Palacio Real de Madrid" },
+    { "en": "Puerta del Sol", "es": "Puerta del Sol" },
+    { "en": "Gran Vía", "es": "Gran Vía" }
+  ],
+  "bestTimeToVisit": {
+    "en": "Spring (March-May) and autumn (September-November) offer the most pleasant weather with temperatures around 15-25°C. Summer can be extremely hot, often exceeding 35°C, while winters are cold but dry with occasional snowfall.",
+    "es": "La primavera (marzo-mayo) y el otoño (septiembre-noviembre) ofrecen el clima más agradable con temperaturas entre 15-25°C. El verano puede ser extremadamente caluroso, superando a menudo los 35°C, mientras que los inviernos son fríos pero secos con nevadas ocasionales."
+  },
+  "gettingAround": {
+    "en": "Madrid's metro system is one of Europe's most extensive, with 13 lines covering the entire city. The bus network complements the metro, and the Cercanías commuter trains connect suburbs and nearby cities. A 10-trip Metrobús ticket or the rechargeable Multi card offer great value. The city center is very walkable, and a public bike-sharing system (BiciMAD) is also available.",
+    "es": "El metro de Madrid es uno de los más extensos de Europa, con 13 líneas que cubren toda la ciudad. La red de autobuses complementa al metro, y los trenes de Cercanías conectan los suburbios y ciudades cercanas. Un billete de 10 viajes Metrobús o la tarjeta Multi recargable ofrecen una excelente relación calidad-precio. El centro de la ciudad es muy transitable a pie, y también hay un sistema público de bicicletas compartidas (BiciMAD)."
+  },
+  "neighborhoods": [
+    {
+      "name": { "en": "Sol / Gran Vía", "es": "Sol / Gran Vía" },
+      "description": {
+        "en": "The bustling heart of Madrid centered around Puerta del Sol, kilometre zero of Spain's road network. Gran Vía is the city's main commercial artery, lined with theaters, shops, and Art Deco architecture.",
+        "es": "El bullicioso corazón de Madrid centrado en la Puerta del Sol, kilómetro cero de la red de carreteras de España. Gran Vía es la principal arteria comercial de la ciudad, repleta de teatros, tiendas y arquitectura Art Déco."
+      },
+      "vibe": { "en": "Bustling city center with shopping and nightlife", "es": "Bullicioso centro urbano con compras y vida nocturna" }
+    },
+    {
+      "name": { "en": "La Latina", "es": "La Latina" },
+      "description": {
+        "en": "One of Madrid's oldest neighborhoods, famous for its Sunday flea market (El Rastro) and lively tapas scene along Cava Baja. Narrow medieval streets open onto charming plazas.",
+        "es": "Uno de los barrios más antiguos de Madrid, famoso por su mercadillo dominical (El Rastro) y su animada escena de tapas en la Cava Baja. Estrechas calles medievales se abren a encantadoras plazas."
+      },
+      "vibe": { "en": "Traditional tapas and Sunday market charm", "es": "Tapas tradicionales y encanto del mercadillo dominical" }
+    },
+    {
+      "name": { "en": "Malasaña", "es": "Malasaña" },
+      "description": {
+        "en": "The epicenter of Madrid's countercultural movida movement in the 1980s, now a trendy neighborhood with vintage shops, craft cocktail bars, and an alternative arts scene.",
+        "es": "El epicentro del movimiento contracultural de la movida madrileña en los años 80, ahora un barrio de moda con tiendas vintage, coctelerías artesanales y una escena artística alternativa."
+      },
+      "vibe": { "en": "Hipster and bohemian with vintage flair", "es": "Hipster y bohemio con toque vintage" }
+    },
+    {
+      "name": { "en": "Salamanca", "es": "Salamanca" },
+      "description": {
+        "en": "Madrid's most upscale district, home to designer boutiques along Calle Serrano, fine dining restaurants, and elegant 19th-century architecture. The Golden Mile of luxury shopping.",
+        "es": "El distrito más exclusivo de Madrid, hogar de boutiques de diseño en la Calle Serrano, restaurantes de alta cocina y elegante arquitectura del siglo XIX. La Milla de Oro de las compras de lujo."
+      },
+      "vibe": { "en": "Upscale shopping and fine dining", "es": "Compras de lujo y alta gastronomía" }
+    },
+    {
+      "name": { "en": "Lavapiés", "es": "Lavapiés" },
+      "description": {
+        "en": "Madrid's most multicultural neighborhood, a vibrant melting pot of cuisines and cultures. Home to independent art galleries, world food restaurants, and a lively street atmosphere.",
+        "es": "El barrio más multicultural de Madrid, un vibrante crisol de cocinas y culturas. Hogar de galerías de arte independientes, restaurantes de cocina internacional y un animado ambiente callejero."
+      },
+      "vibe": { "en": "Multicultural and artistic with global food", "es": "Multicultural y artístico con comida internacional" }
+    }
+  ],
+  "localFood": [
+    {
+      "name": { "en": "Cocido Madrileño", "es": "Cocido Madrileño" },
+      "description": {
+        "en": "A hearty chickpea-based stew served in three courses (vuelcos): first the broth as soup, then the chickpeas and vegetables, and finally the meats. A winter staple since the 16th century.",
+        "es": "Un contundente guiso de garbanzos servido en tres vuelcos: primero el caldo como sopa, luego los garbanzos y verduras, y finalmente las carnes. Un plato de invierno desde el siglo XVI."
+      }
+    },
+    {
+      "name": { "en": "Bocadillo de Calamares", "es": "Bocadillo de Calamares" },
+      "description": {
+        "en": "Madrid's iconic fried squid ring sandwich, served on crusty bread. Found at bars around Plaza Mayor, it's the city's most beloved street food.",
+        "es": "El icónico bocadillo de anillas de calamar fritas de Madrid, servido en pan crujiente. Se encuentra en bares alrededor de la Plaza Mayor, es la comida callejera más querida de la ciudad."
+      }
+    },
+    {
+      "name": { "en": "Callos a la Madrileña", "es": "Callos a la Madrileña" },
+      "description": {
+        "en": "A rich tripe stew cooked with chorizo, morcilla (blood sausage), and paprika. A traditional tavern dish that represents old Madrid's working-class cuisine.",
+        "es": "Un rico guiso de callos cocinado con chorizo, morcilla y pimentón. Un plato tradicional de taberna que representa la cocina obrera del viejo Madrid."
+      }
+    },
+    {
+      "name": { "en": "Tortilla de Patatas", "es": "Tortilla de Patatas" },
+      "description": {
+        "en": "The classic Spanish omelette made with eggs, potatoes, and optionally onion. Every Madrid bar serves its own version of this national staple.",
+        "es": "La clásica tortilla española hecha con huevos, patatas y opcionalmente cebolla. Cada bar de Madrid sirve su propia versión de este plato nacional."
+      }
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": { "en": "Toledo", "es": "Toledo" },
+      "description": {
+        "en": "The medieval 'City of Three Cultures' with its stunning cathedral, Alcázar fortress, and labyrinthine old town. A UNESCO World Heritage Site just 30 minutes by high-speed train.",
+        "es": "La medieval 'Ciudad de las Tres Culturas' con su impresionante catedral, la fortaleza del Alcázar y su laberíntico casco antiguo. Patrimonio Mundial de la UNESCO a solo 30 minutos en tren de alta velocidad."
+      },
+      "distance": "70km"
+    },
+    {
+      "name": { "en": "Segovia", "es": "Segovia" },
+      "description": {
+        "en": "Famous for its remarkably preserved Roman aqueduct, fairy-tale Alcázar castle, and succulent roast suckling pig (cochinillo). Reachable in 30 minutes by AVE train.",
+        "es": "Famosa por su acueducto romano extraordinariamente conservado, su Alcázar de cuento de hadas y su suculento cochinillo asado. Accesible en 30 minutos en tren AVE."
+      },
+      "distance": "90km"
+    },
+    {
+      "name": { "en": "El Escorial", "es": "El Escorial" },
+      "description": {
+        "en": "The imposing Royal Monastery of San Lorenzo de El Escorial, built by Philip II, combining a palace, basilica, monastery, and royal pantheon in one massive complex.",
+        "es": "El imponente Real Monasterio de San Lorenzo de El Escorial, construido por Felipe II, que combina palacio, basílica, monasterio y panteón real en un enorme complejo."
+      },
+      "distance": "55km"
+    },
+    {
+      "name": { "en": "Aranjuez", "es": "Aranjuez" },
+      "description": {
+        "en": "A royal town with an elegant palace and UNESCO-listed cultural landscape. Known for its stunning gardens and the seasonal Strawberry Train from Madrid.",
+        "es": "Una localidad real con un elegante palacio y un paisaje cultural declarado Patrimonio de la Humanidad. Conocida por sus impresionantes jardines y el Tren de la Fresa estacional desde Madrid."
+      },
+      "distance": "50km"
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€40-60/day", "es": "40-60€/día" },
+    "midRange": { "en": "€100-180/day", "es": "100-180€/día" },
+    "luxury": { "en": "€300+/day", "es": "300+€/día" }
+  }
+}

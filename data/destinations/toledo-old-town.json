@@ -1,0 +1,28 @@
+{
+  "slug": "toledo-old-town",
+  "name": {
+    "en": "Toledo Old Town",
+    "es": "Casco Antiguo de Toledo"
+  },
+  "city": "toledo",
+  "region": "castile",
+  "image": "/images/destinations/toledo-old-town.jpg",
+  "description": {
+    "en": "An entire UNESCO World Heritage walled city perched above the Tagus River, where Christian, Muslim, and Jewish heritage coexist in a medieval labyrinth of churches, mosques, and synagogues.",
+    "es": "Toda una ciudad amurallada Patrimonio de la Humanidad encaramada sobre el río Tajo, donde la herencia cristiana, musulmana y judía coexisten en un laberinto medieval de iglesias, mezquitas y sinagogas."
+  },
+  "category": "historic-quarter",
+  "rating": 4.7,
+  "visitDuration": "1 full day",
+  "price": "Free",
+  "tips": [
+    {
+      "en": "Come by AVE train from Madrid (33 minutes) for a day trip",
+      "es": "Ven en tren AVE desde Madrid (33 minutos) para una excursión de un día"
+    },
+    {
+      "en": "Stay overnight to experience Toledo without the day-trip crowds",
+      "es": "Quédate a dormir para experimentar Toledo sin las multitudes de excursionistas"
+    }
+  ]
+}

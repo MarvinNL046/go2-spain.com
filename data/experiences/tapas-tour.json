@@ -1,0 +1,19 @@
+{
+  "slug": "tapas-tour",
+  "name": {
+    "en": "Tapas Tour",
+    "es": "Ruta de Tapas"
+  },
+  "city": "seville",
+  "region": "andalusia",
+  "image": "/images/experiences/tapas-tour.jpg",
+  "description": {
+    "en": "Bar-hop through the atmospheric streets of Seville, sampling small plates and local wines at each stop. From traditional taverns to modern gastrobars, discover why tapas culture is a way of life.",
+    "es": "Ve de bar en bar por las atmosféricas calles de Sevilla, probando pequeños platos y vinos locales en cada parada. Desde tabernas tradicionales hasta gastrobares modernos, descubre por qué la cultura de tapas es una forma de vida."
+  },
+  "category": "food",
+  "duration": "3-4 hours",
+  "price": "€50-80",
+  "difficulty": "easy",
+  "rating": 4.7
+}

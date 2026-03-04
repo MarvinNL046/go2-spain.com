@@ -1,0 +1,19 @@
+{
+  "slug": "ski-sierra-nevada",
+  "name": {
+    "en": "Skiing Sierra Nevada",
+    "es": "Esquí en Sierra Nevada"
+  },
+  "city": "granada",
+  "region": "andalusia",
+  "image": "/images/experiences/ski-sierra-nevada.jpg",
+  "description": {
+    "en": "Hit the slopes at Europe's southernmost ski resort, just 32km from Granada. Ski in the morning, then drive down to the city for tapas in the afternoon — a uniquely Andalusian experience.",
+    "es": "Lánzate a las pistas en la estación de esquí más meridional de Europa, a solo 32km de Granada. Esquía por la mañana, luego baja a la ciudad para tapear por la tarde — una experiencia únicamente andaluza."
+  },
+  "category": "adventure",
+  "duration": "Full day",
+  "price": "€45-60 (lift pass)",
+  "difficulty": "moderate",
+  "rating": 4.3
+}

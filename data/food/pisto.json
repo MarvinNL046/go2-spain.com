@@ -1,0 +1,75 @@
+{
+  "slug": "pisto",
+  "name": { "en": "Pisto Manchego", "es": "Pisto Manchego" },
+  "description": {
+    "en": "Spain's answer to ratatouille — a hearty vegetable stew of tomatoes, peppers, zucchini, and onions slowly cooked in olive oil. Often topped with a fried egg and served with crusty bread.",
+    "es": "La respuesta española al ratatouille — un contundente guiso de verduras con tomates, pimientos, calabacín y cebollas cocinados lentamente en aceite de oliva. A menudo coronado con un huevo frito y servido con pan crujiente."
+  },
+  "enhanced_description": "Pisto manchego is a humble yet deeply satisfying vegetable stew from the sun-baked plains of Castile-La Mancha, where the summer heat produces intensely flavorful tomatoes and peppers. Unlike French ratatouille, where the vegetables are often kept distinct, pisto is cooked slowly until the vegetables meld into a thick, jammy mixture that concentrates their natural sweetness. Crowned with a perfectly fried egg whose runny yolk enriches the sauce, and accompanied by thick slices of rustic bread for scooping, pisto is the very definition of Spanish comfort food -- simple, generous, and deeply rooted in the land.",
+  "region": "castile-la-mancha",
+  "category": "main",
+  "image": "/images/food/pisto.jpg",
+  "preparation_time": "40-50 min",
+  "price_range": "€6-12",
+  "difficulty": "easy",
+  "ingredients": ["Tomatoes", "Green and red peppers", "Zucchini", "Onion", "Garlic", "Extra virgin olive oil", "Salt", "Sugar (pinch)"],
+  "history": {
+    "en": "Pisto has been a staple of La Mancha's rural cooking for centuries, born from the need to make the most of the region's abundant summer vegetables. The dish evolved after tomatoes and peppers arrived from the Americas in the 16th century, transforming the Mediterranean vegetable stew tradition. Pisto became the everyday meal of farmers and shepherds across central Spain -- cheap, nutritious, and made entirely from ingredients that grew in their own gardens. Today it remains a beloved home-cooking classic, often prepared in large batches and eaten over several days.",
+    "es": "El pisto ha sido un básico de la cocina rural manchega durante siglos, nacido de la necesidad de aprovechar al máximo las abundantes verduras de verano de la región. El plato evolucionó después de que tomates y pimientos llegaran de las Américas en el siglo XVI, transformando la tradición mediterránea de guisos de verduras. El pisto se convirtió en la comida diaria de agricultores y pastores de toda la España central -- barato, nutritivo y hecho enteramente con ingredientes que crecían en sus propios huertos. Hoy sigue siendo un querido clásico de la cocina casera, a menudo preparado en grandes cantidades y comido durante varios días."
+  },
+  "where_to_try": [
+    {
+      "name": "Restaurante Adolfo",
+      "city": "Toledo",
+      "description": {
+        "en": "An acclaimed restaurant in Toledo's old quarter serving refined Manchegan cuisine, including an excellent pisto manchego with a perfectly fried egg.",
+        "es": "Un aclamado restaurante en el casco antiguo de Toledo que sirve cocina manchega refinada, incluyendo un excelente pisto manchego con huevo frito perfecto."
+      }
+    },
+    {
+      "name": "Mesón Don Quijote",
+      "city": "Alcázar de San Juan",
+      "description": {
+        "en": "A traditional mesón in the heart of La Mancha country serving authentic regional dishes including their grandmother's pisto recipe.",
+        "es": "Un mesón tradicional en el corazón de La Mancha que sirve platos regionales auténticos incluyendo la receta de pisto de la abuela."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Always order pisto with a fried egg (con huevo frito) -- the runny yolk mixing with the vegetables is essential.",
+      "es": "Siempre pide el pisto con huevo frito -- la yema líquida mezclándose con las verduras es esencial."
+    },
+    {
+      "en": "Pisto is best in summer when tomatoes and peppers are at their peak. The quality of the vegetables makes all the difference.",
+      "es": "El pisto es mejor en verano cuando los tomates y pimientos están en su mejor momento. La calidad de las verduras marca toda la diferencia."
+    },
+    {
+      "en": "Bring plenty of bread to mop up the sauce -- the olive oil and vegetable juices at the bottom of the plate are the best part.",
+      "es": "Lleva mucho pan para mojar en la salsa -- el aceite de oliva y los jugos de las verduras del fondo del plato son la mejor parte."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Pisto with Cod", "es": "Pisto con Bacalao" },
+      "description": {
+        "en": "Pisto topped with flaked salt cod, combining the vegetable stew with Spain's beloved bacalao tradition.",
+        "es": "Pisto cubierto con bacalao desmigado, combinando el guiso de verduras con la querida tradición española del bacalao."
+      }
+    },
+    {
+      "name": { "en": "Samfaina", "es": "Samfaina" },
+      "description": {
+        "en": "The Catalan cousin of pisto, with added eggplant. Often served as a side dish to meat or fish rather than on its own.",
+        "es": "La prima catalana del pisto, con berenjena añadida. A menudo servida como guarnición de carne o pescado en lugar de sola."
+      }
+    },
+    {
+      "name": { "en": "Tumbet", "es": "Tumbet" },
+      "description": {
+        "en": "Mallorca's layered version with sliced potatoes, eggplant, peppers, and tomato sauce, baked in the oven.",
+        "es": "La versión en capas de Mallorca con patatas cortadas, berenjena, pimientos y salsa de tomate, horneado."
+      }
+    }
+  ]
+}

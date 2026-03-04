@@ -1,0 +1,28 @@
+{
+  "slug": "nerja-caves",
+  "name": {
+    "en": "Caves of Nerja",
+    "es": "Cuevas de Nerja"
+  },
+  "city": "nerja",
+  "region": "andalusia",
+  "image": "/images/destinations/nerja-caves.jpg",
+  "description": {
+    "en": "Spectacular prehistoric caves with cathedral-sized chambers, stalactites, and the world's largest stalagmite column. Paleolithic cave paintings date back 42,000 years.",
+    "es": "Espectaculares cuevas prehistóricas con cámaras del tamaño de catedrales, estalactitas y la columna estalagmítica más grande del mundo. Las pinturas rupestres paleolíticas datan de hace 42.000 años."
+  },
+  "category": "nature",
+  "rating": 4.5,
+  "visitDuration": "1-1.5 hours",
+  "price": "€12",
+  "tips": [
+    {
+      "en": "Summer concerts in the cave have exceptional acoustics",
+      "es": "Los conciertos de verano en la cueva tienen una acústica excepcional"
+    },
+    {
+      "en": "Combine with a visit to the Balcón de Europa viewpoint in Nerja",
+      "es": "Combina con una visita al mirador del Balcón de Europa en Nerja"
+    }
+  ]
+}

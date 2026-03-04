@@ -1,0 +1,55 @@
+{
+  "slug": "galicia",
+  "name": { "en": "Galicia", "es": "Galicia" },
+  "description": {
+    "en": "Galicia is Spain's green, misty, Celtic-influenced northwest corner — a world away from the Mediterranean stereotype. This Atlantic region is lashed by ocean storms that feed lush forests, rolling green hills, and dramatic fjord-like inlets (rías). Santiago de Compostela, the endpoint of the Camino de Santiago pilgrimage, is one of Christianity's holiest cities. Galicia's seafood is arguably the finest in Europe, pulled fresh from the cold Atlantic waters. The region shares cultural ties with Portugal, Ireland, and Brittany, visible in its Celtic festivals, bagpipe (gaita) music, and stone-built hórreos (granaries).",
+    "es": "Galicia es el verde y brumoso rincón noroeste de España con influencia celta — un mundo aparte del estereotipo mediterráneo. Esta región atlántica es azotada por tormentas oceánicas que alimentan frondosos bosques, verdes colinas ondulantes y espectaculares entradas marinas similares a fiordos (rías). Santiago de Compostela, punto final del Camino de Santiago, es una de las ciudades más sagradas del cristianismo. El marisco de Galicia es posiblemente el mejor de Europa, extraído fresco de las frías aguas atlánticas. La región comparte vínculos culturales con Portugal, Irlanda y Bretaña, visibles en sus festivales celtas, música de gaita y hórreos de piedra."
+  },
+  "geography": {
+    "en": "Galicia's coast is indented by rías — deep coastal inlets similar to fjords. The Rías Baixas in the south are warmer and home to Galicia's famous beaches, while the Rías Altas in the north are wilder and more remote. The interior is mountainous and heavily forested, with the highest peaks in the Sierra de Ancares.",
+    "es": "La costa de Galicia está recortada por rías — profundas entradas costeras similares a fiordos. Las Rías Baixas en el sur son más cálidas y albergan las famosas playas de Galicia, mientras que las Rías Altas en el norte son más salvajes y remotas. El interior es montañoso y muy boscoso, con los picos más altos en la Sierra de los Ancares."
+  },
+  "culture": {
+    "en": "Galician culture has strong Celtic roots, evident in the gaita (bagpipe) music played at romances and festivals, stone Celtic crosses (cruceiros), and summer bonfires (San Juan). The Galician language (galego) is closely related to Portuguese. Santiago de Compostela's pilgrimage has been a defining cultural force for over a thousand years.",
+    "es": "La cultura gallega tiene fuertes raíces celtas, evidentes en la música de gaita tocada en romances y fiestas, las cruces celtas de piedra (cruceiros) y las hogueras veraniegas (San Juan). La lengua gallega (galego) está estrechamente emparentada con el portugués. La peregrinación a Santiago de Compostela ha sido una fuerza cultural definitoria durante más de mil años."
+  },
+  "cuisine": {
+    "en": "Galicia is a seafood paradise. Percebes (goose barnacles), pulpo á feira (octopus), zamburiñas (scallops), and navajas (razor clams) are prized. Empanada gallega (savory pie), caldo gallego (vegetable and white bean soup), and tetilla cheese are inland staples. Albariño, the crisp white wine from the Rías Baixas, is the perfect accompaniment.",
+    "es": "Galicia es un paraíso de marisco. Percebes, pulpo á feira, zamburiñas y navajas son muy preciados. La empanada gallega, el caldo gallego (sopa de verduras y alubias blancas) y el queso tetilla son básicos del interior. El Albariño, el fresco vino blanco de las Rías Baixas, es el acompañamiento perfecto."
+  },
+  "climate": {
+    "en": "Oceanic climate with mild temperatures but frequent rainfall — Galicia is Spain's wettest region. Summers are pleasantly warm (18-25°C) with longer dry spells. Winters are cool (5-12°C) and rainy. The mist and rain give Galicia its characteristic lush green landscape.",
+    "es": "Clima oceánico con temperaturas suaves pero lluvias frecuentes — Galicia es la región más lluviosa de España. Los veranos son agradablemente cálidos (18-25°C) con períodos secos más largos. Los inviernos son frescos (5-12°C) y lluviosos. La niebla y la lluvia dan a Galicia su característico paisaje verde y exuberante."
+  },
+  "highlights": [
+    {
+      "title": { "en": "Santiago de Compostela", "es": "Santiago de Compostela" },
+      "description": { "en": "The magnificent cathedral that marks the end of the Camino de Santiago, surrounded by a beautifully preserved medieval old town that's a UNESCO World Heritage Site.", "es": "La magnífica catedral que marca el final del Camino de Santiago, rodeada de un casco antiguo medieval bellamente conservado que es Patrimonio de la Humanidad." }
+    },
+    {
+      "title": { "en": "Rías Baixas", "es": "Rías Baixas" },
+      "description": { "en": "Beautiful coastal inlets with sandy beaches, seafood restaurants, and the Islas Cíes — a pristine island archipelago often called the 'Caribbean of Galicia.'", "es": "Hermosas rías costeras con playas de arena, restaurantes de marisco y las Islas Cíes — un prístino archipiélago a menudo llamado el 'Caribe de Galicia.'" }
+    },
+    {
+      "title": { "en": "Tower of Hercules", "es": "Torre de Hércules" },
+      "description": { "en": "The world's oldest working lighthouse, built by the Romans in A Coruña. A UNESCO World Heritage Site offering panoramic Atlantic views.", "es": "El faro en funcionamiento más antiguo del mundo, construido por los romanos en A Coruña. Patrimonio de la Humanidad con vistas panorámicas al Atlántico." }
+    }
+  ],
+  "travelTips": [
+    {
+      "title": { "en": "Pack Layers and Rain Gear", "es": "Lleva Capas y Ropa Impermeable" },
+      "description": { "en": "Galicia's weather changes quickly. Even in summer, bring a rain jacket and layers. The locals say 'if you don't like the weather, wait five minutes.'", "es": "El tiempo en Galicia cambia rápidamente. Incluso en verano, lleva chubasquero y capas. Los locales dicen 'si no te gusta el tiempo, espera cinco minutos.'" }
+    },
+    {
+      "title": { "en": "Eat Seafood by the Coast", "es": "Come Marisco en la Costa" },
+      "description": { "en": "Galicia's seafood is freshest at coastal towns. Visit a seafood market or a pulpería (octopus restaurant) for the most authentic experience.", "es": "El marisco de Galicia está más fresco en los pueblos costeros. Visita un mercado de marisco o una pulpería para la experiencia más auténtica." }
+    },
+    {
+      "title": { "en": "Walk the Camino", "es": "Haz el Camino" },
+      "description": { "en": "Even if you can't walk the full Camino de Santiago, the last 100km from Sarria qualifies for the Compostela certificate and takes about 5-6 days.", "es": "Aunque no puedas hacer el Camino de Santiago completo, los últimos 100km desde Sarria dan derecho a la Compostela y se hacen en unos 5-6 días." }
+    }
+  ],
+  "popularCities": [],
+  "image": "/images/regions/galicia.jpg",
+  "gallery": ["/images/regions/galicia-1.jpg", "/images/regions/galicia-2.jpg", "/images/regions/galicia-3.jpg"]
+}

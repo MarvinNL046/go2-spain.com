@@ -1,0 +1,54 @@
+{
+  "slug": "tinto-de-verano",
+  "name": { "en": "Tinto de Verano", "es": "Tinto de Verano" },
+  "description": {
+    "en": "Literally 'summer red wine' — a simple, refreshing mix of red wine and lemon soda (or Casera). What locals actually drink in summer instead of sangria. Cheaper, simpler, and just as refreshing.",
+    "es": "Literalmente 'vino tinto de verano' — una mezcla sencilla y refrescante de vino tinto y gaseosa de limón (o Casera). Lo que los locales realmente beben en verano en lugar de sangría. Más barato, más sencillo e igual de refrescante."
+  },
+  "enhanced_description": "Tinto de verano is Spain's true summer drink -- the unpretentious, everyday refreshment that Spaniards actually reach for when the temperature climbs, in stark contrast to the tourist-targeted sangria. This brilliantly simple concoction mixes equal parts of inexpensive red wine with lemon-flavored soda (La Casera being the classic choice) or plain sparkling lemonade, served over plenty of ice. The result is a light, fizzy, and refreshing drink that costs next to nothing, requires zero preparation, and is available at every bar, beach chiringuito, and corner shop in Spain. It is the democratic king of Spanish summer drinks -- uncomplicated, universally loved, and utterly unpretentious.",
+  "region": "national",
+  "category": "cocktail",
+  "alcoholic": true,
+  "image": "/images/drinks/tinto-de-verano.jpg",
+  "price_range": "€1.50-3.50 per glass",
+  "history": {
+    "en": "Tinto de verano has been a staple of Spanish summers for generations, though its exact origins are informal and undocumented -- it was simply what people did with cheap wine on hot days. One popular origin story attributes it to Federico, the owner of a bar called El Brillante in Córdoba in the 1920s, who began mixing red wine with Casera soda to create a refreshing summer drink. Whether or not this is the true origin, the drink became ubiquitous across Spain by the mid-20th century. Unlike sangria, which requires preparation and is made in batches, tinto de verano is mixed on the spot in seconds, making it the perfect no-fuss bar drink.",
+    "es": "El tinto de verano ha sido un básico de los veranos españoles durante generaciones, aunque sus orígenes exactos son informales y no están documentados -- era simplemente lo que la gente hacía con el vino barato en días calurosos. Una historia de origen popular lo atribuye a Federico, el propietario de un bar llamado El Brillante en Córdoba en los años 20, que comenzó a mezclar vino tinto con gaseosa Casera para crear una bebida refrescante de verano. Sea o no el verdadero origen, la bebida se hizo ubicua en toda España para mediados del siglo XX. A diferencia de la sangría, que requiere preparación y se hace en tandas, el tinto de verano se mezcla al momento en segundos, haciéndolo la bebida de bar perfecta sin complicaciones."
+  },
+  "how_to_enjoy": {
+    "en": "Order a tinto de verano at any bar during the warm months. It arrives in a tall glass filled with ice, half red wine and half lemon soda. Some bars offer the option of 'con limón' (lemon soda) or 'con Casera' (a specific Spanish sparkling lemonade brand). Drink it cold and fast before the ice melts and dilutes it. It pairs perfectly with any tapas, from olives and almonds to fried fish and croquetas.",
+    "es": "Pide un tinto de verano en cualquier bar durante los meses cálidos. Llega en un vaso alto lleno de hielo, mitad vino tinto y mitad gaseosa de limón. Algunos bares ofrecen la opción de 'con limón' (gaseosa de limón) o 'con Casera' (una marca específica de gaseosa española). Bébelo frío y rápido antes de que el hielo se derrita y lo diluya. Marida perfectamente con cualquier tapa, desde aceitunas y almendras hasta pescado frito y croquetas."
+  },
+  "where_to_try": [
+    {
+      "name": "Any chiringuito (beach bar)",
+      "city": "Coastal Spain",
+      "description": {
+        "en": "The natural habitat of tinto de verano is a beach bar with your feet in the sand. Order one at any chiringuito along the Mediterranean or Atlantic coast.",
+        "es": "El hábitat natural del tinto de verano es un chiringuito con los pies en la arena. Pide uno en cualquier chiringuito a lo largo de la costa mediterránea o atlántica."
+      }
+    },
+    {
+      "name": "Any neighborhood bar",
+      "city": "Nationwide",
+      "description": {
+        "en": "Walk into literally any bar in Spain during summer and order a tinto de verano. No special venue needed -- that's the whole point.",
+        "es": "Entra literalmente en cualquier bar de España durante el verano y pide un tinto de verano. No se necesita un lugar especial -- esa es precisamente la gracia."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "This is what Spaniards actually drink in summer. Order a tinto de verano instead of sangria and you'll instantly blend in with the locals.",
+      "es": "Esto es lo que los españoles realmente beben en verano. Pide un tinto de verano en vez de sangría e instantáneamente te mezclarás con los locales."
+    },
+    {
+      "en": "It's incredibly cheap -- usually €1.50-2.50 in a regular bar. If you're paying more than €4, you're in a tourist trap.",
+      "es": "Es increíblemente barato -- generalmente 1,50€-2,50€ en un bar normal. Si pagas más de 4€, estás en una trampa turística."
+    },
+    {
+      "en": "Ask for 'con Casera' for the most traditional version, or 'con limón' for a sweeter, more citrusy taste with lemon Fanta or similar.",
+      "es": "Pide 'con Casera' para la versión más tradicional, o 'con limón' para un sabor más dulce y cítrico con Fanta de limón o similar."
+    }
+  ]
+}

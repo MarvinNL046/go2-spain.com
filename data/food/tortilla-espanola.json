@@ -1,0 +1,83 @@
+{
+  "slug": "tortilla-espanola",
+  "name": { "en": "Spanish Omelette", "es": "Tortilla Española" },
+  "description": {
+    "en": "A thick, round omelette made with eggs, potatoes, and optionally onion. Served as a tapa, light meal, or sandwich filling, it's the most democratic dish in Spain — every bar and home has its own recipe.",
+    "es": "Una tortilla gruesa y redonda hecha con huevos, patatas y opcionalmente cebolla. Servida como tapa, comida ligera o relleno de bocadillo, es el plato más democrático de España — cada bar y hogar tiene su propia receta."
+  },
+  "enhanced_description": "The tortilla española is Spain's most ubiquitous dish, found in every bar, cafe, and kitchen across the country at any hour of the day. This deceptively simple creation of eggs and potatoes slowly cooked in olive oil has sparked one of Spain's most passionate culinary debates: whether it should include onion (con cebolla) or not (sin cebolla). The perfect tortilla has a golden exterior and a slightly creamy, custardy interior -- a texture the Spanish call 'jugosa' -- and mastering this balance is considered a mark of a true Spanish cook.",
+  "region": "national",
+  "category": "main",
+  "image": "/images/food/tortilla-espanola.jpg",
+  "preparation_time": "30-40 min",
+  "price_range": "€3-8",
+  "difficulty": "intermediate",
+  "ingredients": ["Eggs", "Potatoes", "Olive oil", "Salt", "Onion (optional)"],
+  "history": {
+    "en": "The exact origins of the tortilla española are debated, but it is generally believed to have emerged in the early 19th century in Navarre or Extremadura. One legend credits a Carlist war general's wife who invented it as an economical way to feed soldiers. The dish became widespread because its ingredients were cheap and available everywhere. By the 20th century, the tortilla had become Spain's national dish, equally at home in humble workers' bars and elegant restaurants. The con cebolla vs. sin cebolla debate continues to divide the nation.",
+    "es": "Los orígenes exactos de la tortilla española son debatidos, pero generalmente se cree que surgió a principios del siglo XIX en Navarra o Extremadura. Una leyenda atribuye a la esposa de un general de las guerras carlistas haberla inventado como forma económica de alimentar a los soldados. El plato se extendió porque sus ingredientes eran baratos y estaban disponibles en todas partes. Para el siglo XX, la tortilla se había convertido en el plato nacional de España, igual de cómoda en humildes bares de trabajadores que en elegantes restaurantes. El debate con cebolla vs. sin cebolla sigue dividiendo a la nación."
+  },
+  "where_to_try": [
+    {
+      "name": "Casa Dani",
+      "city": "Madrid",
+      "description": {
+        "en": "Located in the Mercado de la Paz, this unassuming stall is widely considered to serve the best tortilla in Madrid -- famously creamy and slightly runny in the center.",
+        "es": "Ubicado en el Mercado de la Paz, este modesto puesto es ampliamente considerado como el que sirve la mejor tortilla de Madrid -- famosamente cremosa y ligeramente líquida en el centro."
+      }
+    },
+    {
+      "name": "Betlem Gastro Bar",
+      "city": "Barcelona",
+      "description": {
+        "en": "A modern tapas bar in the Gothic Quarter known for its award-winning tortilla with a perfectly juicy interior.",
+        "es": "Un moderno bar de tapas en el Barrio Gótico conocido por su galardonada tortilla con un interior perfectamente jugoso."
+      }
+    },
+    {
+      "name": "Bar Nestor",
+      "city": "San Sebastián",
+      "description": {
+        "en": "This legendary pintxo bar makes only two tortillas per day -- one at 1 PM and one at 8 PM. Arrive early to claim a slice of what many consider Basque Country's best.",
+        "es": "Este legendario bar de pintxos hace solo dos tortillas al día -- una a las 13:00 y otra a las 20:00. Llega temprano para conseguir una porción de lo que muchos consideran la mejor del País Vasco."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "The great debate: con cebolla (with onion) or sin cebolla (without). Try both and take a side -- Spaniards love discussing this.",
+      "es": "El gran debate: con cebolla o sin cebolla. Prueba ambas y posiciónate -- a los españoles les encanta discutir sobre esto."
+    },
+    {
+      "en": "A good tortilla should be slightly runny (jugosa) in the middle, not dry and overcooked. If you see the cook flip it confidently onto a plate, you're in good hands.",
+      "es": "Una buena tortilla debe estar ligeramente líquida (jugosa) en el centro, no seca y pasada. Si ves al cocinero darle la vuelta con confianza sobre un plato, estás en buenas manos."
+    },
+    {
+      "en": "Tortilla is the perfect portable food. Ask for a 'pincho de tortilla' (slice) as a tapa or a 'bocadillo de tortilla' (tortilla sandwich) for a quick lunch.",
+      "es": "La tortilla es la comida portátil perfecta. Pide un 'pincho de tortilla' como tapa o un 'bocadillo de tortilla' para un almuerzo rápido."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Tortilla with Onion", "es": "Tortilla con Cebolla" },
+      "description": {
+        "en": "The onion is slowly caramelized with the potatoes, adding sweetness and depth. The most popular version in most of Spain.",
+        "es": "La cebolla se carameliza lentamente con las patatas, añadiendo dulzura y profundidad. La versión más popular en la mayor parte de España."
+      }
+    },
+    {
+      "name": { "en": "Tortilla de Betanzos", "es": "Tortilla de Betanzos" },
+      "description": {
+        "en": "The famous version from the Galician town of Betanzos, extremely runny and creamy in the center, made without onion.",
+        "es": "La famosa versión del pueblo gallego de Betanzos, extremadamente líquida y cremosa en el centro, hecha sin cebolla."
+      }
+    },
+    {
+      "name": { "en": "Tortilla Paisana", "es": "Tortilla Paisana" },
+      "description": {
+        "en": "A rustic version with added peppers, chorizo, peas, or other vegetables mixed into the egg and potato base.",
+        "es": "Una versión rústica con pimientos, chorizo, guisantes u otras verduras añadidas a la base de huevo y patata."
+      }
+    }
+  ]
+}

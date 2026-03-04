@@ -1,0 +1,28 @@
+{
+  "slug": "ibiza-old-town",
+  "name": {
+    "en": "Ibiza Old Town (Dalt Vila)",
+    "es": "Casco Antiguo de Ibiza (Dalt Vila)"
+  },
+  "city": "ibiza",
+  "region": "balearic-islands",
+  "image": "/images/destinations/ibiza-old-town.jpg",
+  "description": {
+    "en": "A UNESCO World Heritage fortified hilltop town with Renaissance walls, narrow cobblestone streets, a cathedral, and panoramic views of the harbor and the Mediterranean.",
+    "es": "Un pueblo fortificado en una colina declarado Patrimonio de la Humanidad con murallas renacentistas, estrechas calles empedradas, una catedral y vistas panorámicas del puerto y el Mediterráneo."
+  },
+  "category": "historic-quarter",
+  "rating": 4.5,
+  "visitDuration": "2-3 hours",
+  "price": "Free",
+  "tips": [
+    {
+      "en": "Walk up through the Portal de Ses Taules entrance gate",
+      "es": "Sube por la puerta de entrada del Portal de Ses Taules"
+    },
+    {
+      "en": "Visit at sunset for magical light over the harbor",
+      "es": "Visita al atardecer para una luz mágica sobre el puerto"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "malaga",
+  "name": { "en": "Málaga", "es": "Málaga" },
+  "region": "andalusia",
+  "province": "Málaga",
+  "population": 578000,
+  "elevation": 11,
+  "image": "/images/cities/malaga.jpg",
+  "gallery": ["/images/cities/malaga-1.jpg", "/images/cities/malaga-2.jpg", "/images/cities/malaga-3.jpg"],
+  "description": {
+    "en": "Málaga has emerged from the shadow of the Costa del Sol package-holiday reputation to become one of Spain's most exciting cultural destinations. Picasso's birthplace now boasts over 40 museums, including the Picasso Museum, Centre Pompidou Málaga, and the Carmen Thyssen Museum. The historic center, anchored by the Moorish Alcazaba fortress and the unfinished Renaissance cathedral (affectionately nicknamed 'La Manquita' — the one-armed lady), buzzes with stylish bars, rooftop terraces, and innovative restaurants.",
+    "es": "Málaga ha emergido de la sombra de la reputación turística de la Costa del Sol para convertirse en uno de los destinos culturales más emocionantes de España. La ciudad natal de Picasso cuenta ahora con más de 40 museos, incluidos el Museo Picasso, el Centre Pompidou Málaga y el Museo Carmen Thyssen. El centro histórico, anclado por la fortaleza morisca de la Alcazaba y la inacabada catedral renacentista (cariñosamente apodada 'La Manquita'), bulle con bares elegantes, terrazas en azoteas y restaurantes innovadores."
+  },
+  "highlights": [
+    { "en": "Picasso Museum", "es": "Museo Picasso Málaga" },
+    { "en": "The Alcazaba & Gibralfaro Castle", "es": "La Alcazaba y el Castillo de Gibralfaro" },
+    { "en": "Málaga Cathedral (La Manquita)", "es": "Catedral de Málaga (La Manquita)" },
+    { "en": "Centre Pompidou Málaga", "es": "Centre Pompidou Málaga" },
+    { "en": "Malagueta Beach", "es": "Playa de la Malagueta" }
+  ],
+  "bestTimeToVisit": {
+    "en": "Málaga enjoys over 300 days of sunshine a year. Spring (April-June) and autumn (September-November) are ideal. Summer is very hot but perfect for beach-goers. Even winter is mild, with temperatures rarely dropping below 10°C.",
+    "es": "Málaga disfruta de más de 300 días de sol al año. La primavera (abril-junio) y el otoño (septiembre-noviembre) son ideales. El verano es muy caluroso pero perfecto para los amantes de la playa. Incluso el invierno es suave, con temperaturas que raramente bajan de 10°C."
+  },
+  "gettingAround": {
+    "en": "Málaga's compact historic center is easily walkable. A two-line metro connects the city center with western neighborhoods and the university. Buses cover the wider area, and a suburban train (Cercanías) runs along the coast to Fuengirola. The airport is just 8km from the center.",
+    "es": "El compacto centro histórico de Málaga se recorre fácilmente a pie. Un metro de dos líneas conecta el centro con los barrios occidentales y la universidad. Los autobuses cubren el área más amplia, y un tren de cercanías recorre la costa hasta Fuengirola. El aeropuerto está a solo 8km del centro."
+  },
+  "neighborhoods": [
+    {
+      "name": { "en": "Centro Histórico", "es": "Centro Histórico" },
+      "description": {
+        "en": "The pedestrianized heart of Málaga with the Cathedral, Picasso Museum, and Calle Larios shopping street. Marble-paved streets lined with orange trees and tapas bars.",
+        "es": "El corazón peatonalizado de Málaga con la Catedral, el Museo Picasso y la calle comercial Larios. Calles pavimentadas de mármol bordeadas de naranjos y bares de tapas."
+      },
+      "vibe": { "en": "Cultural heart with museums and dining", "es": "Corazón cultural con museos y gastronomía" }
+    },
+    {
+      "name": { "en": "Soho (Arts District)", "es": "Soho (Barrio de las Artes)" },
+      "description": {
+        "en": "Málaga's creative quarter south of the river, with large-scale street murals, contemporary galleries including the Centre Pompidou, and trendy bars and restaurants.",
+        "es": "El barrio creativo de Málaga al sur del río, con murales callejeros a gran escala, galerías contemporáneas incluyendo el Centre Pompidou, y bares y restaurantes de moda."
+      },
+      "vibe": { "en": "Street art, contemporary culture, and nightlife", "es": "Arte callejero, cultura contemporánea y vida nocturna" }
+    },
+    {
+      "name": { "en": "El Palo / Pedregalejo", "es": "El Palo / Pedregalejo" },
+      "description": {
+        "en": "A former fishing village east of the center, now beloved for its beachfront chiringuitos (beach bars) where sardines are grilled on boat-shaped barbecues right on the sand.",
+        "es": "Un antiguo pueblo pesquero al este del centro, ahora querido por sus chiringuitos frente al mar donde las sardinas se asan en barbacoas con forma de barca directamente sobre la arena."
+      },
+      "vibe": { "en": "Laid-back beach life with fresh grilled sardines", "es": "Vida playera relajada con sardinas frescas a la brasa" }
+    }
+  ],
+  "localFood": [
+    {
+      "name": { "en": "Espetos de Sardinas", "es": "Espetos de Sardinas" },
+      "description": {
+        "en": "Sardines skewered on bamboo sticks and grilled over an open fire on the beach — Málaga's most iconic culinary image. Best enjoyed at chiringuitos in Pedregalejo or El Palo.",
+        "es": "Sardinas ensartadas en cañas de bambú y asadas a la brasa en la playa — la imagen culinaria más icónica de Málaga. Mejor disfrutadas en chiringuitos de Pedregalejo o El Palo."
+      }
+    },
+    {
+      "name": { "en": "Ajoblanco", "es": "Ajoblanco" },
+      "description": {
+        "en": "A cold almond and garlic soup, the ancient predecessor of gazpacho. Served with grapes or melon, this refreshing white soup dates back to Moorish times.",
+        "es": "Una sopa fría de almendras y ajo, el antiguo predecesor del gazpacho. Servida con uvas o melón, esta refrescante sopa blanca se remonta a tiempos moriscos."
+      }
+    },
+    {
+      "name": { "en": "Fritura Malagueña", "es": "Fritura Malagueña" },
+      "description": {
+        "en": "A mixed platter of lightly battered and fried small fish and seafood. The art is in the crispy, greaseless coating — Málaga's frying tradition is renowned throughout Spain.",
+        "es": "Un surtido de pescaditos y mariscos ligeramente rebozados y fritos. El arte está en el rebozado crujiente y sin grasa — la tradición fritura de Málaga es reconocida en toda España."
+      }
+    },
+    {
+      "name": { "en": "Porra Antequerana", "es": "Porra Antequerana" },
+      "description": {
+        "en": "A thick cold tomato soup from nearby Antequera, similar to salmorejo but even thicker. Topped with tuna, egg, and olives. A summer staple throughout Málaga province.",
+        "es": "Una espesa sopa fría de tomate de la cercana Antequera, similar al salmorejo pero aún más espesa. Coronada con atún, huevo y aceitunas. Un básico de verano en toda la provincia de Málaga."
+      }
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": { "en": "Caminito del Rey", "es": "Caminito del Rey" },
+      "description": {
+        "en": "A spectacular walkway pinned along the sheer walls of the Gaitanes Gorge. Once the world's most dangerous path, it was renovated and reopened in 2015 as a thrilling but safe hike.",
+        "es": "Un espectacular sendero sujeto a las paredes verticales del Desfiladero de los Gaitanes. Antaño el sendero más peligroso del mundo, fue renovado y reabierto en 2015 como una emocionante pero segura caminata."
+      },
+      "distance": "60km"
+    },
+    {
+      "name": { "en": "Nerja & Frigiliana", "es": "Nerja y Frigiliana" },
+      "description": {
+        "en": "Nerja's famous Balcón de Europa viewpoint and prehistoric caves, paired with the dazzling whitewashed village of Frigiliana perched in the mountains above.",
+        "es": "El famoso Balcón de Europa de Nerja y sus cuevas prehistóricas, combinados con el deslumbrante pueblo encalado de Frigiliana encaramado en las montañas."
+      },
+      "distance": "55km"
+    },
+    {
+      "name": { "en": "Ronda", "es": "Ronda" },
+      "description": {
+        "en": "The dramatic mountaintop town bisected by the 120-meter El Tajo gorge, crossed by the iconic Puente Nuevo. Birthplace of modern bullfighting.",
+        "es": "El espectacular pueblo en lo alto de una montaña dividido por el tajo de 120 metros, cruzado por el icónico Puente Nuevo. Cuna de la tauromaquia moderna."
+      },
+      "distance": "100km"
+    },
+    {
+      "name": { "en": "Antequera", "es": "Antequera" },
+      "description": {
+        "en": "A monumental town with UNESCO-listed dolmens dating back 5,000 years, a Moorish castle, and the surreal El Torcal limestone landscape nearby.",
+        "es": "Una ciudad monumental con dólmenes declarados Patrimonio de la Humanidad de 5.000 años de antigüedad, un castillo morisco y el surrealista paisaje de piedra caliza de El Torcal."
+      },
+      "distance": "55km"
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€35-50/day", "es": "35-50€/día" },
+    "midRange": { "en": "€80-150/day", "es": "80-150€/día" },
+    "luxury": { "en": "€250+/day", "es": "250+€/día" }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "alhambra",
+  "name": {
+    "en": "The Alhambra",
+    "es": "La Alhambra"
+  },
+  "city": "granada",
+  "region": "andalusia",
+  "image": "/images/destinations/alhambra.jpg",
+  "description": {
+    "en": "A breathtaking Moorish palace and fortress complex with intricate Islamic geometric carvings, serene courtyards, and the lush Generalife gardens overlooking Granada.",
+    "es": "Un impresionante complejo palaciego y fortaleza morisca con intrincadas tallas geométricas islámicas, serenos patios y los exuberantes jardines del Generalife con vistas a Granada."
+  },
+  "category": "monument",
+  "rating": 4.9,
+  "visitDuration": "3-4 hours",
+  "price": "€14",
+  "tips": [
+    {
+      "en": "Book tickets at least 2-3 months in advance — they sell out quickly",
+      "es": "Reserva entradas al menos 2-3 meses antes — se agotan rápidamente"
+    },
+    {
+      "en": "Visit the Nasrid Palaces at your assigned time slot",
+      "es": "Visita los Palacios Nazaríes en tu franja horaria asignada"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "camino-de-santiago",
+  "name": {
+    "en": "Camino de Santiago",
+    "es": "Camino de Santiago"
+  },
+  "city": "multiple",
+  "region": "multiple",
+  "image": "/images/destinations/camino-de-santiago.jpg",
+  "description": {
+    "en": "One of the world's most famous pilgrimage routes, with multiple paths converging on Santiago de Compostela. The French Way (Camino Francés) from Saint-Jean-Pied-de-Port is the most popular (780km).",
+    "es": "Una de las rutas de peregrinación más famosas del mundo, con múltiples caminos convergiendo en Santiago de Compostela. El Camino Francés desde Saint-Jean-Pied-de-Port es el más popular (780km)."
+  },
+  "category": "trail",
+  "rating": 4.9,
+  "visitDuration": "5-35 days",
+  "price": "€25-50/day",
+  "tips": [
+    {
+      "en": "Walk at least the last 100km from Sarria to earn the Compostela certificate",
+      "es": "Camina al menos los últimos 100km desde Sarria para obtener la Compostela"
+    },
+    {
+      "en": "Spring (April-June) and autumn (September-October) are the best seasons",
+      "es": "La primavera (abril-junio) y el otoño (septiembre-octubre) son las mejores estaciones"
+    }
+  ]
+}

@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "slug": "mallorca",
+    "name": { "en": "Mallorca", "es": "Mallorca" },
+    "archipelago": "Balearic Islands",
+    "image": "/images/islands/mallorca.jpg",
+    "description": {
+      "en": "The largest Balearic island offers far more than beach resorts — a dramatic mountainous interior, charming stone villages, hidden coves with turquoise water, and the elegant capital Palma with its stunning Gothic cathedral.",
+      "es": "La isla balear más grande ofrece mucho más que complejos turísticos de playa — un espectacular interior montañoso, encantadores pueblos de piedra, calas escondidas con aguas turquesas y la elegante capital Palma con su impresionante catedral gótica."
+    },
+    "highlights": [
+      { "en": "Serra de Tramuntana mountains", "es": "Sierra de Tramuntana" },
+      { "en": "Palma Cathedral (La Seu)", "es": "Catedral de Palma (La Seu)" },
+      { "en": "Hidden coves and crystal-clear waters", "es": "Calas escondidas y aguas cristalinas" }
+    ]
+  },
+  {
+    "slug": "ibiza",
+    "name": { "en": "Ibiza", "es": "Ibiza" },
+    "archipelago": "Balearic Islands",
+    "image": "/images/islands/ibiza.jpg",
+    "description": {
+      "en": "World-famous for its legendary nightlife and superclub scene, Ibiza also has a quieter side — a UNESCO-listed old town (Dalt Vila), beautiful beaches, yoga retreats, and a bohemian spirit that has attracted artists since the 1960s.",
+      "es": "Mundialmente famosa por su legendaria vida nocturna y sus superclubes, Ibiza también tiene un lado más tranquilo — un casco antiguo declarado Patrimonio de la Humanidad (Dalt Vila), hermosas playas, retiros de yoga y un espíritu bohemio que ha atraído artistas desde los años 60."
+    },
+    "highlights": [
+      { "en": "Dalt Vila (UNESCO Old Town)", "es": "Dalt Vila (Casco Antiguo UNESCO)" },
+      { "en": "World-famous nightclubs", "es": "Discotecas de fama mundial" },
+      { "en": "Sunset at Café del Mar", "es": "Atardecer en Café del Mar" }
+    ]
+  },
+  {
+    "slug": "tenerife",
+    "name": { "en": "Tenerife", "es": "Tenerife" },
+    "archipelago": "Canary Islands",
+    "image": "/images/islands/tenerife.jpg",
+    "description": {
+      "en": "The largest Canary Island is dominated by Mount Teide, Spain's highest peak at 3,718 meters. From volcanic moonscapes to lush laurel forests and year-round sunshine, Tenerife offers extraordinary natural diversity.",
+      "es": "La isla canaria más grande está dominada por el Monte Teide, el pico más alto de España con 3.718 metros. Desde paisajes volcánicos lunares hasta exuberantes bosques de laurisilva y sol todo el año, Tenerife ofrece una extraordinaria diversidad natural."
+    },
+    "highlights": [
+      { "en": "Mount Teide National Park", "es": "Parque Nacional del Teide" },
+      { "en": "Anaga Rural Park laurel forests", "es": "Bosques de laurisilva del Parque Rural de Anaga" },
+      { "en": "Whale and dolphin watching", "es": "Avistamiento de ballenas y delfines" }
+    ]
+  },
+  {
+    "slug": "gran-canaria",
+    "name": { "en": "Gran Canaria", "es": "Gran Canaria" },
+    "archipelago": "Canary Islands",
+    "image": "/images/islands/gran-canaria.jpg",
+    "description": {
+      "en": "Known as a 'miniature continent' for its astonishing variety of landscapes — from the Sahara-like sand dunes of Maspalomas to lush pine forests and dramatic volcanic calderas in the mountainous interior.",
+      "es": "Conocida como un 'continente en miniatura' por su asombrosa variedad de paisajes — desde las dunas de arena tipo Sáhara de Maspalomas hasta los exuberantes bosques de pinos y espectaculares calderas volcánicas en el montañoso interior."
+    },
+    "highlights": [
+      { "en": "Maspalomas Sand Dunes", "es": "Dunas de Maspalomas" },
+      { "en": "Roque Nublo", "es": "Roque Nublo" },
+      { "en": "Vegueta historic quarter in Las Palmas", "es": "Barrio histórico de Vegueta en Las Palmas" }
+    ]
+  },
+  {
+    "slug": "lanzarote",
+    "name": { "en": "Lanzarote", "es": "Lanzarote" },
+    "archipelago": "Canary Islands",
+    "image": "/images/islands/lanzarote.jpg",
+    "description": {
+      "en": "A UNESCO Biosphere Reserve with an otherworldly volcanic landscape shaped by 18th-century eruptions. Artist César Manrique integrated architecture with nature, creating unique attractions that define the island's identity.",
+      "es": "Reserva de la Biosfera de la UNESCO con un paisaje volcánico de otro mundo formado por erupciones del siglo XVIII. El artista César Manrique integró la arquitectura con la naturaleza, creando atracciones únicas que definen la identidad de la isla."
+    },
+    "highlights": [
+      { "en": "Timanfaya National Park", "es": "Parque Nacional de Timanfaya" },
+      { "en": "César Manrique's creations", "es": "Las creaciones de César Manrique" },
+      { "en": "La Geria wine region", "es": "Región vinícola de La Geria" }
+    ]
+  },
+  {
+    "slug": "menorca",
+    "name": { "en": "Menorca", "es": "Menorca" },
+    "archipelago": "Balearic Islands",
+    "image": "/images/islands/menorca.jpg",
+    "description": {
+      "en": "The quieter, more unspoiled Balearic island, designated a UNESCO Biosphere Reserve. Menorca boasts pristine beaches, prehistoric Talayotic stone monuments, and a relaxed pace that attracts those seeking tranquility over tourism.",
+      "es": "La isla balear más tranquila y virgen, designada Reserva de la Biosfera por la UNESCO. Menorca presume de playas prístinas, monumentos prehistóricos talayóticos de piedra y un ritmo relajado que atrae a quienes buscan tranquilidad por encima del turismo."
+    },
+    "highlights": [
+      { "en": "Cala Macarella & Macarelleta beaches", "es": "Playas de Cala Macarella y Macarelleta" },
+      { "en": "Talayotic stone monuments", "es": "Monumentos talayóticos de piedra" },
+      { "en": "Camí de Cavalls coastal trail", "es": "Camí de Cavalls (sendero costero)" }
+    ]
+  }
+]

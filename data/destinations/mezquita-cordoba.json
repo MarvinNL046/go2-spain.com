@@ -1,0 +1,28 @@
+{
+  "slug": "mezquita-cordoba",
+  "name": {
+    "en": "Mosque-Cathedral of Córdoba",
+    "es": "Mezquita-Catedral de Córdoba"
+  },
+  "city": "cordoba",
+  "region": "andalusia",
+  "image": "/images/destinations/mezquita-cordoba.jpg",
+  "description": {
+    "en": "An architectural wonder with 856 red-and-white striped double arches creating a mesmerizing forest of columns. Originally a mosque, a Renaissance cathedral was controversially built in its center.",
+    "es": "Una maravilla arquitectónica con 856 arcos dobles de rayas rojas y blancas creando un hipnótico bosque de columnas. Originalmente una mezquita, una catedral renacentista fue construida controversialmente en su centro."
+  },
+  "category": "monument",
+  "rating": 4.8,
+  "visitDuration": "1.5-2 hours",
+  "price": "€11",
+  "tips": [
+    {
+      "en": "Free entry Monday-Saturday 8:30-9:30am",
+      "es": "Entrada gratuita de lunes a sábado de 8:30 a 9:30"
+    },
+    {
+      "en": "The Patio de los Naranjos courtyard is beautiful and free to visit",
+      "es": "El Patio de los Naranjos es hermoso y de visita gratuita"
+    }
+  ]
+}

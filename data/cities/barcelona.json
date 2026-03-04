@@ -1,0 +1,140 @@
+{
+  "slug": "barcelona",
+  "name": { "en": "Barcelona", "es": "Barcelona" },
+  "region": "catalonia",
+  "province": "Barcelona",
+  "population": 1636000,
+  "elevation": 12,
+  "image": "/images/cities/barcelona.jpg",
+  "gallery": ["/images/cities/barcelona-1.jpg", "/images/cities/barcelona-2.jpg", "/images/cities/barcelona-3.jpg"],
+  "description": {
+    "en": "Barcelona, the capital of Catalonia, is a Mediterranean jewel where Gothic quarters meet modernist masterpieces. Antoni Gaudí's fantastical buildings — the Sagrada Familia, Casa Batlló, and Park Güell — define its skyline and draw millions of visitors each year. The city effortlessly combines beach life with urban culture, offering golden sand just minutes from the Gothic Quarter's medieval alleys. Barcelona's food scene is legendary, from bustling La Boqueria market to innovative restaurants that have helped make Catalonia a global gastronomic powerhouse.",
+    "es": "Barcelona, la capital de Cataluña, es una joya mediterránea donde los barrios góticos se encuentran con obras maestras modernistas. Los fantásticos edificios de Antoni Gaudí — la Sagrada Familia, la Casa Batlló y el Park Güell — definen su horizonte y atraen a millones de visitantes cada año. La ciudad combina sin esfuerzo la vida playera con la cultura urbana, ofreciendo arena dorada a pocos minutos de los callejones medievales del Barrio Gótico. La escena gastronómica de Barcelona es legendaria, desde el bullicioso mercado de La Boquería hasta restaurantes innovadores que han ayudado a convertir Cataluña en una potencia gastronómica mundial."
+  },
+  "highlights": [
+    { "en": "La Sagrada Familia", "es": "La Sagrada Familia" },
+    { "en": "Park Güell", "es": "Park Güell" },
+    { "en": "La Rambla & La Boqueria", "es": "La Rambla y La Boquería" },
+    { "en": "Gothic Quarter", "es": "Barrio Gótico" },
+    { "en": "Casa Batlló & Casa Milà", "es": "Casa Batlló y Casa Milà" }
+  ],
+  "bestTimeToVisit": {
+    "en": "Late spring (May-June) and early autumn (September-October) are ideal, with warm weather, fewer crowds than peak summer, and pleasant sea temperatures. Summer (July-August) is hot and very crowded. Winter is mild but some attractions have shorter hours.",
+    "es": "La primavera tardía (mayo-junio) y el principio del otoño (septiembre-octubre) son ideales, con buen tiempo, menos aglomeraciones que en pleno verano y agradable temperatura del mar. El verano (julio-agosto) es caluroso y muy concurrido. El invierno es suave pero algunas atracciones tienen horarios reducidos."
+  },
+  "gettingAround": {
+    "en": "Barcelona has an efficient metro system with 12 lines, supplemented by an extensive bus network, trams, and the FGC suburban trains. The T-Casual card (10 trips) is the best value for short stays. Walking is the best way to explore the old city and waterfront, and cycling is popular thanks to dedicated bike lanes.",
+    "es": "Barcelona cuenta con un eficiente sistema de metro con 12 líneas, complementado por una extensa red de autobuses, tranvías y los trenes suburbanos FGC. La tarjeta T-Casual (10 viajes) es la mejor opción para estancias cortas. Caminar es la mejor forma de explorar el casco antiguo y el paseo marítimo, y el ciclismo es popular gracias a los carriles bici."
+  },
+  "neighborhoods": [
+    {
+      "name": { "en": "Gothic Quarter", "es": "Barrio Gótico" },
+      "description": {
+        "en": "The medieval heart of Barcelona, a labyrinth of narrow streets dating back to Roman times. Home to the Cathedral, Plaça del Rei, and countless hidden squares with atmospheric cafés.",
+        "es": "El corazón medieval de Barcelona, un laberinto de calles estrechas que se remontan a la época romana. Hogar de la Catedral, la Plaça del Rei e innumerables plazas escondidas con cafés con encanto."
+      },
+      "vibe": { "en": "Historic, atmospheric, and touristy", "es": "Histórico, con mucha atmósfera y turístico" }
+    },
+    {
+      "name": { "en": "El Born / La Ribera", "es": "El Born / La Ribera" },
+      "description": {
+        "en": "A trendy medieval quarter with boutique shops, cocktail bars, and the Picasso Museum. The Passeig del Born is the neighborhood's social hub, lined with restaurants and bars.",
+        "es": "Un moderno barrio medieval con tiendas boutique, coctelerías y el Museo Picasso. El Passeig del Born es el centro social del barrio, repleto de restaurantes y bares."
+      },
+      "vibe": { "en": "Trendy, artsy, and fashionable", "es": "De moda, artístico y elegante" }
+    },
+    {
+      "name": { "en": "Eixample", "es": "Eixample" },
+      "description": {
+        "en": "The elegant grid-patterned neighborhood designed by Ildefons Cerdà, home to Gaudí's Casa Batlló and La Pedrera. Passeig de Gràcia is Barcelona's premier shopping boulevard.",
+        "es": "El elegante barrio de cuadrícula diseñado por Ildefons Cerdà, hogar de la Casa Batlló y La Pedrera de Gaudí. El Passeig de Gràcia es el principal bulevar de compras de Barcelona."
+      },
+      "vibe": { "en": "Elegant modernist architecture and upscale dining", "es": "Elegante arquitectura modernista y gastronomía de alto nivel" }
+    },
+    {
+      "name": { "en": "Gràcia", "es": "Gràcia" },
+      "description": {
+        "en": "A former independent village with a distinct local identity, known for its lively plazas, independent shops, and the spectacular August Festa Major street festival.",
+        "es": "Un antiguo pueblo independiente con una identidad local propia, conocido por sus animadas plazas, tiendas independientes y la espectacular Festa Major de agosto."
+      },
+      "vibe": { "en": "Village-like, local, and alternative", "es": "Ambiente de pueblo, local y alternativo" }
+    },
+    {
+      "name": { "en": "Barceloneta", "es": "La Barceloneta" },
+      "description": {
+        "en": "The old fishermen's quarter turned beach neighborhood. Narrow streets lead to Barcelona's most popular beach, with seafood restaurants and a lively summer atmosphere.",
+        "es": "El antiguo barrio de pescadores convertido en barrio playero. Calles estrechas conducen a la playa más popular de Barcelona, con restaurantes de mariscos y un animado ambiente veraniego."
+      },
+      "vibe": { "en": "Beachy, casual, and seafood-focused", "es": "Playero, informal y centrado en el marisco" }
+    }
+  ],
+  "localFood": [
+    {
+      "name": { "en": "Pa amb Tomàquet", "es": "Pan con Tomate" },
+      "description": {
+        "en": "The quintessential Catalan dish: toasted bread rubbed with ripe tomato, drizzled with olive oil and sprinkled with salt. Deceptively simple and utterly delicious.",
+        "es": "El plato catalán por excelencia: pan tostado frotado con tomate maduro, rociado con aceite de oliva y espolvoreado con sal. Engañosamente sencillo y absolutamente delicioso."
+      }
+    },
+    {
+      "name": { "en": "Fideuà", "es": "Fideuá" },
+      "description": {
+        "en": "A seafood noodle dish similar to paella but made with short pasta instead of rice. Originating from the coast south of Barcelona, it's a beloved local specialty.",
+        "es": "Un plato de fideos con marisco similar a la paella pero hecho con pasta corta en lugar de arroz. Originario de la costa al sur de Barcelona, es una querida especialidad local."
+      }
+    },
+    {
+      "name": { "en": "Crema Catalana", "es": "Crema Catalana" },
+      "description": {
+        "en": "Catalonia's answer to crème brûlée, a custard dessert flavored with lemon and cinnamon, topped with a caramelized sugar crust. Traditionally eaten on Saint Joseph's Day.",
+        "es": "La respuesta de Cataluña a la crème brûlée, un postre de crema aromatizado con limón y canela, cubierto con una costra de azúcar caramelizado. Tradicionalmente se come el día de San José."
+      }
+    },
+    {
+      "name": { "en": "Escalivada", "es": "Escalivada" },
+      "description": {
+        "en": "Smoky roasted vegetables — eggplant, red peppers, and onions — dressed with olive oil. Served as a side dish or on toast, it showcases Catalan love for simple, quality ingredients.",
+        "es": "Verduras asadas ahumadas — berenjena, pimientos rojos y cebollas — aliñadas con aceite de oliva. Servida como guarnición o sobre tostada, muestra el amor catalán por los ingredientes sencillos y de calidad."
+      }
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": { "en": "Montserrat", "es": "Montserrat" },
+      "description": {
+        "en": "A stunning mountain monastery perched among dramatic serrated rock formations. Home to the Black Madonna and a boys' choir that has sung since the 14th century.",
+        "es": "Un impresionante monasterio de montaña encaramado entre espectaculares formaciones rocosas dentadas. Hogar de la Virgen de Montserrat y un coro de niños que canta desde el siglo XIV."
+      },
+      "distance": "60km"
+    },
+    {
+      "name": { "en": "Girona", "es": "Girona" },
+      "description": {
+        "en": "A beautiful medieval city with a colorful riverside, a well-preserved Jewish Quarter, and a cathedral with the widest Gothic nave in the world. Also home to El Celler de Can Roca.",
+        "es": "Una bella ciudad medieval con un pintoresco paseo fluvial, un bien conservado barrio judío y una catedral con la nave gótica más ancha del mundo. También hogar de El Celler de Can Roca."
+      },
+      "distance": "100km"
+    },
+    {
+      "name": { "en": "Costa Brava", "es": "Costa Brava" },
+      "description": {
+        "en": "The 'Wild Coast' of Catalonia, with dramatic cliffs, hidden coves, and the charming fishing villages of Tossa de Mar and Cadaqués. Also home to the Dalí Theatre-Museum in Figueres.",
+        "es": "La 'Costa Brava' de Cataluña, con espectaculares acantilados, calas escondidas y los encantadores pueblos pesqueros de Tossa de Mar y Cadaqués. También hogar del Teatro-Museo Dalí en Figueres."
+      },
+      "distance": "100km"
+    },
+    {
+      "name": { "en": "Sitges", "es": "Sitges" },
+      "description": {
+        "en": "A charming coastal town known for its beautiful beaches, whitewashed old town, vibrant nightlife, and famous Carnival and film festivals.",
+        "es": "Un encantador pueblo costero conocido por sus hermosas playas, su casco antiguo encalado, su vibrante vida nocturna y sus famosos festivales de Carnaval y cine."
+      },
+      "distance": "40km"
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€45-65/day", "es": "45-65€/día" },
+    "midRange": { "en": "€120-200/day", "es": "120-200€/día" },
+    "luxury": { "en": "€350+/day", "es": "350+€/día" }
+  }
+}

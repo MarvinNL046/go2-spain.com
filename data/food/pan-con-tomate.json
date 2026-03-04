@@ -1,0 +1,83 @@
+{
+  "slug": "pan-con-tomate",
+  "name": { "en": "Pan con Tomate", "es": "Pan con Tomate" },
+  "description": {
+    "en": "Toasted bread rubbed with ripe tomato, drizzled with extra virgin olive oil and salt. Deceptively simple, this Catalan staple is the perfect expression of Mediterranean cooking — quality ingredients, minimal fuss.",
+    "es": "Pan tostado frotado con tomate maduro, rociado con aceite de oliva virgen extra y sal. Engañosamente sencillo, este básico catalán es la expresión perfecta de la cocina mediterránea — ingredientes de calidad, mínima complicación."
+  },
+  "enhanced_description": "Pan con tomate (pa amb tomàquet in Catalan) is the ultimate expression of the Mediterranean philosophy that great food requires nothing more than a few perfect ingredients treated with respect. A slice of rustic bread is toasted or grilled, rubbed with a cut clove of garlic, then halved ripe tomatoes are pressed and rubbed across the surface until the bread absorbs their pulp and juice. A generous drizzle of fruity extra virgin olive oil and a pinch of flaky salt complete what is arguably the most satisfying simple food in all of Spain. It appears at virtually every meal in Catalonia, from breakfast to dinner.",
+  "region": "catalonia",
+  "category": "appetizer",
+  "image": "/images/food/pan-con-tomate.jpg",
+  "preparation_time": "5 min",
+  "price_range": "€2-5",
+  "difficulty": "easy",
+  "ingredients": ["Rustic bread (pa de pagès)", "Ripe tomatoes (tomàquet de penjar)", "Extra virgin olive oil", "Garlic clove", "Flaky sea salt"],
+  "history": {
+    "en": "Pa amb tomàquet is believed to have originated in Catalonia in the late 19th century when tomatoes became widely available and affordable. Some food historians suggest it was originally a way for farmers to soften stale bread and make it palatable. The dish is deeply tied to Catalan identity -- it is considered as essentially Catalan as the sardana dance or Gaudí's architecture. In Catalonia, it is known as 'pa amb tomàquet' and is served at practically every meal, from breakfast with jamón to dinner as an accompaniment to grilled meats. Its simplicity makes it impossible to hide behind technique -- everything depends on the quality of four ingredients.",
+    "es": "El pa amb tomàquet se cree que se originó en Cataluña a finales del siglo XIX cuando los tomates se hicieron ampliamente disponibles y asequibles. Algunos historiadores gastronómicos sugieren que originalmente era una forma de ablandar el pan duro y hacerlo apetecible. El plato está profundamente ligado a la identidad catalana -- se considera tan esencialmente catalán como la sardana o la arquitectura de Gaudí. En Cataluña se conoce como 'pa amb tomàquet' y se sirve prácticamente en cada comida, desde el desayuno con jamón hasta la cena como acompañamiento de carnes a la brasa. Su simplicidad hace imposible esconderse detrás de la técnica -- todo depende de la calidad de cuatro ingredientes."
+  },
+  "where_to_try": [
+    {
+      "name": "Cal Pep",
+      "city": "Barcelona",
+      "description": {
+        "en": "This beloved Born neighborhood restaurant serves exceptional pa amb tomàquet using premium olive oil and perfectly ripe tomatoes alongside its famous seafood tapas.",
+        "es": "Este querido restaurante del barrio del Born sirve excepcional pa amb tomàquet usando aceite de oliva premium y tomates perfectamente maduros junto a sus famosas tapas de marisco."
+      }
+    },
+    {
+      "name": "Can Culleretes",
+      "city": "Barcelona",
+      "description": {
+        "en": "Barcelona's oldest restaurant (since 1786), where pa amb tomàquet accompanies every meal as it has for generations of Catalan families.",
+        "es": "El restaurante más antiguo de Barcelona (desde 1786), donde el pa amb tomàquet acompaña cada comida como lo ha hecho durante generaciones de familias catalanas."
+      }
+    },
+    {
+      "name": "La Boqueria Market",
+      "city": "Barcelona",
+      "description": {
+        "en": "The famous Rambla market where you can find the essential ingredients -- perfectly ripe hanging tomatoes, artisan bread, and premium olive oils -- to make your own.",
+        "es": "El famoso mercado de la Rambla donde puedes encontrar los ingredientes esenciales -- tomates de colgar perfectamente maduros, pan artesano y aceites de oliva premium -- para hacer el tuyo propio."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "The key is the tomato: look for 'tomàquet de penjar' (hanging tomatoes), a special variety with thin skin and intense flavor used specifically for this dish.",
+      "es": "La clave es el tomate: busca 'tomàquet de penjar' (tomates de colgar), una variedad especial con piel fina y sabor intenso usada específicamente para este plato."
+    },
+    {
+      "en": "Rub the garlic lightly on the bread before the tomato -- just a whisper of garlic flavor, not a heavy dose.",
+      "es": "Frota el ajo ligeramente sobre el pan antes del tomate -- solo un susurro de sabor a ajo, no una dosis fuerte."
+    },
+    {
+      "en": "Use the best olive oil you can find. In Catalonia, oils from Les Garrigues or Siurana are especially prized for pa amb tomàquet.",
+      "es": "Usa el mejor aceite de oliva que puedas encontrar. En Cataluña, los aceites de Les Garrigues o Siurana son especialmente apreciados para el pa amb tomàquet."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Pan con Tomate with Jamón", "es": "Pa amb Tomàquet amb Pernil" },
+      "description": {
+        "en": "Topped with thin slices of jamón serrano or ibérico. The classic Catalan breakfast or snack combination.",
+        "es": "Cubierto con finas lonchas de jamón serrano o ibérico. La clásica combinación catalana de desayuno o merienda."
+      }
+    },
+    {
+      "name": { "en": "Pan con Tomate with Anchovies", "es": "Pa amb Tomàquet amb Anxoves" },
+      "description": {
+        "en": "Topped with salt-cured anchovies from L'Escala, a Catalan coastal town famous for its premium anchovies.",
+        "es": "Cubierto con anchoas en salazón de L'Escala, un pueblo costero catalán famoso por sus anchoas premium."
+      }
+    },
+    {
+      "name": { "en": "Pan Tumaca (Andalusian Style)", "es": "Pan Tumaca" },
+      "description": {
+        "en": "The Andalusian interpretation, where the tomato is sometimes grated rather than rubbed, creating a slightly different texture.",
+        "es": "La interpretación andaluza, donde el tomate a veces se ralla en lugar de frotarse, creando una textura ligeramente diferente."
+      }
+    }
+  ]
+}

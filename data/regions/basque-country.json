@@ -1,0 +1,55 @@
+{
+  "slug": "basque-country",
+  "name": { "en": "Basque Country", "es": "País Vasco" },
+  "description": {
+    "en": "The Basque Country (Euskadi in Basque) is one of Europe's most fascinating regions, with a unique language (Euskera) that predates all other European languages and has no known relatives. This compact Atlantic region packs an extraordinary punch: the world's highest concentration of Michelin-starred restaurants, the transformative Guggenheim Museum in Bilbao, stunning coastal scenery, and a deeply rooted culture of gastronomy, sport, and community. The Basques have maintained their distinct identity for millennia, and their fierce pride manifests in everything from pelota courts to cider houses to txokos (private gastronomic societies).",
+    "es": "El País Vasco (Euskadi en euskera) es una de las regiones más fascinantes de Europa, con un idioma único (euskera) que precede a todos los demás idiomas europeos y no tiene parientes conocidos. Esta compacta región atlántica tiene un impacto extraordinario: la mayor concentración de restaurantes con estrella Michelin del mundo, el transformador Museo Guggenheim en Bilbao, impresionante paisaje costero y una cultura profundamente arraigada de gastronomía, deporte y comunidad. Los vascos han mantenido su identidad diferenciada durante milenios, y su feroz orgullo se manifiesta en todo, desde frontones hasta sidrerías y txokos (sociedades gastronómicas privadas)."
+  },
+  "geography": {
+    "en": "The Basque Country occupies Spain's north-central Atlantic coast, with a rugged shoreline of dramatic cliffs and sheltered bays. The interior rises into green, hilly terrain and the Cantabrian Mountains. Rivers like the Nervión (through Bilbao) and the Urumea (through San Sebastián) have shaped the region's urban landscapes.",
+    "es": "El País Vasco ocupa la costa atlántica norte-central de España, con un litoral escarpado de espectaculares acantilados y bahías resguardadas. El interior se eleva en terreno verde y montañoso hasta la Cordillera Cantábrica. Ríos como el Nervión (por Bilbao) y el Urumea (por San Sebastián) han dado forma a los paisajes urbanos de la región."
+  },
+  "culture": {
+    "en": "Basque culture is unique in Europe. Euskera, the Basque language, is a linguistic isolate with no connection to any other known language. Traditional sports (rural sports or herri kirolak) include stone lifting, log chopping, and the fast-paced pelota (jai alai). Gastronomic societies (txokos) are private cooking clubs where members prepare elaborate meals together.",
+    "es": "La cultura vasca es única en Europa. El euskera es un idioma aislado sin conexión con ningún otro idioma conocido. Los deportes tradicionales (herri kirolak) incluyen levantamiento de piedras, corte de troncos y la rápida pelota vasca (jai alai). Las sociedades gastronómicas (txokos) son clubes privados de cocina donde los miembros preparan elaboradas comidas juntos."
+  },
+  "cuisine": {
+    "en": "The Basque Country is a gastronomic paradise. San Sebastián boasts more Michelin stars per square meter than almost anywhere on Earth. Pintxos (Basque tapas) culture is an art form. Signature dishes include bacalao al pil-pil, marmitako (tuna stew), txuleta (massive bone-in steak), and kokotxas (fish cheeks). Cider houses (sagardotegiak) serve cider straight from the barrel with steak and salt cod.",
+    "es": "El País Vasco es un paraíso gastronómico. San Sebastián presume de más estrellas Michelin por metro cuadrado que casi cualquier lugar del planeta. La cultura de pintxos es una forma de arte. Los platos emblemáticos incluyen bacalao al pil-pil, marmitako, txuleta (chuletón) y kokotxas. Las sidrerías (sagardotegiak) sirven sidra directamente del barril con chuletón y bacalao."
+  },
+  "climate": {
+    "en": "Oceanic climate with mild temperatures year-round but frequent rainfall. Summers are warm (20-26°C) and the most reliable season for dry weather. Winters are cool (5-12°C) and wet. The 'Green Spain' nickname reflects the lush vegetation fed by Atlantic moisture.",
+    "es": "Clima oceánico con temperaturas suaves todo el año pero lluvias frecuentes. Los veranos son cálidos (20-26°C) y la temporada más fiable de tiempo seco. Los inviernos son frescos (5-12°C) y húmedos. El apodo de 'España Verde' refleja la exuberante vegetación alimentada por la humedad atlántica."
+  },
+  "highlights": [
+    {
+      "title": { "en": "Guggenheim Bilbao", "es": "Guggenheim Bilbao" },
+      "description": { "en": "Frank Gehry's titanium masterpiece transformed Bilbao from a declining industrial city into a global cultural destination.", "es": "La obra maestra de titanio de Frank Gehry transformó Bilbao de una ciudad industrial en declive en un destino cultural global." }
+    },
+    {
+      "title": { "en": "Pintxos in San Sebastián", "es": "Pintxos en San Sebastián" },
+      "description": { "en": "Bar-hopping through the Parte Vieja, sampling creative pintxos at each stop, is one of Spain's ultimate food experiences.", "es": "Ir de bar en bar por la Parte Vieja, probando pintxos creativos en cada parada, es una de las experiencias gastronómicas definitivas de España." }
+    },
+    {
+      "title": { "en": "San Juan de Gaztelugatxe", "es": "San Juan de Gaztelugatxe" },
+      "description": { "en": "A dramatic islet with a hermitage atop 241 stone steps, connected to the coast by a winding stone bridge. Game of Thrones' Dragonstone.", "es": "Un espectacular islote con una ermita en lo alto de 241 escalones de piedra, conectado a la costa por un sinuoso puente de piedra. Rocadragón de Juego de Tronos." }
+    }
+  ],
+  "travelTips": [
+    {
+      "title": { "en": "Pack a Rain Jacket", "es": "Lleva Chubasquero" },
+      "description": { "en": "Rain is common year-round in the Basque Country. A waterproof jacket and umbrella are essential even in summer.", "es": "La lluvia es frecuente todo el año en el País Vasco. Un chubasquero y paraguas son esenciales incluso en verano." }
+    },
+    {
+      "title": { "en": "Go on a Pintxos Crawl", "es": "Haz una Ruta de Pintxos" },
+      "description": { "en": "The proper way is to have one or two pintxos and a drink at each bar, then move to the next. Don't fill up at one place — the variety is the point.", "es": "La forma correcta es tomar uno o dos pintxos y una bebida en cada bar, luego pasar al siguiente. No te llenes en un solo sitio — la variedad es lo importante." }
+    },
+    {
+      "title": { "en": "Try a Cider House", "es": "Visita una Sidrería" },
+      "description": { "en": "Visit a traditional sagardotegi (cider house) from January to April during cider season. The set menu includes cod omelette, steak, cheese, and walnuts, with unlimited cider.", "es": "Visita una sagardotegi (sidrería) de enero a abril durante la temporada de sidra. El menú incluye tortilla de bacalao, chuletón, queso y nueces, con sidra ilimitada." }
+    }
+  ],
+  "popularCities": ["bilbao", "san-sebastian"],
+  "image": "/images/regions/basque-country.jpg",
+  "gallery": ["/images/regions/basque-country-1.jpg", "/images/regions/basque-country-2.jpg", "/images/regions/basque-country-3.jpg"]
+}

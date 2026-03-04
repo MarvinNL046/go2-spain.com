@@ -1,0 +1,19 @@
+{
+  "slug": "flamenco-show",
+  "name": {
+    "en": "Flamenco Show",
+    "es": "Espectáculo de Flamenco"
+  },
+  "city": "seville",
+  "region": "andalusia",
+  "image": "/images/experiences/flamenco-show.jpg",
+  "description": {
+    "en": "Experience the raw passion of flamenco in an intimate tablao — the traditional venue for this intense art form combining rhythmic footwork, soulful singing, and virtuoso guitar. Seville's Triana neighborhood is the heartland.",
+    "es": "Experimenta la pasión cruda del flamenco en un tablao íntimo — el lugar tradicional para esta intensa forma de arte que combina zapateado rítmico, cante profundo y guitarra virtuosa. El barrio de Triana en Sevilla es el corazón."
+  },
+  "category": "culture",
+  "duration": "1-2 hours",
+  "price": "€25-45",
+  "difficulty": "easy",
+  "rating": 4.8
+}

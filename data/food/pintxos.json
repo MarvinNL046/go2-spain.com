@@ -1,0 +1,83 @@
+{
+  "slug": "pintxos",
+  "name": { "en": "Pintxos", "es": "Pintxos" },
+  "description": {
+    "en": "The Basque Country's elevated take on tapas — elaborate small bites often served on bread and skewered with a toothpick. From classic gilda to molecular gastronomy creations, pintxos bars are a culinary art gallery.",
+    "es": "La versión elevada de las tapas del País Vasco — elaborados bocados pequeños a menudo servidos sobre pan y sujetos con un palillo. Desde la clásica gilda hasta creaciones de gastronomía molecular, los bares de pintxos son una galería de arte culinario."
+  },
+  "enhanced_description": "Pintxos represent the pinnacle of Basque Country's extraordinary food culture, where even the humblest neighborhood bar displays an elaborate spread of miniature culinary masterpieces along its counter. Unlike tapas in the rest of Spain, pintxos are individually crafted compositions -- each one a perfectly balanced bite that might combine flavors and textures in unexpected ways. The tradition of 'ir de pintxos' (going from bar to bar sampling pintxos) is a beloved ritual in cities like San Sebastian and Bilbao, where entire neighborhoods become open-air gastronomic circuits every evening.",
+  "region": "basque-country",
+  "category": "appetizer",
+  "image": "/images/food/pintxos.jpg",
+  "preparation_time": "Varies by pintxo",
+  "price_range": "€2-5 per pintxo",
+  "difficulty": "varies",
+  "ingredients": ["Varies widely - bread, seafood, cured meats, vegetables, sauces"],
+  "history": {
+    "en": "The pintxo tradition emerged in the Basque Country in the mid-20th century, evolving from simpler bar snacks into an art form. The name comes from the Spanish word 'pinchar' (to pierce), referring to the toothpick that traditionally holds the ingredients to a slice of bread. San Sebastián became the epicenter of the movement, with the city's Parte Vieja (Old Town) developing into one of the world's densest concentrations of gastronomic excellence. The Basque nouvelle cuisine movement of the 1970s, led by chefs like Juan Mari Arzak, further elevated pintxos by incorporating haute cuisine techniques into bar food.",
+    "es": "La tradición del pintxo surgió en el País Vasco a mediados del siglo XX, evolucionando de simples aperitivos de bar a una forma de arte. El nombre viene de la palabra 'pinchar', refiriéndose al palillo que tradicionalmente sujeta los ingredientes a una rebanada de pan. San Sebastián se convirtió en el epicentro del movimiento, con la Parte Vieja de la ciudad desarrollándose en una de las mayores concentraciones de excelencia gastronómica del mundo. El movimiento de la nueva cocina vasca de los años 70, liderado por chefs como Juan Mari Arzak, elevó aún más los pintxos incorporando técnicas de alta cocina en la comida de bar."
+  },
+  "where_to_try": [
+    {
+      "name": "Bar Nestor",
+      "city": "San Sebastián",
+      "description": {
+        "en": "Famous for just two things: its legendary tortilla (served twice daily) and perfectly grilled steaks. A Parte Vieja institution where simplicity reigns supreme.",
+        "es": "Famoso por solo dos cosas: su legendaria tortilla (servida dos veces al día) y chuletas perfectamente asadas. Una institución de la Parte Vieja donde la simplicidad reina."
+      }
+    },
+    {
+      "name": "La Cuchara de San Telmo",
+      "city": "San Sebastián",
+      "description": {
+        "en": "An innovative pintxo bar with no counter display -- everything is made to order. Famous for their slow-cooked veal cheeks and foie gras with apple.",
+        "es": "Un innovador bar de pintxos sin mostrador -- todo se hace al momento. Famoso por sus carrilleras de ternera a fuego lento y foie gras con manzana."
+      }
+    },
+    {
+      "name": "Gure Toki",
+      "city": "Bilbao",
+      "description": {
+        "en": "Located in Bilbao's Plaza Nueva, this award-winning pintxo bar offers creative bites that push the boundaries of what a pintxo can be.",
+        "es": "Ubicado en la Plaza Nueva de Bilbao, este galardonado bar de pintxos ofrece bocados creativos que desafían los límites de lo que un pintxo puede ser."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "In most pintxo bars, you simply grab a plate, help yourself from the counter display, and tell the bartender what you had when it's time to pay. The honor system works on trust.",
+      "es": "En la mayoría de los bares de pintxos, simplemente coges un plato, te sirves del mostrador y le dices al camarero lo que has tomado cuando vayas a pagar. El sistema funciona por confianza."
+    },
+    {
+      "en": "Don't fill up at one bar. The tradition is to have one or two pintxos with a drink (txakoli wine or a zurito of beer) and then move to the next bar.",
+      "es": "No te llenes en un solo bar. La tradición es tomar uno o dos pintxos con una bebida (txakoli o un zurito de cerveza) y luego pasar al siguiente bar."
+    },
+    {
+      "en": "In San Sebastián, the best pintxos bars are concentrated in the Parte Vieja (Old Town). Start on Calle 31 de Agosto or Calle Fermín Calbetón.",
+      "es": "En San Sebastián, los mejores bares de pintxos se concentran en la Parte Vieja. Empieza en la Calle 31 de Agosto o la Calle Fermín Calbetón."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Gilda", "es": "Gilda" },
+      "description": {
+        "en": "The iconic Basque pintxo: a skewer of guindilla pepper, olive, and anchovy. Named after Rita Hayworth's character in the 1946 film -- because it was salty, spicy, and a little green.",
+        "es": "El pintxo vasco icónico: una brocheta de guindilla, aceituna y anchoa. Nombrado por el personaje de Rita Hayworth en la película de 1946 -- porque era salado, picante y un poco verde."
+      }
+    },
+    {
+      "name": { "en": "Pintxo de Txangurro", "es": "Pintxo de Txangurro" },
+      "description": {
+        "en": "Spider crab gratin, a luxurious pintxo showcasing the Basque coast's exceptional seafood.",
+        "es": "Gratinado de txangurro (centollo), un lujoso pintxo que muestra el excepcional marisco de la costa vasca."
+      }
+    },
+    {
+      "name": { "en": "Hot Pintxos", "es": "Pintxos Calientes" },
+      "description": {
+        "en": "Made-to-order pintxos served hot from the kitchen, representing the modern evolution of the tradition beyond cold counter displays.",
+        "es": "Pintxos hechos al momento servidos calientes de la cocina, representando la evolución moderna de la tradición más allá de los fríos mostradores."
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "horchata",
+  "name": { "en": "Horchata", "es": "Horchata" },
+  "description": {
+    "en": "A refreshing cold drink made from tiger nuts (chufas), water, and sugar. This Valencian specialty has been enjoyed since Moorish times and is traditionally served with long sugary pastries called fartons.",
+    "es": "Una refrescante bebida fría hecha de chufas, agua y azúcar. Esta especialidad valenciana se disfruta desde tiempos moriscos y tradicionalmente se sirve con unos bollos alargados y azucarados llamados fartons."
+  },
+  "enhanced_description": "Horchata de chufa is a uniquely Valencian drink with no true equivalent anywhere else in the world, made from tiger nuts (chufas) -- small, wrinkled tubers that grow in the sandy soils north of Valencia, primarily in the town of Alboraya. This naturally sweet, creamy, dairy-free beverage has been refreshing Valencians since the Moors introduced chufa cultivation to the region over 1,000 years ago. Served ice-cold in the sweltering Valencian summer, horchata has a subtle, complex flavor that is simultaneously nutty, earthy, and sweet, with a silky texture that makes it one of the most refreshing drinks on the Mediterranean. The traditional pairing with fartons -- soft, elongated sugar-glazed pastries meant for dunking -- elevates it into an essential Valencian cultural experience.",
+  "region": "valencia",
+  "category": "non-alcoholic",
+  "alcoholic": false,
+  "image": "/images/drinks/horchata.jpg",
+  "price_range": "€2-4 per glass",
+  "history": {
+    "en": "Tiger nut cultivation in Valencia dates to the Moorish period (8th-13th centuries), and horchata has been made in the region for over a millennium. Legend credits King Jaume I of Aragon with naming the drink in the 13th century: when a local girl offered him a glass, he exclaimed 'Això és or, xata!' ('This is gold, pretty girl!'), supposedly giving rise to the name 'or-xata' (horchata). While the etymology is likely fanciful, it speaks to how deeply horchata is woven into Valencian identity. The town of Alboraya, just north of Valencia, is the heart of chufa production and home to the most traditional horchaterías. Horchata earned its own Denominación de Origen (DO) in 2010.",
+    "es": "El cultivo de chufas en Valencia data del período morisco (siglos VIII-XIII), y la horchata se ha hecho en la región durante más de un milenio. La leyenda atribuye al Rey Jaume I de Aragón el nombre de la bebida en el siglo XIII: cuando una joven local le ofreció un vaso, exclamó '¡Això és or, xata!' ('¡Esto es oro, guapa!'), supuestamente dando origen al nombre 'or-xata' (horchata). Aunque la etimología es probablemente fantasiosa, habla de lo profundamente que la horchata está tejida en la identidad valenciana. El pueblo de Alboraya, justo al norte de Valencia, es el corazón de la producción de chufas y hogar de las horchaterías más tradicionales. La horchata obtuvo su propia Denominación de Origen (DO) en 2010."
+  },
+  "how_to_enjoy": {
+    "en": "Horchata must be served very cold, almost slushy. The traditional way is to visit a horchatería and order a glass with fartons -- long, soft, sugar-glazed pastries that you dip into the horchata. In Valencia, you can also find horchata granizada (frozen into a slush). Drink it freshly made, as natural horchata has no preservatives and is best consumed the same day. It's the perfect afternoon refreshment during Valencia's hot summers.",
+    "es": "La horchata debe servirse muy fría, casi granizada. La forma tradicional es visitar una horchatería y pedir un vaso con fartons -- bollos largos, blandos y glaseados con azúcar que se mojan en la horchata. En Valencia, también puedes encontrar horchata granizada (congelada como granizado). Bébela recién hecha, ya que la horchata natural no tiene conservantes y se consume mejor el mismo día. Es el refresco perfecto para las tardes durante los calurosos veranos valencianos."
+  },
+  "where_to_try": [
+    {
+      "name": "Horchatería Daniel",
+      "city": "Alboraya (Valencia)",
+      "description": {
+        "en": "Widely considered the best horchatería in Valencia, located in Alboraya -- the epicenter of chufa production. Their horchata is made fresh daily with local tiger nuts.",
+        "es": "Ampliamente considerada la mejor horchatería de Valencia, ubicada en Alboraya -- el epicentro de la producción de chufas. Su horchata se hace fresca diariamente con chufas locales."
+      }
+    },
+    {
+      "name": "Horchatería Santa Catalina",
+      "city": "Valencia",
+      "description": {
+        "en": "A beautiful, historic horchatería in Valencia's old town, decorated with traditional azulejo tiles, serving horchata and fartons since the early 19th century.",
+        "es": "Una hermosa horchatería histórica en el casco antiguo de Valencia, decorada con azulejos tradicionales, sirviendo horchata y fartons desde principios del siglo XIX."
+      }
+    },
+    {
+      "name": "Horchatería El Siglo",
+      "city": "Valencia",
+      "description": {
+        "en": "Another Valencia institution on the Plaza de Santa Catalina, known for its traditional recipe and the option to enjoy horchata granizada on their terrace.",
+        "es": "Otra institución valenciana en la Plaza de Santa Catalina, conocida por su receta tradicional y la opción de disfrutar horchata granizada en su terraza."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Always order horchata with fartons. Dunking the soft, sweet pastry into the cold horchata is essential to the experience.",
+      "es": "Siempre pide la horchata con fartons. Mojar el bollo blando y dulce en la horchata fría es esencial para la experiencia."
+    },
+    {
+      "en": "Look for horchata that's freshly made (artesanal), not the bottled industrial version. Fresh horchata has a much more complex, nutty flavor.",
+      "es": "Busca horchata recién hecha (artesanal), no la versión embotellada industrial. La horchata fresca tiene un sabor mucho más complejo y afrutoado."
+    },
+    {
+      "en": "Don't confuse Spanish horchata with Mexican horchata. The Spanish version is made from tiger nuts (chufas), while the Mexican version uses rice.",
+      "es": "No confundas la horchata española con la horchata mexicana. La versión española se hace de chufas, mientras que la versión mexicana usa arroz."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "paella",
+  "name": { "en": "Paella", "es": "Paella" },
+  "description": {
+    "en": "Spain's most iconic rice dish, traditionally made with chicken, rabbit, green beans, and saffron in a wide shallow pan over a wood fire. Originating from Valencia, authentic paella never contains seafood.",
+    "es": "El plato de arroz más icónico de España, tradicionalmente hecho con pollo, conejo, judías verdes y azafrán en una paella ancha sobre fuego de leña. Originaria de Valencia, la paella auténtica nunca lleva marisco."
+  },
+  "enhanced_description": "Paella is the undisputed king of Spanish rice dishes, born in the farmlands surrounding Valencia's Albufera lagoon where rice has been cultivated since the 8th century. The dish takes its name from the wide, shallow pan in which it is cooked, and the prized socarrat -- the caramelized crust of rice at the bottom -- is considered the mark of a well-made paella. While seafood and mixed versions have become popular worldwide, Valencians are fiercely protective of the original recipe featuring chicken, rabbit, snails, and locally grown vegetables.",
+  "region": "valencia",
+  "category": "main",
+  "image": "/images/food/paella.jpg",
+  "preparation_time": "45-60 min",
+  "price_range": "€12-25",
+  "difficulty": "intermediate",
+  "ingredients": ["Bomba rice", "Saffron", "Chicken", "Rabbit", "Green beans", "Garrafon beans", "Olive oil", "Tomato", "Rosemary", "Salt", "Water"],
+  "history": {
+    "en": "Paella originated in the rice-growing area around the Albufera lagoon near Valencia in the mid-19th century. Farm workers cooked rice over wood fires with whatever ingredients were at hand -- typically rabbit, snails, and vegetables. The dish evolved into a Sunday family tradition, and by the early 20th century it had become a symbol of Valencian identity. The name comes from the Old French word 'paele' (from Latin 'patella'), referring to the wide, flat cooking pan.",
+    "es": "La paella se originó en la zona arrocera alrededor de la Albufera cerca de Valencia a mediados del siglo XIX. Los trabajadores del campo cocinaban arroz sobre fuego de leña con los ingredientes que tenían a mano -- típicamente conejo, caracoles y verduras. El plato evolucionó hasta convertirse en una tradición familiar de los domingos, y a principios del siglo XX se había convertido en un símbolo de la identidad valenciana. El nombre proviene del francés antiguo 'paele' (del latín 'patella'), refiriéndose a la sartén ancha y plana."
+  },
+  "where_to_try": [
+    {
+      "name": "La Pepica",
+      "city": "Valencia",
+      "description": {
+        "en": "Historic beachfront restaurant operating since 1898, once frequented by Ernest Hemingway and the Spanish royal family. Known for serving some of Valencia's finest rice dishes.",
+        "es": "Restaurante histórico frente al mar en funcionamiento desde 1898, frecuentado por Ernest Hemingway y la familia real española. Conocido por servir algunos de los mejores arroces de Valencia."
+      }
+    },
+    {
+      "name": "Casa Roberto",
+      "city": "Valencia",
+      "description": {
+        "en": "A local favorite in the El Cabanyal neighborhood, praised for its traditional Valencian paella cooked over orange and pine wood fire.",
+        "es": "Un favorito local en el barrio de El Cabanyal, elogiado por su paella valenciana tradicional cocinada sobre fuego de leña de naranjo y pino."
+      }
+    },
+    {
+      "name": "Restaurante Levante",
+      "city": "Benissanó (Valencia province)",
+      "description": {
+        "en": "A rural restaurant regarded by many as serving the best paella in the region, using locally sourced ingredients and traditional wood-fire cooking methods.",
+        "es": "Un restaurante rural considerado por muchos como el que sirve la mejor paella de la región, usando ingredientes locales y métodos tradicionales de cocción a leña."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Authentic Valencian paella uses chicken and rabbit, not seafood. If you want seafood rice, order 'arroz a banda' or 'arroz del senyoret' instead.",
+      "es": "La auténtica paella valenciana lleva pollo y conejo, no marisco. Si quieres arroz con marisco, pide 'arroz a banda' o 'arroz del senyoret'."
+    },
+    {
+      "en": "Look for restaurants displaying the 'Restaurantes de Paella Valenciana' seal of quality, which certifies authentic preparation.",
+      "es": "Busca restaurantes que muestren el sello de calidad 'Restaurantes de Paella Valenciana', que certifica la preparación auténtica."
+    },
+    {
+      "en": "Paella is traditionally a lunchtime dish. Restaurants that serve it at dinner are usually catering to tourists.",
+      "es": "La paella es tradicionalmente un plato de mediodía. Los restaurantes que la sirven en la cena suelen estar orientados a turistas."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Seafood Paella", "es": "Paella de Marisco" },
+      "description": {
+        "en": "Made with mixed seafood including prawns, mussels, clams, and squid. Popular along the coast but not considered traditional.",
+        "es": "Hecha con marisco variado incluyendo gambas, mejillones, almejas y calamares. Popular en la costa pero no considerada tradicional."
+      }
+    },
+    {
+      "name": { "en": "Mixed Paella", "es": "Paella Mixta" },
+      "description": {
+        "en": "A combination of meat and seafood. While popular with tourists, purists consider this a culinary contradiction.",
+        "es": "Una combinación de carne y marisco. Aunque popular entre turistas, los puristas la consideran una contradicción culinaria."
+      }
+    },
+    {
+      "name": { "en": "Black Rice", "es": "Arroz Negro" },
+      "description": {
+        "en": "Rice cooked with squid ink, giving it a dramatic black color and deep briny flavor. Typically served with aioli.",
+        "es": "Arroz cocinado con tinta de calamar, dándole un dramático color negro y un profundo sabor marino. Se sirve típicamente con alioli."
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "wine-tasting-priorat",
+  "name": {
+    "en": "Wine Tasting in Priorat",
+    "es": "Cata de Vinos en el Priorat"
+  },
+  "city": "near-tarragona",
+  "region": "catalonia",
+  "image": "/images/experiences/wine-tasting-priorat.jpg",
+  "description": {
+    "en": "Discover powerful, mineral-driven wines from ancient llicorella (slate) soils in this prestigious DOQ wine region. Small-scale wineries produce some of Spain's most sought-after reds.",
+    "es": "Descubre potentes vinos minerales de los antiguos suelos de licorela (pizarra) en esta prestigiosa región DOQ. Pequeñas bodegas producen algunos de los tintos más codiciados de España."
+  },
+  "category": "food",
+  "duration": "Half day",
+  "price": "€40-80",
+  "difficulty": "easy",
+  "rating": 4.6
+}

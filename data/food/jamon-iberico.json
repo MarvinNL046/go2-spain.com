@@ -1,0 +1,83 @@
+{
+  "slug": "jamon-iberico",
+  "name": { "en": "Jamón Ibérico", "es": "Jamón Ibérico" },
+  "description": {
+    "en": "The crown jewel of Spanish charcuterie, made from acorn-fed Iberian pigs and cured for up to 36 months. The finest grade, jamón ibérico de bellota, has a rich, nutty flavor and melt-in-your-mouth texture.",
+    "es": "La joya de la corona de la charcutería española, hecho de cerdos ibéricos alimentados con bellotas y curado hasta 36 meses. El grado más fino, jamón ibérico de bellota, tiene un rico sabor a frutos secos y una textura que se deshace en la boca."
+  },
+  "enhanced_description": "Jamón ibérico is arguably Spain's greatest gastronomic treasure, produced from the native Iberian black pig breed that has roamed the Iberian Peninsula for millennia. The finest grade, jamón ibérico de bellota, comes from free-range pigs that feast on acorns during the montanera season in the oak-dotted dehesa pastures of western Spain. Each leg is dry-cured for 24 to 48 months, developing an extraordinarily complex flavor profile with notes of hazelnut, caramel, and umami that can rival the finest aged cheeses or wines.",
+  "region": "extremadura",
+  "category": "appetizer",
+  "image": "/images/food/jamon-iberico.jpg",
+  "preparation_time": "24-48 months curing",
+  "price_range": "€15-30 per plate (restaurant), €80-300+ per kg (whole leg)",
+  "difficulty": "expert (curing); easy (serving)",
+  "ingredients": ["Iberian pig leg", "Sea salt", "Time"],
+  "history": {
+    "en": "The tradition of curing ham in Spain dates back to Roman times, but jamón ibérico as we know it is tied to the unique Iberian pig breed and the dehesa ecosystem of southwestern Spain. The dehesa -- vast pastures of holm and cork oaks -- has been sustainably managed for centuries, providing the acorns that give bellota ham its distinctive flavor. The Iberian pig is one of the closest living relatives of the wild boar and has a genetic predisposition to infiltrate fat into its muscle tissue, creating the characteristic marbling. Spain's jamón culture is so important that there are dedicated ham museums in Madrid and Aracena.",
+    "es": "La tradición de curar jamón en España se remonta a tiempos romanos, pero el jamón ibérico tal como lo conocemos está ligado a la raza única del cerdo ibérico y al ecosistema de la dehesa del suroeste de España. La dehesa -- vastas extensiones de encinas y alcornoques -- se ha gestionado de forma sostenible durante siglos, proporcionando las bellotas que dan al jamón de bellota su sabor distintivo. El cerdo ibérico es uno de los parientes vivos más cercanos del jabalí y tiene predisposición genética para infiltrar grasa en su tejido muscular, creando el característico veteado. La cultura del jamón en España es tan importante que existen museos dedicados al jamón en Madrid y Aracena."
+  },
+  "where_to_try": [
+    {
+      "name": "Joselito",
+      "city": "Madrid",
+      "description": {
+        "en": "The flagship bar of one of Spain's most prestigious ham producers, offering tastings of their award-winning bellota ham alongside Spanish wines.",
+        "es": "El bar insignia de uno de los productores de jamón más prestigiosos de España, que ofrece degustaciones de su galardonado jamón de bellota junto con vinos españoles."
+      }
+    },
+    {
+      "name": "Dehesa Santa Eufemia",
+      "city": "Extremadura",
+      "description": {
+        "en": "A working dehesa farm offering guided tours to see Iberian pigs in their natural habitat, followed by tastings of their own cured ham.",
+        "es": "Una dehesa en funcionamiento que ofrece visitas guiadas para ver cerdos ibéricos en su hábitat natural, seguidas de degustaciones de su propio jamón curado."
+      }
+    },
+    {
+      "name": "Museo del Jamón",
+      "city": "Madrid",
+      "description": {
+        "en": "A chain of ham bars in Madrid where hundreds of legs hang from the ceiling and you can sample different grades at very affordable prices.",
+        "es": "Una cadena de bares de jamón en Madrid donde cientos de patas cuelgan del techo y puedes probar diferentes calidades a precios muy asequibles."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Look for the colored tag on the ham leg: black label means 100% ibérico de bellota (the highest quality), red is ibérico de bellota, green is ibérico de cebo de campo, and white is ibérico de cebo.",
+      "es": "Busca la etiqueta de color en la pata de jamón: etiqueta negra significa 100% ibérico de bellota (la máxima calidad), roja es ibérico de bellota, verde es ibérico de cebo de campo, y blanca es ibérico de cebo."
+    },
+    {
+      "en": "Jamón ibérico should be served at room temperature and sliced paper-thin. The fat should glisten and be slightly translucent.",
+      "es": "El jamón ibérico se debe servir a temperatura ambiente y cortado en lonchas muy finas. La grasa debe brillar y ser ligeramente translúcida."
+    },
+    {
+      "en": "Don't confuse jamón ibérico with jamón serrano. Serrano is made from white pigs and is more affordable but lacks the complex nutty flavor of ibérico.",
+      "es": "No confundas el jamón ibérico con el jamón serrano. El serrano se hace de cerdo blanco y es más asequible pero carece del complejo sabor a frutos secos del ibérico."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Jamón Ibérico de Bellota", "es": "Jamón Ibérico de Bellota" },
+      "description": {
+        "en": "The highest grade, from pigs that ate only acorns during the final fattening period. Intensely nutty and complex.",
+        "es": "El grado más alto, de cerdos que solo comieron bellotas durante el período final de engorde. Intensamente afrutoado y complejo."
+      }
+    },
+    {
+      "name": { "en": "Jamón Serrano", "es": "Jamón Serrano" },
+      "description": {
+        "en": "Made from white pigs, cured in mountain air. More affordable and widely available, with a cleaner, saltier flavor.",
+        "es": "Hecho de cerdo blanco, curado al aire de montaña. Más asequible y disponible, con un sabor más limpio y salado."
+      }
+    },
+    {
+      "name": { "en": "Paleta Ibérica", "es": "Paleta Ibérica" },
+      "description": {
+        "en": "The front leg (shoulder) of the Iberian pig. Smaller and more affordable than the rear leg, with a slightly more intense flavor.",
+        "es": "La pata delantera (paletilla) del cerdo ibérico. Más pequeña y asequible que la pata trasera, con un sabor ligeramente más intenso."
+      }
+    }
+  ]
+}

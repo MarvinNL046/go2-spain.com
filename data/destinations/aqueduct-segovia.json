@@ -1,0 +1,28 @@
+{
+  "slug": "aqueduct-segovia",
+  "name": {
+    "en": "Aqueduct of Segovia",
+    "es": "Acueducto de Segovia"
+  },
+  "city": "segovia",
+  "region": "castile",
+  "image": "/images/destinations/aqueduct-segovia.jpg",
+  "description": {
+    "en": "One of the best-preserved Roman engineering works anywhere, with 167 granite arches standing 28 meters tall. Built in the 1st-2nd century AD without mortar, it carried water for nearly 2,000 years.",
+    "es": "Una de las obras de ingeniería romana mejor conservadas del mundo, con 167 arcos de granito de 28 metros de altura. Construido en los siglos I-II d.C. sin argamasa, transportó agua durante casi 2.000 años."
+  },
+  "category": "monument",
+  "rating": 4.7,
+  "visitDuration": "30-60 minutes",
+  "price": "Free",
+  "tips": [
+    {
+      "en": "Best viewed from the Plaza del Azoguejo at its tallest point",
+      "es": "Mejor visto desde la Plaza del Azoguejo en su punto más alto"
+    },
+    {
+      "en": "Combine with Segovia's Alcázar castle and Cathedral",
+      "es": "Combina con el Alcázar y la Catedral de Segovia"
+    }
+  ]
+}

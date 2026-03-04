@@ -1,0 +1,19 @@
+{
+  "slug": "hot-air-balloon-segovia",
+  "name": {
+    "en": "Hot Air Balloon over Segovia",
+    "es": "Globo Aerostático sobre Segovia"
+  },
+  "city": "segovia",
+  "region": "castile",
+  "image": "/images/experiences/hot-air-balloon-segovia.jpg",
+  "description": {
+    "en": "Float over the Castilian meseta at sunrise, watching the Roman Aqueduct, Alcázar castle, and cathedral emerge from the morning mist. A magical way to see Segovia's UNESCO treasures.",
+    "es": "Flota sobre la meseta castellana al amanecer, viendo el Acueducto Romano, el Alcázar y la catedral emerger de la niebla matinal. Una forma mágica de ver los tesoros UNESCO de Segovia."
+  },
+  "category": "adventure",
+  "duration": "1-1.5 hours",
+  "price": "€160-200",
+  "difficulty": "easy",
+  "rating": 4.7
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "andalusia",
+  "name": { "en": "Andalusia", "es": "Andalucía" },
+  "description": {
+    "en": "Andalusia is the Spain of popular imagination — a sun-scorched land of flamenco dancers, Moorish palaces, whitewashed villages, and passionate fiestas. Spanning the entire southern coast and interior, it is Spain's largest autonomous community and one of its most culturally rich. Eight centuries of Moorish rule left an extraordinary architectural legacy: the Alhambra in Granada, the Mezquita in Córdoba, and the Alcázar in Seville are among the most visited monuments in Europe. The region is also the heartland of sherry production, olive oil cultivation, and the art of tapas.",
+    "es": "Andalucía es la España del imaginario popular — una tierra abrasada por el sol de bailaoras flamencas, palacios moriscos, pueblos blancos y apasionadas fiestas. Abarcando toda la costa sur y el interior, es la comunidad autónoma más grande de España y una de las más ricas culturalmente. Ocho siglos de dominio morisco dejaron un extraordinario legado arquitectónico: la Alhambra en Granada, la Mezquita en Córdoba y el Alcázar en Sevilla están entre los monumentos más visitados de Europa. La región es también el corazón de la producción de jerez, el cultivo del aceite de oliva y el arte de las tapas."
+  },
+  "geography": {
+    "en": "Andalusia stretches from the Atlantic and Mediterranean coasts to the Sierra Nevada mountains (mainland Spain's highest peak at 3,479m). The Guadalquivir River valley is one of Spain's most fertile agricultural areas. The coastline includes the Costa del Sol, Costa de la Luz, and Costa Tropical.",
+    "es": "Andalucía se extiende desde las costas atlántica y mediterránea hasta las montañas de Sierra Nevada (el pico más alto de la España peninsular con 3.479m). El valle del río Guadalquivir es una de las zonas agrícolas más fértiles de España. La costa incluye la Costa del Sol, la Costa de la Luz y la Costa Tropical."
+  },
+  "culture": {
+    "en": "Andalusia is the birthplace of flamenco, a passionate art form combining song (cante), dance (baile), and guitar. The region's festivals — Seville's Feria de Abril, Semana Santa processions, and romerías — are among Spain's most spectacular. Bullfighting has deep roots here, with Ronda considered its birthplace.",
+    "es": "Andalucía es la cuna del flamenco, un arte apasionado que combina cante, baile y guitarra. Las fiestas de la región — la Feria de Abril de Sevilla, las procesiones de Semana Santa y las romerías — están entre las más espectaculares de España. La tauromaquia tiene raíces profundas aquí, con Ronda considerada su cuna."
+  },
+  "cuisine": {
+    "en": "Andalusian cuisine revolves around olive oil, fresh seafood, and simple preparations that let quality ingredients shine. Gazpacho and salmorejo are summer staples, fried fish (pescaíto frito) is perfected here, and tapas culture arguably originated in Seville. Sherry from Jerez and olive oil from Jaén are world-renowned.",
+    "es": "La cocina andaluza gira en torno al aceite de oliva, el marisco fresco y las preparaciones sencillas que dejan brillar los ingredientes de calidad. El gazpacho y el salmorejo son básicos del verano, el pescaíto frito se perfecciona aquí, y la cultura de tapas posiblemente se originó en Sevilla. El jerez y el aceite de oliva de Jaén son de renombre mundial."
+  },
+  "climate": {
+    "en": "Hot Mediterranean and semi-arid climate. Summers are extremely hot (35-45°C), especially inland. Winters are mild along the coast (10-18°C) but colder in the mountains. Over 300 days of sunshine in most areas. The coast enjoys sea breezes that moderate temperatures.",
+    "es": "Clima mediterráneo cálido y semiárido. Los veranos son extremadamente calurosos (35-45°C), especialmente en el interior. Los inviernos son suaves en la costa (10-18°C) pero más fríos en las montañas. Más de 300 días de sol en la mayoría de zonas. La costa disfruta de brisas marinas que moderan las temperaturas."
+  },
+  "highlights": [
+    {
+      "title": { "en": "The Alhambra", "es": "La Alhambra" },
+      "description": { "en": "The crown jewel of Moorish architecture in Granada, with its intricate geometric carvings, tranquil courtyards, and the stunning Generalife gardens.", "es": "La joya de la corona de la arquitectura morisca en Granada, con sus intrincadas tallas geométricas, tranquilos patios y los impresionantes jardines del Generalife." }
+    },
+    {
+      "title": { "en": "Seville's Monuments", "es": "Monumentos de Sevilla" },
+      "description": { "en": "The Gothic cathedral (world's largest), the Royal Alcázar palace, and the sweeping Plaza de España make Seville a monumental treasure.", "es": "La catedral gótica (la más grande del mundo), el palacio del Real Alcázar y la grandiosa Plaza de España hacen de Sevilla un tesoro monumental." }
+    },
+    {
+      "title": { "en": "White Villages Route", "es": "Ruta de los Pueblos Blancos" },
+      "description": { "en": "Whitewashed hill towns like Ronda, Arcos de la Frontera, and Frigiliana offer stunning views and authentic Andalusian atmosphere.", "es": "Pueblos blancos en las colinas como Ronda, Arcos de la Frontera y Frigiliana ofrecen vistas impresionantes y auténtica atmósfera andaluza." }
+    }
+  ],
+  "travelTips": [
+    {
+      "title": { "en": "Avoid Midday Heat", "es": "Evita el Calor del Mediodía" },
+      "description": { "en": "In summer, follow the local schedule: sightsee early morning, rest during the hottest hours (2-5pm), and enjoy the cooler evenings for dining and exploring.", "es": "En verano, sigue el horario local: visita atracciones temprano, descansa durante las horas más calurosas (14-17h) y disfruta de las noches más frescas para cenar y explorar." }
+    },
+    {
+      "title": { "en": "Book Alhambra Tickets Early", "es": "Reserva Entradas a la Alhambra con Antelación" },
+      "description": { "en": "Alhambra tickets sell out weeks in advance, especially for the Nasrid Palaces. Book online at least 2-3 months ahead during peak season.", "es": "Las entradas a la Alhambra se agotan semanas antes, especialmente para los Palacios Nazaríes. Reserva online al menos 2-3 meses antes en temporada alta." }
+    },
+    {
+      "title": { "en": "Embrace Tapas Culture", "es": "Adopta la Cultura de Tapas" },
+      "description": { "en": "Many bars in Granada and parts of Andalusia still serve free tapas with drinks. Eat like a local by bar-hopping and having small bites at multiple spots.", "es": "Muchos bares en Granada y partes de Andalucía todavía sirven tapas gratis con las bebidas. Come como un local yendo de bar en bar y picoteando en varios sitios." }
+    }
+  ],
+  "popularCities": ["seville", "granada", "malaga"],
+  "image": "/images/regions/andalusia.jpg",
+  "gallery": ["/images/regions/andalusia-1.jpg", "/images/regions/andalusia-2.jpg", "/images/regions/andalusia-3.jpg"]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "giralda-tower",
+  "name": {
+    "en": "Giralda Tower",
+    "es": "La Giralda"
+  },
+  "city": "seville",
+  "region": "andalusia",
+  "image": "/images/destinations/giralda-tower.jpg",
+  "description": {
+    "en": "Seville's iconic bell tower, originally the minaret of the Great Mosque, converted to a cathedral bell tower after the Reconquest. Climb its 35 ramps (no stairs) for sweeping city views.",
+    "es": "La icónica torre campanario de Sevilla, originalmente el minarete de la Gran Mezquita, convertido en campanario de la catedral tras la Reconquista. Sube sus 35 rampas (sin escalones) para amplias vistas de la ciudad."
+  },
+  "category": "monument",
+  "rating": 4.7,
+  "visitDuration": "30-60 minutes",
+  "price": "€11 (with cathedral)",
+  "tips": [
+    {
+      "en": "The ramps were designed so horsemen could ride to the top",
+      "es": "Las rampas fueron diseñadas para que los jinetes pudieran subir a caballo"
+    },
+    {
+      "en": "Visit included with Seville Cathedral ticket",
+      "es": "Visita incluida con la entrada a la Catedral de Sevilla"
+    }
+  ]
+}

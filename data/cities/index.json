@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "id": 1,
+    "slug": "madrid",
+    "name": { "en": "Madrid", "es": "Madrid" },
+    "region": "central-spain",
+    "province": "Community of Madrid",
+    "image": "/images/cities/madrid.jpg",
+    "highlights": [
+      { "en": "The Prado Museum", "es": "El Museo del Prado" },
+      { "en": "Retiro Park", "es": "El Parque del Retiro" },
+      { "en": "Royal Palace", "es": "Palacio Real" }
+    ],
+    "description": {
+      "en": "Spain's vibrant capital city, home to world-class art museums, stunning royal architecture, and an unrivaled nightlife and culinary scene.",
+      "es": "La vibrante capital de España, hogar de museos de arte de clase mundial, impresionante arquitectura real y una vida nocturna y escena culinaria inigualables."
+    }
+  },
+  {
+    "id": 2,
+    "slug": "barcelona",
+    "name": { "en": "Barcelona", "es": "Barcelona" },
+    "region": "catalonia",
+    "province": "Barcelona",
+    "image": "/images/cities/barcelona.jpg",
+    "highlights": [
+      { "en": "La Sagrada Familia", "es": "La Sagrada Familia" },
+      { "en": "Park Güell", "es": "Park Güell" },
+      { "en": "La Rambla", "es": "La Rambla" }
+    ],
+    "description": {
+      "en": "A cosmopolitan Mediterranean city famous for Gaudí's extraordinary architecture, beautiful beaches, and a thriving food and art scene.",
+      "es": "Una ciudad mediterránea cosmopolita famosa por la extraordinaria arquitectura de Gaudí, hermosas playas y una próspera escena gastronómica y artística."
+    }
+  },
+  {
+    "id": 3,
+    "slug": "seville",
+    "name": { "en": "Seville", "es": "Sevilla" },
+    "region": "andalusia",
+    "province": "Seville",
+    "image": "/images/cities/seville.jpg",
+    "highlights": [
+      { "en": "The Alcázar", "es": "El Real Alcázar" },
+      { "en": "Seville Cathedral & Giralda", "es": "La Catedral y la Giralda" },
+      { "en": "Plaza de España", "es": "Plaza de España" }
+    ],
+    "description": {
+      "en": "The passionate heart of Andalusia, where flamenco was born, with stunning Moorish architecture, orange-tree-lined streets, and lively tapas bars.",
+      "es": "El apasionado corazón de Andalucía, donde nació el flamenco, con impresionante arquitectura morisca, calles con naranjos y animados bares de tapas."
+    }
+  },
+  {
+    "id": 4,
+    "slug": "valencia",
+    "name": { "en": "Valencia", "es": "Valencia" },
+    "region": "valencia",
+    "province": "Valencia",
+    "image": "/images/cities/valencia.jpg",
+    "highlights": [
+      { "en": "City of Arts and Sciences", "es": "Ciudad de las Artes y las Ciencias" },
+      { "en": "Central Market", "es": "Mercado Central" },
+      { "en": "La Albufera", "es": "La Albufera" }
+    ],
+    "description": {
+      "en": "The birthplace of paella, blending futuristic architecture with a charming old town, beautiful beaches, and the famous Las Fallas festival.",
+      "es": "La cuna de la paella, que combina arquitectura futurista con un encantador casco antiguo, hermosas playas y las famosas fiestas de Las Fallas."
+    }
+  },
+  {
+    "id": 5,
+    "slug": "granada",
+    "name": { "en": "Granada", "es": "Granada" },
+    "region": "andalusia",
+    "province": "Granada",
+    "image": "/images/cities/granada.jpg",
+    "highlights": [
+      { "en": "The Alhambra", "es": "La Alhambra" },
+      { "en": "Albaicín Quarter", "es": "El Albaicín" },
+      { "en": "Sierra Nevada", "es": "Sierra Nevada" }
+    ],
+    "description": {
+      "en": "A mesmerizing city at the foot of the Sierra Nevada, crowned by the magnificent Alhambra palace and steeped in Moorish heritage.",
+      "es": "Una ciudad fascinante a los pies de Sierra Nevada, coronada por el magnífico palacio de la Alhambra e impregnada de herencia morisca."
+    }
+  },
+  {
+    "id": 6,
+    "slug": "bilbao",
+    "name": { "en": "Bilbao", "es": "Bilbao" },
+    "region": "basque-country",
+    "province": "Biscay",
+    "image": "/images/cities/bilbao.jpg",
+    "highlights": [
+      { "en": "Guggenheim Museum", "es": "Museo Guggenheim" },
+      { "en": "Casco Viejo (Old Town)", "es": "Casco Viejo" },
+      { "en": "Pintxos Bars", "es": "Bares de Pintxos" }
+    ],
+    "description": {
+      "en": "A transformed industrial city now famous for the iconic Guggenheim Museum, exceptional Basque cuisine, and a vibrant cultural scene.",
+      "es": "Una ciudad industrial transformada, ahora famosa por el icónico Museo Guggenheim, la excepcional cocina vasca y una vibrante escena cultural."
+    }
+  },
+  {
+    "id": 7,
+    "slug": "san-sebastian",
+    "name": { "en": "San Sebastián", "es": "San Sebastián" },
+    "region": "basque-country",
+    "province": "Gipuzkoa",
+    "image": "/images/cities/san-sebastian.jpg",
+    "highlights": [
+      { "en": "La Concha Beach", "es": "Playa de la Concha" },
+      { "en": "Old Town Pintxos", "es": "Pintxos del Casco Viejo" },
+      { "en": "Monte Igueldo", "es": "Monte Igueldo" }
+    ],
+    "description": {
+      "en": "A stunning coastal city with one of Europe's best urban beaches, world-renowned pintxos bars, and a prestigious food culture with multiple Michelin stars.",
+      "es": "Una impresionante ciudad costera con una de las mejores playas urbanas de Europa, bares de pintxos de renombre mundial y una prestigiosa cultura gastronómica con múltiples estrellas Michelin."
+    }
+  },
+  {
+    "id": 8,
+    "slug": "malaga",
+    "name": { "en": "Málaga", "es": "Málaga" },
+    "region": "andalusia",
+    "province": "Málaga",
+    "image": "/images/cities/malaga.jpg",
+    "highlights": [
+      { "en": "Picasso Museum", "es": "Museo Picasso" },
+      { "en": "Alcazaba Fortress", "es": "La Alcazaba" },
+      { "en": "Malagueta Beach", "es": "Playa de la Malagueta" }
+    ],
+    "description": {
+      "en": "Picasso's birthplace and gateway to the Costa del Sol, with a revitalized cultural scene, historic Moorish fortress, and sun-drenched beaches.",
+      "es": "Ciudad natal de Picasso y puerta de la Costa del Sol, con una revitalizada escena cultural, una histórica fortaleza morisca y playas bañadas por el sol."
+    }
+  },
+  {
+    "id": 9,
+    "slug": "toledo",
+    "name": { "en": "Toledo", "es": "Toledo" },
+    "region": "castile",
+    "province": "Toledo",
+    "image": "/images/cities/toledo.jpg",
+    "highlights": [
+      { "en": "Toledo Cathedral", "es": "Catedral de Toledo" },
+      { "en": "Alcázar of Toledo", "es": "Alcázar de Toledo" },
+      { "en": "El Greco Museum", "es": "Museo del Greco" }
+    ],
+    "description": {
+      "en": "The ancient 'City of Three Cultures' perched on a hill above the Tagus River, where Christian, Muslim, and Jewish heritage intertwine in a medieval labyrinth.",
+      "es": "La antigua 'Ciudad de las Tres Culturas' encaramada en una colina sobre el río Tajo, donde la herencia cristiana, musulmana y judía se entrelazan en un laberinto medieval."
+    }
+  },
+  {
+    "id": 10,
+    "slug": "salamanca",
+    "name": { "en": "Salamanca", "es": "Salamanca" },
+    "region": "castile",
+    "province": "Salamanca",
+    "image": "/images/cities/salamanca.jpg",
+    "highlights": [
+      { "en": "University of Salamanca", "es": "Universidad de Salamanca" },
+      { "en": "Plaza Mayor", "es": "Plaza Mayor" },
+      { "en": "New & Old Cathedrals", "es": "Catedrales Nueva y Vieja" }
+    ],
+    "description": {
+      "en": "A golden-hued university city with Spain's oldest university, a magnificent Plaza Mayor, and a youthful energy fueled by its large student population.",
+      "es": "Una ciudad universitaria de tonos dorados con la universidad más antigua de España, una magnífica Plaza Mayor y una energía juvenil impulsada por su gran población estudiantil."
+    }
+  }
+]

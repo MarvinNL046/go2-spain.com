@@ -1,0 +1,62 @@
+{
+  "slug": "vermouth",
+  "name": { "en": "Vermouth", "es": "Vermut" },
+  "description": {
+    "en": "Spain is experiencing a vermouth renaissance, reviving the tradition of 'la hora del vermut' — vermouth hour before Sunday lunch. Served on tap with ice, an olive, and an orange slice, Spanish vermouth is typically sweeter and more herbal than Italian versions.",
+    "es": "España está viviendo un renacimiento del vermut, reviviendo la tradición de 'la hora del vermut' antes del almuerzo dominical. Servido de grifo con hielo, una aceituna y una rodaja de naranja, el vermut español es típicamente más dulce y herbáceo que las versiones italianas."
+  },
+  "enhanced_description": "Spanish vermouth (vermut) is experiencing a spectacular cultural revival, with the cherished tradition of 'la hora del vermut' -- the pre-lunch vermouth hour, typically on Sundays -- returning to bars across the country after decades of decline. Spanish vermut is an aromatized, fortified wine infused with a proprietary blend of botanicals, herbs, and spices that varies by producer, resulting in a drink that is typically richer, sweeter, and more herbaceous than its Italian counterpart. Served from the tap (de grifo) over ice with a green olive and an orange slice, accompanied by a small dish of chips or olives, the ritual of vermouth hour is as much about the social occasion -- gathering with friends before a long Sunday lunch -- as it is about the drink itself.",
+  "region": "national",
+  "category": "spirit",
+  "alcoholic": true,
+  "image": "/images/drinks/vermouth.jpg",
+  "price_range": "€2-5 per glass",
+  "history": {
+    "en": "Vermouth production in Spain dates to the mid-19th century, when it was heavily influenced by Italian immigrants, particularly in Catalonia. The town of Reus in Tarragona became Spain's vermouth capital, home to producers like Yzaguirre (founded 1884) and many others. 'La hora del vermut' became a beloved pre-lunch Sunday tradition across Spain, a social ritual that peaked in the 1960s and 1970s before declining in the 1980s as younger generations turned to beer and cocktails. Since around 2010, vermouth has experienced a dramatic renaissance, driven by bartenders and young Spaniards rediscovering this tradition. New vermut bars have opened in cities across Spain, traditional producers have been revitalized, and artisanal vermut brands have proliferated.",
+    "es": "La producción de vermut en España data de mediados del siglo XIX, cuando fue fuertemente influenciada por inmigrantes italianos, particularmente en Cataluña. La ciudad de Reus en Tarragona se convirtió en la capital del vermut de España, hogar de productores como Yzaguirre (fundado en 1884) y muchos otros. 'La hora del vermut' se convirtió en una querida tradición dominical pre-almuerzo en toda España, un ritual social que alcanzó su punto máximo en los años 60 y 70 antes de declinar en los 80 cuando las generaciones más jóvenes se pasaron a la cerveza y los cócteles. Desde aproximadamente 2010, el vermut ha experimentado un espectacular renacimiento, impulsado por bartenders y jóvenes españoles que redescubren esta tradición. Nuevos bares de vermut han abierto en ciudades de toda España, los productores tradicionales se han revitalizado y las marcas artesanales de vermut han proliferado."
+  },
+  "how_to_enjoy": {
+    "en": "The classic way to drink Spanish vermut is 'de grifo' (from the tap) in a short tumbler glass over ice, garnished with a green olive and an orange slice. Some bars add a splash of soda water. It's traditionally enjoyed before lunch, particularly on Sundays, as an aperitif with small snacks like chips, olives, or pickled mussels. Don't rush it -- vermut hour is about conversation and leisurely anticipation of the meal to come.",
+    "es": "La forma clásica de beber vermut español es 'de grifo' en un vaso corto sobre hielo, adornado con una aceituna verde y una rodaja de naranja. Algunos bares añaden un chorrito de sifón. Tradicionalmente se disfruta antes de la comida, particularmente los domingos, como aperitivo con pequeños snacks como patatas fritas, aceitunas o mejillones en escabeche. No lo apresures -- la hora del vermut es para conversar y anticipar tranquilamente la comida que vendrá."
+  },
+  "where_to_try": [
+    {
+      "name": "Casa Mariol",
+      "city": "Barcelona",
+      "description": {
+        "en": "A trendy vermutería in the Sant Antoni neighborhood that produces its own vermut and serves it from beautiful ceramic taps alongside gourmet conservas (tinned seafood).",
+        "es": "Una trendy vermutería en el barrio de Sant Antoni que produce su propio vermut y lo sirve de hermosos grifos de cerámica junto a conservas gourmet."
+      }
+    },
+    {
+      "name": "La Hora del Vermut",
+      "city": "Madrid",
+      "description": {
+        "en": "A dedicated vermut bar in the Malasaña neighborhood celebrating the revival of this tradition, with dozens of Spanish and international vermouths available.",
+        "es": "Un bar de vermut dedicado en el barrio de Malasaña que celebra el renacimiento de esta tradición, con docenas de vermuts españoles e internacionales disponibles."
+      }
+    },
+    {
+      "name": "Morro Fi",
+      "city": "Barcelona",
+      "description": {
+        "en": "A celebrated vermut bar in the Eixample district known for its excellent house vermut on tap and outstanding selection of tinned seafood conservas.",
+        "es": "Un célebre bar de vermut en el Eixample conocido por su excelente vermut de grifo y su destacada selección de conservas de marisco."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Ask for vermut 'de grifo' (from the tap) rather than bottled -- tap vermouth is served at the perfect temperature and has a fresher, more vibrant taste.",
+      "es": "Pide el vermut 'de grifo' en vez de embotellado -- el vermut de grifo se sirve a la temperatura perfecta y tiene un sabor más fresco y vibrante."
+    },
+    {
+      "en": "Sunday before lunch is the traditional time for vermut. Join the locals for 'la hora del vermut' around noon to 2 PM for the most authentic experience.",
+      "es": "El domingo antes de comer es el momento tradicional para el vermut. Únete a los locales para 'la hora del vermut' alrededor de las 12 a las 14 para la experiencia más auténtica."
+    },
+    {
+      "en": "Pair your vermut with conservas (premium tinned seafood), olives, chips, or pickled vegetables. These simple snacks are the traditional accompaniment.",
+      "es": "Acompaña tu vermut con conservas (marisco en lata premium), aceitunas, patatas fritas o encurtidos. Estos sencillos aperitivos son el acompañamiento tradicional."
+    }
+  ]
+}

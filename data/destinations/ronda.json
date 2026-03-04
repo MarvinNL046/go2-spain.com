@@ -1,0 +1,28 @@
+{
+  "slug": "ronda",
+  "name": {
+    "en": "Ronda",
+    "es": "Ronda"
+  },
+  "city": "ronda",
+  "region": "andalusia",
+  "image": "/images/destinations/ronda.jpg",
+  "description": {
+    "en": "A spectacular clifftop town dramatically split by the 120-meter-deep El Tajo gorge, spanned by the iconic 18th-century Puente Nuevo bridge. Birthplace of modern bullfighting.",
+    "es": "Un espectacular pueblo en un acantilado dramáticamente dividido por el tajo de 120 metros de profundidad, cruzado por el icónico Puente Nuevo del siglo XVIII. Cuna de la tauromaquia moderna."
+  },
+  "category": "town",
+  "rating": 4.6,
+  "visitDuration": "Half day",
+  "price": "Free",
+  "tips": [
+    {
+      "en": "Visit in the morning before day-trip buses arrive from the coast",
+      "es": "Visita por la mañana antes de que lleguen los autobuses de excursión desde la costa"
+    },
+    {
+      "en": "Walk down to the bottom of the gorge for the best bridge photo",
+      "es": "Baja al fondo del tajo para la mejor foto del puente"
+    }
+  ]
+}

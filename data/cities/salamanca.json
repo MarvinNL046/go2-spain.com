@@ -1,0 +1,116 @@
+{
+  "slug": "salamanca",
+  "name": { "en": "Salamanca", "es": "Salamanca" },
+  "region": "castile",
+  "province": "Salamanca",
+  "population": 144000,
+  "elevation": 800,
+  "image": "/images/cities/salamanca.jpg",
+  "gallery": ["/images/cities/salamanca-1.jpg", "/images/cities/salamanca-2.jpg", "/images/cities/salamanca-3.jpg"],
+  "description": {
+    "en": "Salamanca radiates a warm golden glow from its sandstone buildings, particularly magical at sunset when the entire old town seems to shimmer. Home to one of Europe's oldest universities (founded in 1218), the city pulses with youthful energy from its 30,000 students. The monumental Plaza Mayor, considered Spain's most beautiful square, is the social heart of the city. Salamanca's two cathedrals — the Romanesque Old Cathedral and the Gothic-Renaissance New Cathedral — stand side by side as testaments to centuries of architectural ambition.",
+    "es": "Salamanca irradia un cálido brillo dorado desde sus edificios de piedra arenisca, especialmente mágico al atardecer cuando todo el casco antiguo parece brillar. Hogar de una de las universidades más antiguas de Europa (fundada en 1218), la ciudad vibra con la energía juvenil de sus 30.000 estudiantes. La monumental Plaza Mayor, considerada la plaza más hermosa de España, es el corazón social de la ciudad. Las dos catedrales de Salamanca — la Catedral Vieja románica y la Catedral Nueva gótico-renacentista — se alzan juntas como testamento de siglos de ambición arquitectónica."
+  },
+  "highlights": [
+    { "en": "Plaza Mayor", "es": "Plaza Mayor" },
+    { "en": "University of Salamanca", "es": "Universidad de Salamanca" },
+    { "en": "New & Old Cathedrals", "es": "Catedrales Nueva y Vieja" },
+    { "en": "Casa de las Conchas", "es": "Casa de las Conchas" },
+    { "en": "Clerecía & Scala Coeli Towers", "es": "La Clerecía y Torres de la Scala Coeli" }
+  ],
+  "bestTimeToVisit": {
+    "en": "Spring (April-June) and early autumn (September-October) are best. The university year gives the city its liveliest atmosphere. Summer can be very hot, and winter cold but atmospheric with fewer tourists. Semana Santa celebrations are deeply moving.",
+    "es": "La primavera (abril-junio) y principios de otoño (septiembre-octubre) son los mejores. El curso universitario da a la ciudad su atmósfera más animada. El verano puede ser muy caluroso, y el invierno frío pero con más encanto y menos turistas. Las celebraciones de Semana Santa son profundamente conmovedoras."
+  },
+  "gettingAround": {
+    "en": "Salamanca's old town is compact and flat, making it one of Spain's most walkable cities. Everything of interest is within a 15-minute stroll from Plaza Mayor. Local buses serve the wider area, and the bus station connects to Madrid (2.5 hours) and other cities.",
+    "es": "El casco antiguo de Salamanca es compacto y llano, lo que la convierte en una de las ciudades más transitables a pie de España. Todo lo interesante está a menos de 15 minutos andando desde la Plaza Mayor. Los autobuses locales sirven el área más amplia, y la estación de autobuses conecta con Madrid (2,5 horas) y otras ciudades."
+  },
+  "neighborhoods": [
+    {
+      "name": { "en": "Plaza Mayor & Centro", "es": "Plaza Mayor y Centro" },
+      "description": {
+        "en": "The monumental center revolving around Spain's grandest Baroque square. Cafés spill into the arcaded plaza, and the surrounding streets host shops, restaurants, and historic buildings.",
+        "es": "El centro monumental que gira alrededor de la plaza barroca más grandiosa de España. Los cafés se extienden por la plaza porticada, y las calles circundantes albergan tiendas, restaurantes y edificios históricos."
+      },
+      "vibe": { "en": "Grand, social, and the city's beating heart", "es": "Grandioso, social y el corazón latente de la ciudad" }
+    },
+    {
+      "name": { "en": "University Quarter", "es": "Barrio Universitario" },
+      "description": {
+        "en": "The area around the historic university campus, where students and tourists mingle among Plateresque facades. The famous frog sculpture on the university's entrance is a must-find.",
+        "es": "La zona alrededor del campus universitario histórico, donde estudiantes y turistas se mezclan entre fachadas platerescas. La famosa escultura de la rana en la entrada de la universidad es un imprescindible."
+      },
+      "vibe": { "en": "Academic, youthful, and architecturally rich", "es": "Académico, juvenil y arquitectónicamente rico" }
+    },
+    {
+      "name": { "en": "La Vaguada / Nightlife Zone", "es": "La Vaguada / Zona de Noche" },
+      "description": {
+        "en": "The student nightlife area around Calle Van Dyck and Gran Vía, where bars and clubs keep Salamanca buzzing until dawn. Budget-friendly dining and drinking options abound.",
+        "es": "La zona de vida nocturna estudiantil alrededor de la Calle Van Dyck y Gran Vía, donde bares y discotecas mantienen Salamanca en ebullición hasta el amanecer. Abundan opciones económicas para comer y beber."
+      },
+      "vibe": { "en": "Student nightlife and budget-friendly dining", "es": "Vida nocturna estudiantil y comida económica" }
+    }
+  ],
+  "localFood": [
+    {
+      "name": { "en": "Hornazo", "es": "Hornazo" },
+      "description": {
+        "en": "A savory pie filled with chorizo, loin, and hard-boiled eggs, baked in a bread-like crust. Traditionally eaten on Lunes de Aguas, a local holiday the Monday after Easter.",
+        "es": "Un pastel salado relleno de chorizo, lomo y huevos duros, horneado en una masa tipo pan. Tradicionalmente se come en el Lunes de Aguas, una fiesta local el lunes después de Semana Santa."
+      }
+    },
+    {
+      "name": { "en": "Farinato", "es": "Farinato" },
+      "description": {
+        "en": "A unique Salamancan sausage made from breadcrumbs, pork fat, and spices (no meat). Fried and often served with eggs. An unusual delicacy from the region.",
+        "es": "Un embutido salmantino único hecho de pan rallado, manteca de cerdo y especias (sin carne). Frito y a menudo servido con huevos. Una delicia inusual de la región."
+      }
+    },
+    {
+      "name": { "en": "Chanfaina", "es": "Chanfaina" },
+      "description": {
+        "en": "A hearty rice dish cooked with lamb offal and spices, a traditional rural dish from the Salamanca countryside that's still served in traditional restaurants.",
+        "es": "Un contundente plato de arroz cocinado con casquería de cordero y especias, un plato rural tradicional del campo salmantino que todavía se sirve en restaurantes tradicionales."
+      }
+    },
+    {
+      "name": { "en": "Jamón Ibérico de Guijuelo", "es": "Jamón Ibérico de Guijuelo" },
+      "description": {
+        "en": "Guijuelo, just south of Salamanca, is one of Spain's most prestigious jamón ibérico producing towns. The acorn-fed ham from here is among the finest in the world.",
+        "es": "Guijuelo, al sur de Salamanca, es uno de los pueblos productores de jamón ibérico más prestigiosos de España. El jamón de bellota de aquí está entre los mejores del mundo."
+      }
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": { "en": "La Alberca", "es": "La Alberca" },
+      "description": {
+        "en": "A beautifully preserved medieval village in the Sierra de Francia, with half-timbered houses, cobblestone streets, and a tradition of free-roaming pigs fattening on acorns.",
+        "es": "Un pueblo medieval bellamente conservado en la Sierra de Francia, con casas de entramado de madera, calles empedradas y una tradición de cerdos que campan libres engordando con bellotas."
+      },
+      "distance": "80km"
+    },
+    {
+      "name": { "en": "Ciudad Rodrigo", "es": "Ciudad Rodrigo" },
+      "description": {
+        "en": "A fortified border town with an impressive castle, Romanesque cathedral, and well-preserved walls. Its Carnival is one of the oldest in Spain.",
+        "es": "Una ciudad fronteriza fortificada con un impresionante castillo, catedral románica y murallas bien conservadas. Su Carnaval es uno de los más antiguos de España."
+      },
+      "distance": "90km"
+    },
+    {
+      "name": { "en": "Zamora", "es": "Zamora" },
+      "description": {
+        "en": "A city with the highest concentration of Romanesque churches in Europe, plus a distinctive Byzantine-domed cathedral and excellent Semana Santa processions.",
+        "es": "Una ciudad con la mayor concentración de iglesias románicas de Europa, además de una catedral con cúpula bizantina distintiva y excelentes procesiones de Semana Santa."
+      },
+      "distance": "65km"
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€25-40/day", "es": "25-40€/día" },
+    "midRange": { "en": "€60-120/day", "es": "60-120€/día" },
+    "luxury": { "en": "€180+/day", "es": "180+€/día" }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "menorca",
+  "name": { "en": "Menorca", "es": "Menorca" },
+  "archipelago": "Balearic Islands",
+  "population": 96000,
+  "area": 694,
+  "climate": {
+    "en": "Mediterranean climate with warm summers (24-30°C) and mild winters (10-15°C). Menorca is windier than Mallorca, particularly from the Tramontana north wind. Sea temperatures are pleasant from June to October.",
+    "es": "Clima mediterráneo con veranos cálidos (24-30°C) e inviernos suaves (10-15°C). Menorca es más ventosa que Mallorca, particularmente por la Tramontana del norte. Las temperaturas del mar son agradables de junio a octubre."
+  },
+  "description": {
+    "en": "Menorca is the antithesis of mass tourism — a tranquil, unspoiled island designated as a UNESCO Biosphere Reserve in 1993. While Mallorca and Ibiza draw the crowds, Menorca offers something increasingly rare in the Mediterranean: pristine, undeveloped beaches accessed by country paths, ancient prehistoric stone monuments (the Talayotic culture), and a slower pace of life. The island's two main towns — the British-influenced Mahón (with Europe's second-largest natural harbor) and the medieval Ciutadella — each have distinct characters. The 185km Camí de Cavalls coastal path circles the entire island.",
+    "es": "Menorca es la antítesis del turismo de masas — una isla tranquila y virgen designada Reserva de la Biosfera por la UNESCO en 1993. Mientras Mallorca e Ibiza atraen a las multitudes, Menorca ofrece algo cada vez más raro en el Mediterráneo: playas prístinas y sin urbanizar accesibles por caminos rurales, antiguos monumentos prehistóricos de piedra (la cultura talayótica) y un ritmo de vida más lento. Las dos ciudades principales — Mahón de influencia británica (con el segundo puerto natural más grande de Europa) y la medieval Ciutadella — tienen cada una su propio carácter. El sendero costero Camí de Cavalls de 185km rodea toda la isla."
+  },
+  "highlights": [
+    { "en": "Pristine beaches and coves", "es": "Playas y calas prístinas" },
+    { "en": "Talayotic prehistoric monuments", "es": "Monumentos prehistóricos talayóticos" },
+    { "en": "Camí de Cavalls coastal trail", "es": "Sendero costero Camí de Cavalls" },
+    { "en": "Mahón harbor and gin distilleries", "es": "Puerto de Mahón y destilerías de ginebra" },
+    { "en": "Ciutadella's medieval old town", "es": "Casco antiguo medieval de Ciutadella" }
+  ],
+  "bestTimeToVisit": {
+    "en": "June to September for beach weather, with July-August being peak season. May-June and September-October are ideal for hiking and cycling with fewer crowds. Many hotels and restaurants close from November to April.",
+    "es": "De junio a septiembre para tiempo de playa, siendo julio-agosto temporada alta. Mayo-junio y septiembre-octubre son ideales para senderismo y ciclismo con menos aglomeraciones. Muchos hoteles y restaurantes cierran de noviembre a abril."
+  },
+  "gettingThere": {
+    "en": "Menorca Airport (MAH) has direct flights from major European cities, mostly seasonal (May-October). Year-round flights operate from Madrid and Barcelona. Ferries connect to Barcelona (6 hours) and Mallorca (2 hours). The fast ferry from Mallorca takes about 1 hour.",
+    "es": "El Aeropuerto de Menorca (MAH) tiene vuelos directos desde las principales ciudades europeas, mayoritariamente estacionales (mayo-octubre). Vuelos todo el año operan desde Madrid y Barcelona. Ferris conectan con Barcelona (6 horas) y Mallorca (2 horas). El ferry rápido desde Mallorca tarda aproximadamente 1 hora."
+  },
+  "beaches": [
+    {
+      "name": { "en": "Cala Macarella & Macarelleta", "es": "Cala Macarella y Macarelleta" },
+      "description": { "en": "Twin turquoise coves framed by pine-covered cliffs, consistently ranked among the Mediterranean's most beautiful beaches. Macarelleta is the smaller, more intimate of the two.", "es": "Calas gemelas turquesas enmarcadas por acantilados cubiertos de pinos, consistentemente clasificadas entre las playas más bellas del Mediterráneo. Macarelleta es la más pequeña e íntima de las dos." }
+    },
+    {
+      "name": { "en": "Cala Mitjana", "es": "Cala Mitjana" },
+      "description": { "en": "A secluded cove reached via a beautiful coastal walk, with crystal-clear water and a narrow entrance framed by rocky cliffs. A connecting path leads to the tiny Cala Mitjaneta.", "es": "Una cala apartada a la que se llega por un hermoso paseo costero, con aguas cristalinas y una entrada estrecha enmarcada por acantilados rocosos. Un sendero conecta con la diminuta Cala Mitjaneta." }
+    },
+    {
+      "name": { "en": "Cavalleria", "es": "Cavalleria" },
+      "description": { "en": "A wild, north-facing beach with reddish sand and dramatic waves. One of the few beaches that captures the windswept, wilder character of Menorca's northern coast.", "es": "Una playa salvaje orientada al norte con arena rojiza y olas espectaculares. Una de las pocas playas que captura el carácter ventoso y salvaje de la costa norte de Menorca." }
+    }
+  ],
+  "activities": [
+    {
+      "name": { "en": "Walk the Camí de Cavalls", "es": "Recorre el Camí de Cavalls" },
+      "description": { "en": "A historic 185km trail that circles the entire island, originally used for coastal defense. It can be walked in stages, with each section offering different landscapes from cliffs to coves to farmland.", "es": "Un sendero histórico de 185km que rodea toda la isla, originalmente usado para defensa costera. Se puede caminar por etapas, con cada sección ofreciendo diferentes paisajes desde acantilados hasta calas y tierras de cultivo." }
+    },
+    {
+      "name": { "en": "Visit Talayotic Sites", "es": "Visita Yacimientos Talayóticos" },
+      "description": { "en": "Menorca has over 1,500 prehistoric stone monuments from the Talayotic culture (1500-123 BC). The taula at Torre d'en Galmés and the naveta at Es Tudons are the most impressive.", "es": "Menorca tiene más de 1.500 monumentos prehistóricos de piedra de la cultura talayótica (1500-123 a.C.). La taula de Torre d'en Galmés y la naveta de Es Tudons son los más impresionantes." }
+    },
+    {
+      "name": { "en": "Kayaking the Coast", "es": "Kayak por la Costa" },
+      "description": { "en": "Sea kayaking is one of the best ways to explore Menorca's hidden coves and sea caves. Guided tours depart from various points around the island.", "es": "El kayak de mar es una de las mejores formas de explorar las calas escondidas y cuevas marinas de Menorca. Excursiones guiadas parten de varios puntos de la isla." }
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€45-65/day", "es": "45-65€/día" },
+    "midRange": { "en": "€100-180/day", "es": "100-180€/día" },
+    "luxury": { "en": "€300+/day", "es": "300+€/día" }
+  }
+}

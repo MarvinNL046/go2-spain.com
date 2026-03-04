@@ -1,0 +1,63 @@
+{
+  "slug": "mallorca",
+  "name": { "en": "Mallorca", "es": "Mallorca" },
+  "archipelago": "Balearic Islands",
+  "population": 896000,
+  "area": 3640,
+  "climate": {
+    "en": "Mediterranean climate with hot, dry summers (25-32°C) and mild winters (10-15°C). Over 300 days of sunshine per year. Sea temperatures are warm from June to October.",
+    "es": "Clima mediterráneo con veranos calurosos y secos (25-32°C) e inviernos suaves (10-15°C). Más de 300 días de sol al año. Las temperaturas del mar son cálidas de junio a octubre."
+  },
+  "description": {
+    "en": "Mallorca, the largest of the Balearic Islands, is a Mediterranean paradise that transcends its beach-holiday reputation. The UNESCO-listed Serra de Tramuntana mountain range runs along the northwest coast, offering spectacular hiking and cycling routes through terraced olive groves and stone villages like Valldemossa, Deià, and Sóller. The capital, Palma, is a sophisticated city with a magnificent Gothic cathedral, a lively old town, and excellent restaurants. The island's interior reveals a quieter Mallorca of almond orchards, vineyards, and traditional fincas (farmhouses).",
+    "es": "Mallorca, la mayor de las Islas Baleares, es un paraíso mediterráneo que trasciende su reputación de turismo de playa. La sierra de Tramuntana, declarada Patrimonio de la Humanidad por la UNESCO, recorre la costa noroeste, ofreciendo espectaculares rutas de senderismo y ciclismo entre bancales de olivos y pueblos de piedra como Valldemossa, Deià y Sóller. La capital, Palma, es una ciudad sofisticada con una magnífica catedral gótica, un animado casco antiguo y excelentes restaurantes. El interior de la isla revela una Mallorca más tranquila de almendros, viñedos y fincas tradicionales."
+  },
+  "highlights": [
+    { "en": "Serra de Tramuntana mountains (UNESCO)", "es": "Sierra de Tramuntana (UNESCO)" },
+    { "en": "Palma Cathedral (La Seu)", "es": "Catedral de Palma (La Seu)" },
+    { "en": "Villages of Valldemossa and Deià", "es": "Pueblos de Valldemossa y Deià" },
+    { "en": "Cap de Formentor", "es": "Cap de Formentor" },
+    { "en": "Drach Caves", "es": "Cuevas del Drach" }
+  ],
+  "bestTimeToVisit": {
+    "en": "May-June and September-October offer warm weather, fewer crowds, and lower prices than peak summer. Spring brings almond blossoms and wildflowers. The cycling season runs from February to May. July-August is the busiest and most expensive period.",
+    "es": "Mayo-junio y septiembre-octubre ofrecen buen tiempo, menos aglomeraciones y precios más bajos que en pleno verano. La primavera trae almendros en flor y flores silvestres. La temporada de ciclismo va de febrero a mayo. Julio-agosto es el período más concurrido y caro."
+  },
+  "gettingThere": {
+    "en": "Palma de Mallorca Airport (PMI) is one of Europe's busiest, with direct flights from most European cities. Ferries operate from Barcelona (6-8 hours) and Valencia (7-8 hours) by Baleària and Trasmediterránea. Fast ferries from Barcelona take about 4 hours.",
+    "es": "El Aeropuerto de Palma de Mallorca (PMI) es uno de los más concurridos de Europa, con vuelos directos desde la mayoría de ciudades europeas. Los ferris operan desde Barcelona (6-8 horas) y Valencia (7-8 horas) con Baleària y Trasmediterránea. Los ferris rápidos desde Barcelona tardan unas 4 horas."
+  },
+  "beaches": [
+    {
+      "name": { "en": "Cala Mondragó", "es": "Cala Mondragó" },
+      "description": { "en": "A stunning natural park beach on the southeast coast with turquoise waters, pine-fringed sand, and excellent snorkeling. One of Mallorca's most beautiful and accessible coves.", "es": "Una impresionante playa de parque natural en la costa sureste con aguas turquesas, arena rodeada de pinos y excelente snorkel. Una de las calas más bellas y accesibles de Mallorca." }
+    },
+    {
+      "name": { "en": "Es Trenc", "es": "Es Trenc" },
+      "description": { "en": "Mallorca's most famous undeveloped beach — a long stretch of white sand backed by dunes and salt flats, with Caribbean-like crystal waters. The closest to a wild beach on the island.", "es": "La playa virgen más famosa de Mallorca — una larga franja de arena blanca respaldada por dunas y salinas, con aguas cristalinas tipo caribeño. La playa más salvaje de la isla." }
+    },
+    {
+      "name": { "en": "Cala Deià", "es": "Cala Deià" },
+      "description": { "en": "A tiny pebble cove at the foot of the Tramuntana mountains, framed by dramatic cliffs. Popular with artists and writers who have long been drawn to the village of Deià above.", "es": "Una diminuta cala de guijarros al pie de la sierra de Tramuntana, enmarcada por espectaculares acantilados. Popular entre artistas y escritores atraídos por el pueblo de Deià." }
+    }
+  ],
+  "activities": [
+    {
+      "name": { "en": "Cycling the Tramuntana", "es": "Ciclismo por la Tramuntana" },
+      "description": { "en": "Mallorca is a world-class cycling destination. The mountain roads of the Serra de Tramuntana, with their switchbacks and panoramic views, attract professional teams and amateurs alike.", "es": "Mallorca es un destino ciclista de primer nivel. Las carreteras de montaña de la Serra de Tramuntana, con sus curvas y vistas panorámicas, atraen tanto a equipos profesionales como a aficionados." }
+    },
+    {
+      "name": { "en": "Sóller Vintage Train", "es": "Tren de Sóller" },
+      "description": { "en": "A charming vintage wooden train winds through the Tramuntana mountains from Palma to the valley town of Sóller, running since 1912. A connecting tram descends to Port de Sóller.", "es": "Un encantador tren de madera antiguo serpentea por la serra de Tramuntana desde Palma hasta el pueblo del valle de Sóller, en funcionamiento desde 1912. Un tranvía conecta con el Port de Sóller." }
+    },
+    {
+      "name": { "en": "Wine Tasting in Binissalem", "es": "Cata de Vinos en Binissalem" },
+      "description": { "en": "Mallorca's wine scene has blossomed with the Binissalem DO region producing excellent reds and whites from native grape varieties like Manto Negro and Prensal Blanc.", "es": "La escena vinícola de Mallorca ha florecido con la DO Binissalem produciendo excelentes tintos y blancos de variedades autóctonas como Manto Negro y Prensal Blanc." }
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€50-75/day", "es": "50-75€/día" },
+    "midRange": { "en": "€120-200/day", "es": "120-200€/día" },
+    "luxury": { "en": "€350+/day", "es": "350+€/día" }
+  }
+}

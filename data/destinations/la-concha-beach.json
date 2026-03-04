@@ -1,0 +1,28 @@
+{
+  "slug": "la-concha-beach",
+  "name": {
+    "en": "La Concha Beach",
+    "es": "Playa de la Concha"
+  },
+  "city": "san-sebastian",
+  "region": "basque-country",
+  "image": "/images/destinations/la-concha-beach.jpg",
+  "description": {
+    "en": "One of Europe's finest urban beaches, a perfect crescent of golden sand curving around a sheltered bay with the backdrop of Monte Urgull and Monte Igueldo.",
+    "es": "Una de las mejores playas urbanas de Europa, una perfecta media luna de arena dorada curvándose alrededor de una bahía resguardada con el telón de fondo de Monte Urgull y Monte Igueldo."
+  },
+  "category": "beach",
+  "rating": 4.8,
+  "visitDuration": "2-4 hours",
+  "price": "Free",
+  "tips": [
+    {
+      "en": "Walk around the promenade for stunning views of the entire bay",
+      "es": "Pasea por el paseo marítimo para impresionantes vistas de toda la bahía"
+    },
+    {
+      "en": "Swim to Santa Clara island in the middle of the bay in summer",
+      "es": "Nada hasta la isla de Santa Clara en medio de la bahía en verano"
+    }
+  ]
+}

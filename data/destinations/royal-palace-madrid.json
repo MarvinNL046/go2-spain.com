@@ -1,0 +1,28 @@
+{
+  "slug": "royal-palace-madrid",
+  "name": {
+    "en": "Royal Palace of Madrid",
+    "es": "Palacio Real de Madrid"
+  },
+  "city": "madrid",
+  "region": "central-spain",
+  "image": "/images/destinations/royal-palace-madrid.jpg",
+  "description": {
+    "en": "The largest functioning royal palace in Europe with over 3,400 rooms, lavish state rooms, the Royal Armoury, and stunning gardens. The official residence of the Spanish monarchy.",
+    "es": "El palacio real en funcionamiento más grande de Europa con más de 3.400 habitaciones, lujosos salones de estado, la Real Armería e impresionantes jardines. La residencia oficial de la monarquía española."
+  },
+  "category": "monument",
+  "rating": 4.6,
+  "visitDuration": "1.5-2 hours",
+  "price": "€12",
+  "tips": [
+    {
+      "en": "Free entry in the last 2 hours before closing for EU citizens",
+      "es": "Entrada gratuita en las últimas 2 horas antes del cierre para ciudadanos de la UE"
+    },
+    {
+      "en": "Check for the Changing of the Guard ceremony on Wednesdays",
+      "es": "Consulta la ceremonia del Cambio de Guardia los miércoles"
+    }
+  ]
+}

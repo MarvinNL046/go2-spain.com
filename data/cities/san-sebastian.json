@@ -1,0 +1,124 @@
+{
+  "slug": "san-sebastian",
+  "name": { "en": "San Sebastián", "es": "San Sebastián" },
+  "region": "basque-country",
+  "province": "Gipuzkoa",
+  "population": 187000,
+  "elevation": 6,
+  "image": "/images/cities/san-sebastian.jpg",
+  "gallery": ["/images/cities/san-sebastian-1.jpg", "/images/cities/san-sebastian-2.jpg", "/images/cities/san-sebastian-3.jpg"],
+  "description": {
+    "en": "San Sebastián (Donostia in Basque) is widely regarded as having the best food scene in Spain, if not all of Europe. This elegant Belle Époque resort city curves around the shell-shaped La Concha bay, one of the most beautiful urban beaches on the continent. With more Michelin stars per capita than almost anywhere else in the world, the city's Old Town is a pintxos paradise where bar-hopping from one culinary gem to the next is an art form. The annual San Sebastián International Film Festival adds a glamorous cultural layer.",
+    "es": "San Sebastián (Donostia en euskera) está ampliamente considerada como la ciudad con la mejor escena gastronómica de España, si no de toda Europa. Esta elegante ciudad turística de estilo Belle Époque se curva alrededor de la bahía de La Concha en forma de concha, una de las playas urbanas más bellas del continente. Con más estrellas Michelin per cápita que casi cualquier otro lugar del mundo, el Casco Viejo de la ciudad es un paraíso de pintxos donde ir de bar en bar de una joya culinaria a la siguiente es un arte. El Festival Internacional de Cine de San Sebastián añade una glamurosa capa cultural."
+  },
+  "highlights": [
+    { "en": "La Concha Beach", "es": "Playa de la Concha" },
+    { "en": "Old Town Pintxos Bars", "es": "Bares de Pintxos del Casco Viejo" },
+    { "en": "Monte Igueldo", "es": "Monte Igueldo" },
+    { "en": "Zurriola Surf Beach", "es": "Playa de Zurriola" },
+    { "en": "San Sebastián Film Festival", "es": "Festival de Cine de San Sebastián" }
+  ],
+  "bestTimeToVisit": {
+    "en": "Summer (July-September) is peak season with warm weather ideal for beaches and festivals. The Film Festival in September is a highlight. Spring and autumn are quieter with mild weather. Winter is rainy but the food scene shines year-round.",
+    "es": "El verano (julio-septiembre) es temporada alta con clima cálido ideal para playas y festivales. El Festival de Cine en septiembre es un punto álgido. La primavera y el otoño son más tranquilos con clima suave. El invierno es lluvioso pero la escena gastronómica brilla todo el año."
+  },
+  "gettingAround": {
+    "en": "San Sebastián is wonderfully walkable, with most attractions within a 30-minute stroll. Local buses connect the beaches, neighborhoods, and surrounding areas. The city is flat along the coast and easy to cycle. A funicular ascends Monte Igueldo for panoramic views.",
+    "es": "San Sebastián es maravillosamente transitable a pie, con la mayoría de atracciones a menos de 30 minutos andando. Los autobuses locales conectan las playas, barrios y alrededores. La ciudad es llana a lo largo de la costa y fácil de recorrer en bicicleta. Un funicular sube al Monte Igueldo para vistas panorámicas."
+  },
+  "neighborhoods": [
+    {
+      "name": { "en": "Parte Vieja (Old Town)", "es": "Parte Vieja (Casco Viejo)" },
+      "description": {
+        "en": "The epicenter of pintxos culture, wedged between the port and the river. Every street is lined with bars displaying breathtaking arrays of creative bites. Also home to the Basilica of Santa María and the San Telmo Museum.",
+        "es": "El epicentro de la cultura de pintxos, encajado entre el puerto y el río. Cada calle está repleta de bares que exhiben impresionantes muestras de bocados creativos. También hogar de la Basílica de Santa María y el Museo San Telmo."
+      },
+      "vibe": { "en": "Pintxos paradise and lively nightlife", "es": "Paraíso de pintxos y animada vida nocturna" }
+    },
+    {
+      "name": { "en": "Centro / La Concha", "es": "Centro / La Concha" },
+      "description": {
+        "en": "The elegant city center along La Concha promenade, with Belle Époque buildings, high-end shops, and the famous La Concha beach stretching before you.",
+        "es": "El elegante centro de la ciudad a lo largo del paseo de La Concha, con edificios Belle Époque, tiendas de lujo y la famosa playa de La Concha extendiéndose ante ti."
+      },
+      "vibe": { "en": "Elegant seaside promenade and upscale shopping", "es": "Elegante paseo marítimo y compras de lujo" }
+    },
+    {
+      "name": { "en": "Gros", "es": "Gros" },
+      "description": {
+        "en": "The surfer neighborhood around Zurriola beach, with a younger vibe, creative pintxos bars pushing culinary boundaries, and a more relaxed, local atmosphere.",
+        "es": "El barrio surfero alrededor de la playa de Zurriola, con un ambiente más joven, bares de pintxos creativos que amplían los límites culinarios y una atmósfera más relajada y local."
+      },
+      "vibe": { "en": "Surfer vibes and innovative food scene", "es": "Ambiente surfero y escena gastronómica innovadora" }
+    },
+    {
+      "name": { "en": "Antiguo", "es": "Antiguo" },
+      "description": {
+        "en": "A residential neighborhood at the western end of La Concha bay, home to Eduardo Chillida's iconic 'Comb of the Wind' sculptures and the Ondarreta beach.",
+        "es": "Un barrio residencial en el extremo occidental de la bahía de La Concha, hogar de las icónicas esculturas 'Peine del Viento' de Eduardo Chillida y la playa de Ondarreta."
+      },
+      "vibe": { "en": "Residential, scenic, and art-infused", "es": "Residencial, pintoresco y artístico" }
+    }
+  ],
+  "localFood": [
+    {
+      "name": { "en": "Pintxos", "es": "Pintxos" },
+      "description": {
+        "en": "San Sebastián's pintxos are a culinary art form — from classic gilda (anchovy, olive, and pepper on a stick) to molecular gastronomy miniatures. The Old Town bars are legendary.",
+        "es": "Los pintxos de San Sebastián son una forma de arte culinario — desde la clásica gilda (anchoa, aceituna y guindilla en un palillo) hasta miniaturas de gastronomía molecular. Los bares del Casco Viejo son legendarios."
+      }
+    },
+    {
+      "name": { "en": "Txakoli", "es": "Txakoli" },
+      "description": {
+        "en": "A slightly sparkling, dry white Basque wine, dramatically poured from a height to aerate it. The perfect accompaniment to seafood pintxos.",
+        "es": "Un vino blanco vasco seco y ligeramente espumoso, servido dramáticamente desde lo alto para airearlo. El acompañamiento perfecto para pintxos de marisco."
+      }
+    },
+    {
+      "name": { "en": "Burnt Basque Cheesecake", "es": "Tarta de Queso Vasca" },
+      "description": {
+        "en": "The now world-famous caramelized cheesecake originated at La Viña bar in San Sebastián's Old Town. Creamy inside with a distinctive dark, burnt exterior.",
+        "es": "La ahora mundialmente famosa tarta de queso caramelizada se originó en el bar La Viña del Casco Viejo de San Sebastián. Cremosa por dentro con un distintivo exterior oscuro y tostado."
+      }
+    },
+    {
+      "name": { "en": "Kokotxas", "es": "Kokotxas" },
+      "description": {
+        "en": "Hake or cod cheeks cooked in pil-pil sauce (olive oil, garlic, and chili emulsion). A delicate and prized Basque delicacy.",
+        "es": "Kokotxas de merluza o bacalao cocinadas en salsa pil-pil (emulsión de aceite de oliva, ajo y guindilla). Una delicada y preciada delicia vasca."
+      }
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": { "en": "Hondarribia", "es": "Hondarribia" },
+      "description": {
+        "en": "A picturesque walled fishing town near the French border with a colorful marina, medieval old town, and excellent pintxos bars along the harbor.",
+        "es": "Un pintoresco pueblo pesquero amurallado cerca de la frontera francesa con un colorido puerto deportivo, casco antiguo medieval y excelentes bares de pintxos junto al puerto."
+      },
+      "distance": "20km"
+    },
+    {
+      "name": { "en": "Getaria & Zarautz", "es": "Getaria y Zarautz" },
+      "description": {
+        "en": "Coastal villages west of San Sebastián. Getaria is the birthplace of Balenciaga and famous for grilled fish, while Zarautz boasts the Basque Country's longest beach.",
+        "es": "Pueblos costeros al oeste de San Sebastián. Getaria es la cuna de Balenciaga y famosa por el pescado a la brasa, mientras que Zarautz presume de la playa más larga del País Vasco."
+      },
+      "distance": "25km"
+    },
+    {
+      "name": { "en": "Biarritz (France)", "es": "Biarritz (Francia)" },
+      "description": {
+        "en": "The glamorous French Basque resort town is just across the border, offering a different take on Basque culture with Art Deco architecture and world-class surf.",
+        "es": "La glamurosa localidad turística del País Vasco francés está justo al otro lado de la frontera, ofreciendo una perspectiva diferente de la cultura vasca con arquitectura Art Déco y surf de clase mundial."
+      },
+      "distance": "50km"
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€45-70/day", "es": "45-70€/día" },
+    "midRange": { "en": "€120-200/day", "es": "120-200€/día" },
+    "luxury": { "en": "€350+/day", "es": "350+€/día" }
+  }
+}

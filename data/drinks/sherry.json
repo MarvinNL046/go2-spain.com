@@ -1,0 +1,62 @@
+{
+  "slug": "sherry",
+  "name": { "en": "Sherry", "es": "Jerez" },
+  "description": {
+    "en": "A fortified wine produced exclusively in the 'Sherry Triangle' between Jerez, Sanlúcar, and El Puerto de Santa María. Styles range from bone-dry Fino and Manzanilla to rich, sweet Pedro Ximénez.",
+    "es": "Un vino fortificado producido exclusivamente en el 'Triángulo del Jerez' entre Jerez, Sanlúcar y El Puerto de Santa María. Los estilos van desde el seco Fino y Manzanilla hasta el rico y dulce Pedro Ximénez."
+  },
+  "enhanced_description": "Sherry (Jerez) is one of the world's most diverse and misunderstood wines, produced exclusively in a small triangle of southwestern Spain where the unique climate, chalky albariza soil, and the solera aging system create wines of extraordinary complexity. Far from the sweet, heavy drink many imagine, sherry encompasses an astonishing range of styles -- from the bracingly dry, yeast-aged Fino and Manzanilla that are perfect aperitifs, through the nutty, oxidative Amontillado and Oloroso, to the unctuously sweet Pedro Ximenez that flows like liquid raisins. Sherry is currently experiencing a global renaissance as a new generation of sommeliers and food lovers discovers its remarkable versatility and value.",
+  "region": "jerez",
+  "category": "wine",
+  "alcoholic": true,
+  "image": "/images/drinks/sherry.jpg",
+  "price_range": "€2-5 per glass, €8-30+ per bottle",
+  "history": {
+    "en": "Sherry is one of the world's oldest wines, with production dating back over 3,000 years to when Phoenician traders founded the city of Cádiz. The Moors, despite Islam's prohibition of alcohol, continued to cultivate the grapes during their 700-year rule, ostensibly for raisins and medicinal purposes. After the Reconquista, sherry became one of Spain's most important exports. Sir Francis Drake raided Cádiz in 1587 and captured 2,900 barrels of sherry, introducing it to the English market where it became enormously popular. Shakespeare frequently mentions 'sack' (sherry) in his plays. The unique solera system of fractional blending was developed in the 18th century, and the Sherry Triangle received its DO designation in 1933.",
+    "es": "El jerez es uno de los vinos más antiguos del mundo, con una producción que se remonta a más de 3.000 años cuando los comerciantes fenicios fundaron la ciudad de Cádiz. Los moros, a pesar de la prohibición islámica del alcohol, continuaron cultivando las uvas durante sus 700 años de dominio, supuestamente para pasas y fines medicinales. Tras la Reconquista, el jerez se convirtió en una de las exportaciones más importantes de España. Sir Francis Drake asaltó Cádiz en 1587 y capturó 2.900 barriles de jerez, introduciéndolo en el mercado inglés donde se hizo enormemente popular. Shakespeare menciona frecuentemente el 'sack' (jerez) en sus obras. El único sistema de solera de mezcla fraccional se desarrolló en el siglo XVIII, y el Triángulo de Jerez recibió su denominación DO en 1933."
+  },
+  "how_to_enjoy": {
+    "en": "Fino and Manzanilla should be served very cold (6-8°C) in a small copita glass as an aperitif with olives, almonds, or seafood. Once opened, keep them refrigerated and drink within a week. Amontillado and Palo Cortado are best at 12-14°C with aged cheeses or nuts. Oloroso pairs beautifully with stewed meats. Sweet Pedro Ximénez is a dessert wine -- pour it over vanilla ice cream for a quintessentially Andalusian treat.",
+    "es": "Fino y Manzanilla deben servirse muy fríos (6-8°C) en una pequeña copa copita como aperitivo con aceitunas, almendras o marisco. Una vez abiertos, manténlos refrigerados y bébelos en una semana. Amontillado y Palo Cortado van mejor a 12-14°C con quesos curados o frutos secos. El Oloroso marida bellamente con carnes guisadas. El dulce Pedro Ximénez es un vino de postre -- viértelo sobre helado de vainilla para un manjar quintaesencialmente andaluz."
+  },
+  "where_to_try": [
+    {
+      "name": "Bodegas Tío Pepe (González Byass)",
+      "city": "Jerez de la Frontera",
+      "description": {
+        "en": "The world's most famous sherry brand, offering guided tours through their historic bodegas including the legendary cellar signed by visiting royalty, artists, and dignitaries.",
+        "es": "La marca de jerez más famosa del mundo, que ofrece visitas guiadas por sus históricas bodegas incluyendo la legendaria bodega firmada por la realeza, artistas y dignatarios visitantes."
+      }
+    },
+    {
+      "name": "Taberna La Manzanilla",
+      "city": "Sanlúcar de Barrameda",
+      "description": {
+        "en": "An atmospheric tavern in Sanlúcar where ice-cold Manzanilla is served from the barrel alongside fresh langoustines and fried fish.",
+        "es": "Una taberna con atmósfera en Sanlúcar donde la Manzanilla helada se sirve del barril junto a langostinos frescos y pescaíto frito."
+      }
+    },
+    {
+      "name": "El Patio de San Eloy",
+      "city": "Seville",
+      "description": {
+        "en": "A classic Sevillian bar specializing in sherries from across the triangle, with expert staff who can guide you through the different styles.",
+        "es": "Un bar sevillano clásico especializado en jereces de todo el triángulo, con personal experto que puede guiarte a través de los diferentes estilos."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Fino and Manzanilla are dry, refreshing wines -- nothing like the sweet sherry you might have tried elsewhere. Order a copa de fino as an aperitif and prepare to be surprised.",
+      "es": "Fino y Manzanilla son vinos secos y refrescantes -- nada parecidos al jerez dulce que puedas haber probado en otros sitios. Pide una copa de fino como aperitivo y prepárate para sorprenderte."
+    },
+    {
+      "en": "Visit Jerez during the first two weeks of September for the Feria de la Vendimia (Grape Harvest Festival), when the town celebrates its wine heritage with tastings, flamenco, and horse shows.",
+      "es": "Visita Jerez durante las dos primeras semanas de septiembre para la Feria de la Vendimia, cuando la ciudad celebra su herencia vinícola con degustaciones, flamenco y espectáculos ecuestres."
+    },
+    {
+      "en": "Manzanilla is only produced in Sanlúcar de Barrameda, where the sea breeze gives it a distinctive salty, saline character. It's the perfect pairing for fresh seafood.",
+      "es": "La Manzanilla solo se produce en Sanlúcar de Barrameda, donde la brisa marina le da un carácter salino distintivo. Es el maridaje perfecto para marisco fresco."
+    }
+  ]
+}

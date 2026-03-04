@@ -1,0 +1,28 @@
+{
+  "slug": "tenerife-teide",
+  "name": {
+    "en": "Mount Teide",
+    "es": "Monte Teide"
+  },
+  "city": "tenerife",
+  "region": "canary-islands",
+  "image": "/images/destinations/tenerife-teide.jpg",
+  "description": {
+    "en": "Spain's highest peak (3,718m) rising from a vast volcanic caldera, creating a surreal moonscape. The national park is a UNESCO World Heritage Site and one of the world's best stargazing locations.",
+    "es": "El pico más alto de España (3.718m) que se eleva desde una vasta caldera volcánica, creando un surrealista paisaje lunar. El parque nacional es Patrimonio de la Humanidad y uno de los mejores lugares del mundo para observar estrellas."
+  },
+  "category": "nature",
+  "rating": 4.7,
+  "visitDuration": "Half-full day",
+  "price": "€13.50 (cable car)",
+  "tips": [
+    {
+      "en": "Book a free summit permit online if you want to reach the very top",
+      "es": "Reserva un permiso gratuito online para la cumbre si quieres llegar a la cima"
+    },
+    {
+      "en": "The cable car closes in high winds — check conditions before going",
+      "es": "El teleférico cierra con vientos fuertes — consulta las condiciones antes de ir"
+    }
+  ]
+}

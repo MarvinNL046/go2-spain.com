@@ -1,0 +1,19 @@
+{
+  "slug": "wine-tasting-rioja",
+  "name": {
+    "en": "Wine Tasting in La Rioja",
+    "es": "Cata de Vinos en La Rioja"
+  },
+  "city": "haro",
+  "region": "la-rioja",
+  "image": "/images/experiences/wine-tasting-rioja.jpg",
+  "description": {
+    "en": "Visit prestigious bodegas in Spain's most famous wine region, tasting Tempranillo-based reds aged in oak barrels. From traditional cellars to Frank Gehry-designed wineries, La Rioja is a wine lover's paradise.",
+    "es": "Visita prestigiosas bodegas en la región vinícola más famosa de España, catando tintos de Tempranillo envejecidos en barricas de roble. Desde bodegas tradicionales hasta las diseñadas por Frank Gehry, La Rioja es un paraíso para los amantes del vino."
+  },
+  "category": "food",
+  "duration": "Half day",
+  "price": "€30-100",
+  "difficulty": "easy",
+  "rating": 4.7
+}

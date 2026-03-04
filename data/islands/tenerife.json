@@ -1,0 +1,63 @@
+{
+  "slug": "tenerife",
+  "name": { "en": "Tenerife", "es": "Tenerife" },
+  "archipelago": "Canary Islands",
+  "population": 928000,
+  "area": 2034,
+  "climate": {
+    "en": "Subtropical climate with year-round warm temperatures. The south is hot and dry (22-30°C), while the north is greener with more rainfall. At altitude, Mount Teide can see snow in winter. Known as the 'Island of Eternal Spring.'",
+    "es": "Clima subtropical con temperaturas cálidas todo el año. El sur es caluroso y seco (22-30°C), mientras que el norte es más verde con más lluvias. En altitud, el Teide puede ver nieve en invierno. Conocida como la 'Isla de la Eterna Primavera.'"
+  },
+  "description": {
+    "en": "Tenerife is the largest and most visited of the Canary Islands, dominated by the majestic Mount Teide — Spain's highest peak at 3,718 meters. The island offers extraordinary contrasts: the lunar volcanic landscape of Teide National Park, the ancient laurel forests of Anaga (both UNESCO sites), cosmopolitan resort towns in the south, and charming colonial towns like La Orotava and La Laguna in the north. Tenerife's Carnival in Santa Cruz is the second largest in the world after Rio de Janeiro.",
+    "es": "Tenerife es la mayor y más visitada de las Islas Canarias, dominada por el majestuoso Monte Teide — el pico más alto de España con 3.718 metros. La isla ofrece extraordinarios contrastes: el paisaje volcánico lunar del Parque Nacional del Teide, los antiguos bosques de laurisilva de Anaga (ambos sitios UNESCO), cosmopolitas complejos turísticos en el sur y encantadores pueblos coloniales como La Orotava y La Laguna en el norte. El Carnaval de Tenerife en Santa Cruz es el segundo más grande del mundo después del de Río de Janeiro."
+  },
+  "highlights": [
+    { "en": "Mount Teide National Park (UNESCO)", "es": "Parque Nacional del Teide (UNESCO)" },
+    { "en": "Anaga Rural Park laurel forests", "es": "Bosques de laurisilva del Parque Rural de Anaga" },
+    { "en": "Santa Cruz Carnival", "es": "Carnaval de Santa Cruz" },
+    { "en": "La Laguna historic town (UNESCO)", "es": "Ciudad histórica de La Laguna (UNESCO)" },
+    { "en": "Whale and dolphin watching", "es": "Avistamiento de ballenas y delfines" }
+  ],
+  "bestTimeToVisit": {
+    "en": "Tenerife is a year-round destination thanks to its mild climate. Winter (December-February) is popular for escaping European cold. Spring (March-May) offers the best hiking conditions. The south is reliably sunny; the north is lusher but cloudier.",
+    "es": "Tenerife es un destino para todo el año gracias a su clima suave. El invierno (diciembre-febrero) es popular para escapar del frío europeo. La primavera (marzo-mayo) ofrece las mejores condiciones de senderismo. El sur es de sol fiable; el norte es más exuberante pero más nublado."
+  },
+  "gettingThere": {
+    "en": "Tenerife has two airports: Tenerife South (TFS) for charter and budget flights, and Tenerife North (TFN) for domestic and some European flights. Ferries connect to other Canary Islands (La Gomera is 1 hour). There are also ferry connections to mainland Cádiz (long crossing).",
+    "es": "Tenerife tiene dos aeropuertos: Tenerife Sur (TFS) para vuelos chárter y low-cost, y Tenerife Norte (TFN) para vuelos nacionales y algunos europeos. Los ferris conectan con otras islas canarias (La Gomera está a 1 hora). También hay conexiones en ferry con Cádiz (travesía larga)."
+  },
+  "beaches": [
+    {
+      "name": { "en": "Playa de las Teresitas", "es": "Playa de las Teresitas" },
+      "description": { "en": "A beautiful golden sand beach near Santa Cruz, created with sand imported from the Sahara Desert. Sheltered by a breakwater, the calm waters are perfect for families.", "es": "Una hermosa playa de arena dorada cerca de Santa Cruz, creada con arena importada del Desierto del Sáhara. Resguardada por un espigón, las aguas tranquilas son perfectas para familias." }
+    },
+    {
+      "name": { "en": "Playa de Benijo", "es": "Playa de Benijo" },
+      "description": { "en": "A dramatic wild beach in the Anaga mountains with black volcanic sand, powerful surf, and striking rock formations jutting from the Atlantic.", "es": "Una espectacular playa salvaje en las montañas de Anaga con arena volcánica negra, fuerte oleaje e imponentes formaciones rocosas que emergen del Atlántico." }
+    },
+    {
+      "name": { "en": "El Médano", "es": "El Médano" },
+      "description": { "en": "Tenerife's windiest beach, a mecca for windsurfers and kitesurfers. The natural beach stretches for over 2km beside the Montaña Roja volcanic cone.", "es": "La playa más ventosa de Tenerife, una meca para windsurfistas y kitesurfistas. La playa natural se extiende más de 2km junto al cono volcánico de la Montaña Roja." }
+    }
+  ],
+  "activities": [
+    {
+      "name": { "en": "Hike Mount Teide", "es": "Senderismo en el Teide" },
+      "description": { "en": "Ascend Spain's highest peak through a surreal volcanic landscape. A cable car reaches near the summit, but a free permit is needed for the final ascent to the crater.", "es": "Asciende el pico más alto de España a través de un surrealista paisaje volcánico. Un teleférico llega cerca de la cumbre, pero se necesita un permiso gratuito para la subida final al cráter." }
+    },
+    {
+      "name": { "en": "Whale Watching", "es": "Avistamiento de Cetáceos" },
+      "description": { "en": "The waters between Tenerife and La Gomera host resident populations of pilot whales and bottlenose dolphins. Responsible boat tours depart from Los Cristianos and Puerto Colón.", "es": "Las aguas entre Tenerife y La Gomera albergan poblaciones residentes de calderones y delfines mulares. Excursiones en barco responsables parten de Los Cristianos y Puerto Colón." }
+    },
+    {
+      "name": { "en": "Stargazing", "es": "Observación de Estrellas" },
+      "description": { "en": "Teide National Park is a Starlight Reserve with some of the world's clearest skies. Nighttime stargazing tours with telescopes reveal nebulae, galaxies, and planets.", "es": "El Parque Nacional del Teide es Reserva Starlight con algunos de los cielos más claros del mundo. Las excursiones nocturnas de observación con telescopios revelan nebulosas, galaxias y planetas." }
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€40-60/day", "es": "40-60€/día" },
+    "midRange": { "en": "€90-160/day", "es": "90-160€/día" },
+    "luxury": { "en": "€250+/day", "es": "250+€/día" }
+  }
+}

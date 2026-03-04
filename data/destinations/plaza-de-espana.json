@@ -1,0 +1,28 @@
+{
+  "slug": "plaza-de-espana",
+  "name": {
+    "en": "Plaza de España (Seville)",
+    "es": "Plaza de España (Sevilla)"
+  },
+  "city": "seville",
+  "region": "andalusia",
+  "image": "/images/destinations/plaza-de-espana.jpg",
+  "description": {
+    "en": "A grand semicircular plaza built for the 1929 Ibero-American Exposition, with ornate bridges, ceramic tile alcoves representing each Spanish province, and a canal for rowing boats.",
+    "es": "Una grandiosa plaza semicircular construida para la Exposición Iberoamericana de 1929, con puentes ornamentados, hornacinas de azulejos representando cada provincia española y un canal para barcas de remo."
+  },
+  "category": "monument",
+  "rating": 4.7,
+  "visitDuration": "1 hour",
+  "price": "Free",
+  "tips": [
+    {
+      "en": "Visit early morning or late afternoon for the best light and fewer crowds",
+      "es": "Visita a primera hora de la mañana o al final de la tarde para mejor luz y menos gente"
+    },
+    {
+      "en": "Rent a rowing boat on the canal for a fun experience",
+      "es": "Alquila una barca de remos en el canal para una experiencia divertida"
+    }
+  ]
+}

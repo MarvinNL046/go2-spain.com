@@ -1,0 +1,28 @@
+{
+  "slug": "valley-of-the-fallen",
+  "name": {
+    "en": "Valley of the Fallen",
+    "es": "Valle de los Caídos"
+  },
+  "city": "near-madrid",
+  "region": "central-spain",
+  "image": "/images/destinations/valley-of-the-fallen.jpg",
+  "description": {
+    "en": "A controversial monumental basilica carved into a mountain, topped by a 150-meter granite cross visible for miles. Built between 1940-1958, it remains a subject of historical debate.",
+    "es": "Una controvertida basílica monumental excavada en una montaña, coronada por una cruz de granito de 150 metros visible a kilómetros. Construida entre 1940-1958, sigue siendo objeto de debate histórico."
+  },
+  "category": "monument",
+  "rating": 4,
+  "visitDuration": "1-2 hours",
+  "price": "€9",
+  "tips": [
+    {
+      "en": "Combine with a visit to nearby El Escorial monastery",
+      "es": "Combina con una visita al cercano monasterio de El Escorial"
+    },
+    {
+      "en": "The funicular to the base of the cross offers panoramic views",
+      "es": "El funicular hasta la base de la cruz ofrece vistas panorámicas"
+    }
+  ]
+}

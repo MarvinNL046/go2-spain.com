@@ -1,0 +1,19 @@
+{
+  "slug": "scuba-canary-islands",
+  "name": {
+    "en": "Scuba Diving in the Canary Islands",
+    "es": "Buceo en las Islas Canarias"
+  },
+  "city": "tenerife",
+  "region": "canary-islands",
+  "image": "/images/experiences/scuba-canary-islands.jpg",
+  "description": {
+    "en": "Dive into volcanic underwater landscapes with lava tubes, caves, and arches teeming with marine life. The Canaries offer warm, clear waters year-round with sea turtles, rays, and angel sharks.",
+    "es": "Sumérgete en paisajes submarinos volcánicos con tubos de lava, cuevas y arcos rebosantes de vida marina. Las Canarias ofrecen aguas cálidas y claras todo el año con tortugas marinas, rayas y angelotes."
+  },
+  "category": "adventure",
+  "duration": "2-4 hours",
+  "price": "€45-80",
+  "difficulty": "moderate",
+  "rating": 4.6
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "sagrada-familia",
+  "name": {
+    "en": "Sagrada Familia",
+    "es": "Sagrada Familia"
+  },
+  "city": "barcelona",
+  "region": "catalonia",
+  "image": "/images/destinations/sagrada-familia.jpg",
+  "description": {
+    "en": "Gaudí's unfinished masterpiece, a soaring basilica under construction since 1882 with extraordinary facades, towering spires, and a luminous forest-like interior bathed in colored light.",
+    "es": "La obra maestra inacabada de Gaudí, una basílica en construcción desde 1882 con extraordinarias fachadas, torres altísimas y un luminoso interior similar a un bosque bañado en luz de colores."
+  },
+  "category": "monument",
+  "rating": 4.8,
+  "visitDuration": "1.5-2 hours",
+  "price": "€26",
+  "tips": [
+    {
+      "en": "Book online in advance to skip the queue",
+      "es": "Reserva online con antelación para evitar las colas"
+    },
+    {
+      "en": "Morning light through the stained glass is magical",
+      "es": "La luz matinal a través de las vidrieras es mágica"
+    }
+  ]
+}

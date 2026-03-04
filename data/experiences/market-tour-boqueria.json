@@ -1,0 +1,19 @@
+{
+  "slug": "market-tour-boqueria",
+  "name": {
+    "en": "La Boqueria Market Tour",
+    "es": "Tour por el Mercado de La Boquería"
+  },
+  "city": "barcelona",
+  "region": "catalonia",
+  "image": "/images/experiences/market-tour-boqueria.jpg",
+  "description": {
+    "en": "Explore Barcelona's most famous food market with a local guide, tasting Iberian ham, Manchego cheese, fresh seafood, tropical fruits, and other Spanish delicacies from the colorful stalls.",
+    "es": "Explora el mercado de comida más famoso de Barcelona con un guía local, degustando jamón ibérico, queso manchego, marisco fresco, frutas tropicales y otras delicias españolas de los coloridos puestos."
+  },
+  "category": "food",
+  "duration": "2-3 hours",
+  "price": "€40-70",
+  "difficulty": "easy",
+  "rating": 4.6
+}

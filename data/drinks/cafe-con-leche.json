@@ -1,0 +1,62 @@
+{
+  "slug": "cafe-con-leche",
+  "name": { "en": "Café con Leche", "es": "Café con Leche" },
+  "description": {
+    "en": "Spain's signature coffee: equal parts strong espresso and hot steamed milk. Ordered at any time of day, it's the fuel of Spanish life — from the morning breakfast bar ritual to the afternoon pick-me-up.",
+    "es": "El café insignia de España: partes iguales de espresso fuerte y leche caliente. Se pide a cualquier hora del día, es el combustible de la vida española — desde el ritual matinal del desayuno en el bar hasta el reconstituyente de la tarde."
+  },
+  "enhanced_description": "Cafe con leche is the heartbeat of daily Spanish life, a drink so central to the national routine that it shapes the rhythm of the entire day. Every morning, millions of Spaniards begin their day standing at a bar counter with a cafe con leche and a tostada (toast with olive oil and tomato, or butter and jam), a ritual that is as essential to Spanish culture as the siesta or the paseo. Unlike Italian cappuccino, which is strictly a morning drink, cafe con leche is acceptable at any hour and serves as the social lubricant for countless conversations, business meetings, and quiet moments of reflection throughout the day.",
+  "region": "national",
+  "category": "non-alcoholic",
+  "alcoholic": false,
+  "image": "/images/drinks/cafe-con-leche.jpg",
+  "price_range": "€1.20-2.50",
+  "history": {
+    "en": "Coffee arrived in Spain through trade with the Ottoman Empire and its colonies, establishing itself in Spanish society by the 18th century. The tradition of the cafe con leche developed alongside Spain's rich cafe culture, where literary and intellectual tertulias (discussion groups) gathered in grand coffeehouses. Madrid's Cafe Gijón (1888), Cafe Comercial (1887), and Barcelona's Els Quatre Gats (1897, frequented by Picasso) became legendary cultural institutions. Unlike the espresso-centric Italian coffee culture, Spain developed its own style focused on the generous combination of strong coffee and hot milk, creating a drink that is simultaneously a pick-me-up and a comfort.",
+    "es": "El café llegó a España a través del comercio con el Imperio Otomano y sus colonias, estableciéndose en la sociedad española para el siglo XVIII. La tradición del café con leche se desarrolló junto a la rica cultura de cafés de España, donde tertulias literarias e intelectuales se reunían en grandes cafeterías. El Café Gijón de Madrid (1888), el Café Comercial (1887) y Els Quatre Gats de Barcelona (1897, frecuentado por Picasso) se convirtieron en legendarias instituciones culturales. A diferencia de la cultura cafetera italiana centrada en el espresso, España desarrolló su propio estilo enfocado en la generosa combinación de café fuerte y leche caliente, creando una bebida que es simultáneamente un estimulante y un consuelo."
+  },
+  "how_to_enjoy": {
+    "en": "Order a cafe con leche at the bar counter (it's usually cheaper standing at the barra than sitting at a mesa). For breakfast, pair it with a tostada con tomate (toast with crushed tomato and olive oil) or a croissant. After lunch, a cafe solo (just espresso) is more common, but cafe con leche is always acceptable. If you find Spanish coffee too strong, ask for a cafe con leche 'largo de leche' (more milk) or 'corto de cafe' (less coffee). If you want it very hot, ask for it 'muy caliente.'",
+    "es": "Pide un café con leche en la barra (suele ser más barato de pie en la barra que sentado en una mesa). Para desayunar, acompáñalo con una tostada con tomate (pan tostado con tomate triturado y aceite de oliva) o un cruasán. Después de comer, un café solo es más común, pero el café con leche siempre es aceptable. Si el café español te parece demasiado fuerte, pide un café con leche 'largo de leche' (más leche) o 'corto de café' (menos café). Si lo quieres muy caliente, pídelo 'muy caliente'."
+  },
+  "where_to_try": [
+    {
+      "name": "Café Gijón",
+      "city": "Madrid",
+      "description": {
+        "en": "One of Madrid's most historic cafes, operating since 1888 on Paseo de Recoletos. Famous for its literary tertulias and classic atmosphere with marble tables and leather seats.",
+        "es": "Uno de los cafés más históricos de Madrid, en funcionamiento desde 1888 en el Paseo de Recoletos. Famoso por sus tertulias literarias y su atmósfera clásica con mesas de mármol y asientos de piel."
+      }
+    },
+    {
+      "name": "Federal Café",
+      "city": "Barcelona",
+      "description": {
+        "en": "A popular specialty coffee shop in the Gótico neighborhood representing Spain's growing third-wave coffee movement, offering excellent cafe con leche with carefully sourced beans.",
+        "es": "Una popular cafetería de especialidad en el barrio Gótico que representa el creciente movimiento de café de tercera ola en España, ofreciendo excelente café con leche con granos cuidadosamente seleccionados."
+      }
+    },
+    {
+      "name": "Any neighborhood bar",
+      "city": "Nationwide",
+      "description": {
+        "en": "The most authentic cafe con leche experience is at your local barrio bar at 8 AM, standing at the counter alongside workers starting their day.",
+        "es": "La experiencia más auténtica de café con leche es en tu bar de barrio a las 8 de la mañana, de pie en la barra junto a trabajadores empezando su jornada."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Learn the coffee vocabulary: cafe solo (espresso), cortado (espresso with a splash of milk), cafe con leche (half coffee, half milk), cafe con hielo (espresso served with a glass of ice).",
+      "es": "Aprende el vocabulario del café: café solo (espresso), cortado (espresso con un poco de leche), café con leche (mitad café, mitad leche), café con hielo (espresso servido con un vaso de hielo)."
+    },
+    {
+      "en": "In summer, order a cafe con hielo: you'll get a hot espresso and a separate glass full of ice. Pour the coffee over the ice yourself for the perfect iced coffee.",
+      "es": "En verano, pide un café con hielo: te darán un espresso caliente y un vaso aparte lleno de hielo. Vierte tú mismo el café sobre el hielo para el café helado perfecto."
+    },
+    {
+      "en": "It's always cheaper to drink at the bar (barra) than at a table (mesa), and cheaper still than on a terrace (terraza). This can be a significant difference in tourist areas.",
+      "es": "Siempre es más barato beber en la barra que en una mesa, y más barato aún que en la terraza. Esta diferencia puede ser significativa en zonas turísticas."
+    }
+  ]
+}

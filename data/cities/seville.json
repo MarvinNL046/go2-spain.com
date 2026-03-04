@@ -1,0 +1,132 @@
+{
+  "slug": "seville",
+  "name": { "en": "Seville", "es": "Sevilla" },
+  "region": "andalusia",
+  "province": "Seville",
+  "population": 684000,
+  "elevation": 7,
+  "image": "/images/cities/seville.jpg",
+  "gallery": ["/images/cities/seville-1.jpg", "/images/cities/seville-2.jpg", "/images/cities/seville-3.jpg"],
+  "description": {
+    "en": "Seville, the capital of Andalusia, is where flamenco, tapas, and Moorish architecture reach their most passionate expression. The city's monumental treasures — the vast Gothic cathedral with its Giralda tower, the exquisite Royal Alcázar, and the sweeping Plaza de España — are matched by an intoxicating street life of orange-blossom-scented lanes, horse-drawn carriages, and spirited fiestas. Seville's Semana Santa (Holy Week) and Feria de Abril are among Spain's most spectacular celebrations. The city straddles the Guadalquivir River and basks in more than 300 days of sunshine a year.",
+    "es": "Sevilla, la capital de Andalucía, es donde el flamenco, las tapas y la arquitectura morisca alcanzan su expresión más apasionada. Los tesoros monumentales de la ciudad — la inmensa catedral gótica con su torre Giralda, el exquisito Real Alcázar y la grandiosa Plaza de España — se igualan con una embriagadora vida callejera de calles perfumadas con azahar, coches de caballos y animadas fiestas. La Semana Santa y la Feria de Abril de Sevilla son de las celebraciones más espectaculares de España. La ciudad se extiende a orillas del río Guadalquivir y disfruta de más de 300 días de sol al año."
+  },
+  "highlights": [
+    { "en": "The Royal Alcázar", "es": "El Real Alcázar" },
+    { "en": "Seville Cathedral & Giralda Tower", "es": "La Catedral de Sevilla y la Giralda" },
+    { "en": "Plaza de España", "es": "Plaza de España" },
+    { "en": "Flamenco in Triana", "es": "Flamenco en Triana" },
+    { "en": "Metropol Parasol (Las Setas)", "es": "Metropol Parasol (Las Setas)" }
+  ],
+  "bestTimeToVisit": {
+    "en": "Spring (March-May) is magical, especially during Semana Santa and Feria de Abril. Autumn (October-November) is also excellent. Avoid July and August when temperatures regularly exceed 40°C, making Seville one of Europe's hottest cities.",
+    "es": "La primavera (marzo-mayo) es mágica, especialmente durante la Semana Santa y la Feria de Abril. El otoño (octubre-noviembre) también es excelente. Evita julio y agosto cuando las temperaturas superan regularmente los 40°C, convirtiendo a Sevilla en una de las ciudades más calurosas de Europa."
+  },
+  "gettingAround": {
+    "en": "Seville's historic center is compact and best explored on foot. The city has a modern tram line (MetroCentro), a single metro line, and an extensive bus network. Seville is one of Spain's most bike-friendly cities, with a public bike-sharing system (Sevici) and flat terrain perfect for cycling.",
+    "es": "El centro histórico de Sevilla es compacto y se explora mejor a pie. La ciudad cuenta con una línea de tranvía moderna (MetroCentro), una línea de metro y una extensa red de autobuses. Sevilla es una de las ciudades más amigables con la bicicleta de España, con un sistema público de bicicletas compartidas (Sevici) y un terreno llano perfecto para pedalear."
+  },
+  "neighborhoods": [
+    {
+      "name": { "en": "Santa Cruz", "es": "Santa Cruz" },
+      "description": {
+        "en": "The former Jewish Quarter and Seville's most picturesque neighborhood, with whitewashed houses, flower-draped balconies, and hidden courtyards surrounding the Cathedral and Alcázar.",
+        "es": "La antigua judería y el barrio más pintoresco de Sevilla, con casas encaladas, balcones cubiertos de flores y patios escondidos rodeando la Catedral y el Alcázar."
+      },
+      "vibe": { "en": "Romantic, historic, and tourist-friendly", "es": "Romántico, histórico y turístico" }
+    },
+    {
+      "name": { "en": "Triana", "es": "Triana" },
+      "description": {
+        "en": "Across the Guadalquivir River, Triana is the traditional home of Seville's flamenco artists and ceramic artisans. Its waterfront and Calle Betis are perfect for evening tapas.",
+        "es": "Al otro lado del río Guadalquivir, Triana es el hogar tradicional de los artistas flamencos y los artesanos cerámicos de Sevilla. Su paseo marítimo y la Calle Betis son perfectos para tapear por la noche."
+      },
+      "vibe": { "en": "Authentic flamenco soul and artisan crafts", "es": "Alma flamenca auténtica y artesanía" }
+    },
+    {
+      "name": { "en": "Macarena", "es": "La Macarena" },
+      "description": {
+        "en": "A lively, authentic neighborhood known for its namesake basilica housing the famous weeping Virgin, traditional tapas bars, and a more local atmosphere away from tourist crowds.",
+        "es": "Un barrio animado y auténtico conocido por su basílica homónima que alberga la famosa Virgen llorosa, bares de tapas tradicionales y un ambiente más local lejos de las multitudes turísticas."
+      },
+      "vibe": { "en": "Local, traditional, and off the beaten path", "es": "Local, tradicional y fuera de las rutas turísticas" }
+    },
+    {
+      "name": { "en": "Alameda de Hércules", "es": "Alameda de Hércules" },
+      "description": {
+        "en": "Seville's trendiest area, centered on a tree-lined promenade with buzzing terrace bars, alternative venues, and a vibrant nightlife scene popular with locals and artists.",
+        "es": "La zona más moderna de Sevilla, centrada en un paseo arbolado con animadas terrazas, locales alternativos y una vibrante vida nocturna popular entre locales y artistas."
+      },
+      "vibe": { "en": "Trendy nightlife and creative scene", "es": "Vida nocturna de moda y escena creativa" }
+    }
+  ],
+  "localFood": [
+    {
+      "name": { "en": "Tapas (Seville style)", "es": "Tapas (estilo sevillano)" },
+      "description": {
+        "en": "Seville is considered the birthplace of tapas culture. Many bars still serve a free tapa with every drink, and the variety is endless — from spinach with chickpeas to pork cheeks in sherry sauce.",
+        "es": "Sevilla se considera la cuna de la cultura de las tapas. Muchos bares todavía sirven una tapa gratis con cada bebida, y la variedad es infinita — desde espinacas con garbanzos hasta carrillada de cerdo en salsa de Jerez."
+      }
+    },
+    {
+      "name": { "en": "Pescaíto Frito", "es": "Pescaíto Frito" },
+      "description": {
+        "en": "A platter of lightly battered and fried small fish — anchovies, baby squid, and small sole — served with a squeeze of lemon. A staple of Seville's bars, especially in summer.",
+        "es": "Un surtido de pescaditos ligeramente rebozados y fritos — boquerones, chopitos y acedías — servidos con un chorrito de limón. Un básico de los bares sevillanos, especialmente en verano."
+      }
+    },
+    {
+      "name": { "en": "Salmorejo", "es": "Salmorejo" },
+      "description": {
+        "en": "A thick, creamy cold tomato soup from Córdoba that's hugely popular in Seville. Made with bread, tomatoes, garlic, and olive oil, topped with hard-boiled egg and jamón.",
+        "es": "Una sopa fría de tomate espesa y cremosa de Córdoba que es muy popular en Sevilla. Hecha con pan, tomates, ajo y aceite de oliva, coronada con huevo duro y jamón."
+      }
+    },
+    {
+      "name": { "en": "Cola de Toro", "es": "Cola de Toro" },
+      "description": {
+        "en": "Braised oxtail stew, slow-cooked with red wine, vegetables, and spices until the meat falls off the bone. A signature Andalusian dish found on menus throughout Seville.",
+        "es": "Estofado de rabo de toro, cocinado a fuego lento con vino tinto, verduras y especias hasta que la carne se deshace. Un plato andaluz emblemático que se encuentra en los menús de toda Sevilla."
+      }
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": { "en": "Córdoba", "es": "Córdoba" },
+      "description": {
+        "en": "Home to the breathtaking Mezquita, a former mosque turned cathedral with hundreds of red-and-white striped arches. Its old Jewish Quarter and flower-filled patios are enchanting.",
+        "es": "Hogar de la impresionante Mezquita, una antigua mezquita convertida en catedral con cientos de arcos de rayas rojas y blancas. Su antigua judería y sus patios llenos de flores son encantadores."
+      },
+      "distance": "140km"
+    },
+    {
+      "name": { "en": "Ronda", "es": "Ronda" },
+      "description": {
+        "en": "A dramatic clifftop town split by the El Tajo gorge, spanned by the iconic Puente Nuevo bridge. Birthplace of modern bullfighting with Spain's oldest bullring.",
+        "es": "Un espectacular pueblo sobre un acantilado dividido por el tajo del río, cruzado por el icónico Puente Nuevo. Cuna de la tauromaquia moderna con la plaza de toros más antigua de España."
+      },
+      "distance": "130km"
+    },
+    {
+      "name": { "en": "Cádiz", "es": "Cádiz" },
+      "description": {
+        "en": "One of Western Europe's oldest cities, nearly surrounded by the Atlantic Ocean. Famous for its golden light, fresh seafood, Carnival celebrations, and the watchtower of Torre Tavira.",
+        "es": "Una de las ciudades más antiguas de Europa occidental, casi rodeada por el océano Atlántico. Famosa por su luz dorada, marisco fresco, celebraciones de Carnaval y la torre vigía de Torre Tavira."
+      },
+      "distance": "125km"
+    },
+    {
+      "name": { "en": "Jerez de la Frontera", "es": "Jerez de la Frontera" },
+      "description": {
+        "en": "The world capital of sherry wine and Andalusian horses. Visit historic bodegas for wine tastings and watch the Royal Andalusian School of Equestrian Art performances.",
+        "es": "La capital mundial del vino de Jerez y los caballos andaluces. Visita bodegas históricas para catas de vino y contempla las actuaciones de la Real Escuela Andaluza del Arte Ecuestre."
+      },
+      "distance": "95km"
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€35-55/day", "es": "35-55€/día" },
+    "midRange": { "en": "€90-160/day", "es": "90-160€/día" },
+    "luxury": { "en": "€250+/day", "es": "250+€/día" }
+  }
+}

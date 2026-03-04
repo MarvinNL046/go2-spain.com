@@ -1,1 +1,13 @@
-[]
+{
+  "type": "schengen",
+  "countryName": { "en": "Spain", "es": "España" },
+  "visaFreeCountries": ["USA", "Canada", "UK", "Australia", "Japan", "South Korea", "New Zealand", "Brazil", "Argentina"],
+  "maxStay": 90,
+  "requirements": [
+    { "en": "Valid passport (6 months validity)", "es": "Pasaporte válido (6 meses de validez)" },
+    { "en": "Return ticket", "es": "Billete de vuelta" },
+    { "en": "Proof of accommodation", "es": "Prueba de alojamiento" },
+    { "en": "Travel insurance (€30,000 minimum)", "es": "Seguro de viaje (mínimo 30.000€)" },
+    { "en": "Proof of sufficient funds", "es": "Prueba de fondos suficientes" }
+  ]
+}

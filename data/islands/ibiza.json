@@ -1,0 +1,63 @@
+{
+  "slug": "ibiza",
+  "name": { "en": "Ibiza", "es": "Ibiza" },
+  "archipelago": "Balearic Islands",
+  "population": 152000,
+  "area": 572,
+  "climate": {
+    "en": "Mediterranean climate with long, hot summers (28-33°C) and mild winters (12-16°C). Rainfall is low, mostly in autumn. Sea temperatures are pleasant from May to November.",
+    "es": "Clima mediterráneo con veranos largos y calurosos (28-33°C) e inviernos suaves (12-16°C). Las lluvias son escasas, principalmente en otoño. Las temperaturas del mar son agradables de mayo a noviembre."
+  },
+  "description": {
+    "en": "Ibiza is an island of contrasts — legendary nightclubs and serene yoga retreats, raucous beach parties and quiet pine-forested coves. While the west coast's superclubs (Pacha, Amnesia, Privilege) have made it the world's clubbing capital, the island's other face reveals a UNESCO-listed old town (Dalt Vila), centuries-old salt flats, and a bohemian spirit inherited from the hippie movement of the 1960s. The north of the island remains remarkably unspoiled, with rural agrotourism fincas and pristine beaches accessible only on foot.",
+    "es": "Ibiza es una isla de contrastes — legendarias discotecas y serenos retiros de yoga, ruidosas fiestas en la playa y tranquilas calas rodeadas de pinos. Mientras los superclubes de la costa oeste (Pachá, Amnesia, Privilege) la han convertido en la capital mundial del clubbing, la otra cara de la isla revela un casco antiguo declarado Patrimonio de la Humanidad (Dalt Vila), salinas centenarias y un espíritu bohemio heredado del movimiento hippie de los años 60. El norte de la isla permanece notablemente virgen, con fincas de agroturismo rural y playas prístinas accesibles solo a pie."
+  },
+  "highlights": [
+    { "en": "Dalt Vila (UNESCO Old Town)", "es": "Dalt Vila (Casco Antiguo UNESCO)" },
+    { "en": "World-famous nightlife", "es": "Vida nocturna de fama mundial" },
+    { "en": "Sunset at Café del Mar, San Antonio", "es": "Atardecer en Café del Mar, San Antonio" },
+    { "en": "Es Vedrà island", "es": "Islote de Es Vedrà" },
+    { "en": "Ses Salines Natural Park", "es": "Parque Natural de Ses Salines" }
+  ],
+  "bestTimeToVisit": {
+    "en": "For clubbing, June to September is the season when all major venues are open. For a quieter experience, May-June and September-October offer warm weather, fewer crowds, and lower prices. Winter is very quiet but peaceful, with many businesses closed.",
+    "es": "Para la vida nocturna, de junio a septiembre es la temporada cuando todos los grandes locales están abiertos. Para una experiencia más tranquila, mayo-junio y septiembre-octubre ofrecen buen tiempo, menos aglomeraciones y precios más bajos. El invierno es muy tranquilo pero pacífico, con muchos negocios cerrados."
+  },
+  "gettingThere": {
+    "en": "Ibiza Airport (IBZ) has direct flights from major European cities, especially frequent in summer. Ferries connect Ibiza with Barcelona (8 hours), Valencia (6 hours), Denia (3 hours), and Mallorca (2-4 hours). Fast ferries from Denia take about 2 hours.",
+    "es": "El Aeropuerto de Ibiza (IBZ) tiene vuelos directos desde las principales ciudades europeas, especialmente frecuentes en verano. Los ferris conectan Ibiza con Barcelona (8 horas), Valencia (6 horas), Denia (3 horas) y Mallorca (2-4 horas). Los ferris rápidos desde Denia tardan unas 2 horas."
+  },
+  "beaches": [
+    {
+      "name": { "en": "Cala Comte", "es": "Cala Comte" },
+      "description": { "en": "Widely considered Ibiza's most beautiful beach, with stunning turquoise waters and views of the offshore islands. Famous for spectacular sunsets.", "es": "Ampliamente considerada la playa más bella de Ibiza, con impresionantes aguas turquesas y vistas a los islotes. Famosa por sus espectaculares atardeceres." }
+    },
+    {
+      "name": { "en": "Cala d'Hort", "es": "Cala d'Hort" },
+      "description": { "en": "A cove with dramatic views of the mystical Es Vedrà rock island rising from the sea. Local legend says it has magnetic properties and was the home of sirens.", "es": "Una cala con espectaculares vistas al místico islote de Es Vedrà emergiendo del mar. La leyenda local dice que tiene propiedades magnéticas y fue hogar de sirenas." }
+    },
+    {
+      "name": { "en": "Ses Salines", "es": "Ses Salines" },
+      "description": { "en": "A long sandy beach next to the natural park and historic salt flats. Popular with a stylish crowd, with trendy beach clubs and crystal-clear water.", "es": "Una larga playa de arena junto al parque natural y las históricas salinas. Popular entre un público elegante, con beach clubs de moda y aguas cristalinas." }
+    }
+  ],
+  "activities": [
+    {
+      "name": { "en": "Clubbing", "es": "Ir de Discotecas" },
+      "description": { "en": "Experience the world's most famous nightlife at legendary venues like Pacha, Amnesia, DC-10, and Ushuaïa. International DJs play sunrise sets from June to October.", "es": "Experimenta la vida nocturna más famosa del mundo en locales legendarios como Pachá, Amnesia, DC-10 y Ushuaïa. DJs internacionales tocan sesiones de amanecer de junio a octubre." }
+    },
+    {
+      "name": { "en": "Explore Dalt Vila", "es": "Explora Dalt Vila" },
+      "description": { "en": "Walk the cobblestone streets of Ibiza's UNESCO-listed fortified old town, with Renaissance walls, the cathedral, and panoramic views from the ramparts.", "es": "Recorre las calles empedradas del casco antiguo fortificado de Ibiza, Patrimonio de la Humanidad, con murallas renacentistas, la catedral y vistas panorámicas desde las murallas." }
+    },
+    {
+      "name": { "en": "Boat trip to Formentera", "es": "Excursión en barco a Formentera" },
+      "description": { "en": "Take a 30-minute ferry to Ibiza's tiny sister island, known for its Caribbean-like beaches, especially Ses Illetes, consistently rated one of Europe's best.", "es": "Toma un ferri de 30 minutos a la pequeña isla hermana de Ibiza, conocida por sus playas tipo caribeño, especialmente Ses Illetes, constantemente clasificada entre las mejores de Europa." }
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€55-85/day", "es": "55-85€/día" },
+    "midRange": { "en": "€150-250/day", "es": "150-250€/día" },
+    "luxury": { "en": "€400+/day", "es": "400+€/día" }
+  }
+}

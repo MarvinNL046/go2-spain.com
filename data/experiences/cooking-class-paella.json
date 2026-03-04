@@ -1,0 +1,19 @@
+{
+  "slug": "cooking-class-paella",
+  "name": {
+    "en": "Paella Cooking Class",
+    "es": "Clase de Cocina de Paella"
+  },
+  "city": "valencia",
+  "region": "valencia",
+  "image": "/images/experiences/cooking-class-paella.jpg",
+  "description": {
+    "en": "Learn to cook authentic Valencian paella from a local chef, starting with a market visit to select ingredients. Master the socarrat (crispy bottom) and understand why real paella never has seafood.",
+    "es": "Aprende a cocinar auténtica paella valenciana con un chef local, empezando con una visita al mercado para seleccionar ingredientes. Domina el socarrat (fondo crujiente) y entiende por qué la verdadera paella nunca lleva marisco."
+  },
+  "category": "food",
+  "duration": "3-4 hours",
+  "price": "€60-90",
+  "difficulty": "easy",
+  "rating": 4.8
+}

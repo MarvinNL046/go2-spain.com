@@ -1,0 +1,19 @@
+{
+  "slug": "surf-san-sebastian",
+  "name": {
+    "en": "Surfing in San Sebastián",
+    "es": "Surf en San Sebastián"
+  },
+  "city": "san-sebastian",
+  "region": "basque-country",
+  "image": "/images/experiences/surf-san-sebastian.jpg",
+  "description": {
+    "en": "Catch waves on Zurriola beach, San Sebastián's dedicated surf beach with consistent Atlantic swells. Multiple surf schools cater to beginners, while experienced surfers find challenging breaks.",
+    "es": "Coge olas en la playa de Zurriola, la playa de surf dedicada de San Sebastián con oleaje atlántico consistente. Múltiples escuelas de surf atienden a principiantes, mientras los surfistas experimentados encuentran olas desafiantes."
+  },
+  "category": "adventure",
+  "duration": "2-3 hours",
+  "price": "€40-60",
+  "difficulty": "moderate",
+  "rating": 4.5
+}

@@ -1,1 +1,77 @@
-[]
+[
+  {
+    "slug": "andalusia",
+    "name": { "en": "Andalusia", "es": "Andalucía" },
+    "description": {
+      "en": "Sun-drenched southern Spain where flamenco, Moorish palaces, and tapas culture define the passionate Andalusian spirit. From the Alhambra in Granada to the whitewashed villages of the coast.",
+      "es": "El sur de España bañado por el sol donde el flamenco, los palacios moriscos y la cultura de tapas definen el apasionado espíritu andaluz. Desde la Alhambra en Granada hasta los pueblos blancos de la costa."
+    },
+    "image": "/images/regions/andalusia.jpg",
+    "highlights": [
+      { "en": "The Alhambra in Granada", "es": "La Alhambra en Granada" },
+      { "en": "Flamenco shows in Seville", "es": "Espectáculos de flamenco en Sevilla" },
+      { "en": "Whitewashed hill towns", "es": "Pueblos blancos en las colinas" }
+    ],
+    "cities": ["seville", "granada", "malaga"]
+  },
+  {
+    "slug": "catalonia",
+    "name": { "en": "Catalonia", "es": "Cataluña" },
+    "description": {
+      "en": "A fiercely independent region with its own language and culture, home to Barcelona's Gaudí masterpieces, the rugged Costa Brava coastline, and a world-leading culinary scene.",
+      "es": "Una región ferozmente independiente con su propio idioma y cultura, hogar de las obras maestras de Gaudí en Barcelona, la escarpada costa de la Costa Brava y una escena culinaria líder mundial."
+    },
+    "image": "/images/regions/catalonia.jpg",
+    "highlights": [
+      { "en": "Gaudí's architecture in Barcelona", "es": "La arquitectura de Gaudí en Barcelona" },
+      { "en": "Costa Brava beaches", "es": "Playas de la Costa Brava" },
+      { "en": "Dalí Theatre-Museum in Figueres", "es": "Teatro-Museo Dalí en Figueres" }
+    ],
+    "cities": ["barcelona"]
+  },
+  {
+    "slug": "basque-country",
+    "name": { "en": "Basque Country", "es": "País Vasco" },
+    "description": {
+      "en": "A unique region with Europe's oldest language, the world's highest concentration of Michelin stars, and a dramatic Atlantic coastline. The Guggenheim transformed Bilbao; San Sebastián is a food pilgrimage.",
+      "es": "Una región única con el idioma más antiguo de Europa, la mayor concentración de estrellas Michelin del mundo y una espectacular costa atlántica. El Guggenheim transformó Bilbao; San Sebastián es una peregrinación gastronómica."
+    },
+    "image": "/images/regions/basque-country.jpg",
+    "highlights": [
+      { "en": "Guggenheim Museum in Bilbao", "es": "Museo Guggenheim en Bilbao" },
+      { "en": "Pintxos crawl in San Sebastián", "es": "Ruta de pintxos en San Sebastián" },
+      { "en": "San Juan de Gaztelugatxe", "es": "San Juan de Gaztelugatxe" }
+    ],
+    "cities": ["bilbao", "san-sebastian"]
+  },
+  {
+    "slug": "castile",
+    "name": { "en": "Castile", "es": "Castilla" },
+    "description": {
+      "en": "The vast heartland of Spain, stretching across the central plateau with medieval walled cities, imposing castles, and the literary landscapes of Don Quixote. Home to Madrid, Toledo, and Salamanca.",
+      "es": "El vasto corazón de España, extendiéndose por la meseta central con ciudades medievales amuralladas, imponentes castillos y los paisajes literarios de Don Quijote. Hogar de Madrid, Toledo y Salamanca."
+    },
+    "image": "/images/regions/castile.jpg",
+    "highlights": [
+      { "en": "Toledo's medieval old town", "es": "El casco antiguo medieval de Toledo" },
+      { "en": "Segovia's Roman Aqueduct", "es": "El Acueducto Romano de Segovia" },
+      { "en": "Salamanca's golden university city", "es": "La dorada ciudad universitaria de Salamanca" }
+    ],
+    "cities": ["toledo", "salamanca"]
+  },
+  {
+    "slug": "galicia",
+    "name": { "en": "Galicia", "es": "Galicia" },
+    "description": {
+      "en": "Spain's lush, green northwest corner with Celtic heritage, dramatic Atlantic coastline, and the pilgrimage destination of Santiago de Compostela. Famous for exceptional seafood and Albariño wine.",
+      "es": "El exuberante y verde rincón noroeste de España con herencia celta, espectacular costa atlántica y el destino de peregrinación de Santiago de Compostela. Famosa por su excepcional marisco y vino Albariño."
+    },
+    "image": "/images/regions/galicia.jpg",
+    "highlights": [
+      { "en": "Santiago de Compostela Cathedral", "es": "Catedral de Santiago de Compostela" },
+      { "en": "Rías Baixas coastline", "es": "Costa de las Rías Baixas" },
+      { "en": "Fresh seafood and Albariño wine", "es": "Marisco fresco y vino Albariño" }
+    ],
+    "cities": []
+  }
+]

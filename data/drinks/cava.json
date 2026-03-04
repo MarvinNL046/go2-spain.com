@@ -1,0 +1,62 @@
+{
+  "slug": "cava",
+  "name": { "en": "Cava", "es": "Cava" },
+  "description": {
+    "en": "Spain's traditional method sparkling wine, primarily produced in the Penedès region near Barcelona. Made mainly from Macabeo, Parellada, and Xarel·lo grapes, cava offers champagne-quality bubbles at a fraction of the price.",
+    "es": "El vino espumoso de método tradicional de España, producido principalmente en la región del Penedès cerca de Barcelona. Hecho principalmente de uvas Macabeo, Parellada y Xarel·lo, el cava ofrece burbujas de calidad champán a una fracción del precio."
+  },
+  "enhanced_description": "Cava is Spain's answer to Champagne -- a high-quality sparkling wine made using the same traditional method of secondary fermentation in the bottle that produces the finest bubbles in France. Predominantly produced in the Penedès region of Catalonia, cava is crafted from indigenous Spanish grape varieties that give it a distinct Mediterranean character: Macabeo provides freshness, Xarel-lo contributes body and earthiness, and Parellada adds floral elegance. The result is a sparkling wine of genuine quality and character that represents perhaps the best value in the entire world of sparkling wines, with bottles of remarkable quality available for a fraction of what comparable Champagne would cost.",
+  "region": "penedes",
+  "category": "wine",
+  "alcoholic": true,
+  "image": "/images/drinks/cava.jpg",
+  "price_range": "€2-5 per glass, €6-25+ per bottle",
+  "history": {
+    "en": "Cava was born in 1872 when Josep Raventós of the Codorníu family produced Spain's first sparkling wine using the traditional method after studying Champagne-making techniques in France. The Penedès region, with its limestone soils and Mediterranean climate, proved ideal for sparkling wine production. The industry grew rapidly in the early 20th century, with Codorníu and Freixenet becoming the two dominant houses. The name 'cava' (meaning 'cave' or 'cellar') was adopted in 1970 to distinguish the product from French Champagne. Today, Spain is the second-largest producer of traditional-method sparkling wine in the world, and cava has earned international respect for its quality and value.",
+    "es": "El cava nació en 1872 cuando Josep Raventós de la familia Codorníu produjo el primer vino espumoso de España usando el método tradicional tras estudiar técnicas de elaboración de champán en Francia. La región del Penedès, con sus suelos calcáreos y clima mediterráneo, demostró ser ideal para la producción de espumoso. La industria creció rápidamente a principios del siglo XX, con Codorníu y Freixenet convirtiéndose en las dos casas dominantes. El nombre 'cava' (que significa 'cueva' o 'bodega') se adoptó en 1970 para distinguir el producto del champán francés. Hoy, España es el segundo mayor productor de espumoso de método tradicional del mundo, y el cava ha ganado respeto internacional por su calidad y valor."
+  },
+  "how_to_enjoy": {
+    "en": "Serve cava well chilled (6-8°C) in a tall flute or, better yet, a white wine glass that allows the aromas to develop. Brut Nature (zero dosage) and Brut are the driest styles, perfect as aperitifs. Semi-Seco has some sweetness and pairs well with desserts. Cava is exceptionally food-friendly -- it works brilliantly with seafood tapas, jamón ibérico, sushi, and even fried foods, where the bubbles cut through the oil beautifully.",
+    "es": "Sirve el cava bien frío (6-8°C) en una flauta alta o, mejor aún, en una copa de vino blanco que permita desarrollar los aromas. Brut Nature (sin dosificación) y Brut son los estilos más secos, perfectos como aperitivo. Semi-Seco tiene algo de dulzura y marida bien con postres. El cava es excepcionalmente versátil con la comida -- funciona brillantemente con tapas de marisco, jamón ibérico, sushi e incluso fritos, donde las burbujas cortan la grasa bellamente."
+  },
+  "where_to_try": [
+    {
+      "name": "Codorníu",
+      "city": "Sant Sadurní d'Anoia",
+      "description": {
+        "en": "The historic birthplace of cava, founded in 1551. Their modernista cellars, designed by Josep Puig i Cadafalch, are a National Historic Monument and offer excellent tours and tastings.",
+        "es": "El histórico lugar de nacimiento del cava, fundado en 1551. Sus bodegas modernistas, diseñadas por Josep Puig i Cadafalch, son Monumento Histórico Nacional y ofrecen excelentes visitas y degustaciones."
+      }
+    },
+    {
+      "name": "Freixenet",
+      "city": "Sant Sadurní d'Anoia",
+      "description": {
+        "en": "One of the world's largest sparkling wine producers, offering tours through underground cellars stretching for miles beneath the town.",
+        "es": "Uno de los mayores productores de vino espumoso del mundo, que ofrece visitas a través de bodegas subterráneas que se extienden kilómetros bajo el pueblo."
+      }
+    },
+    {
+      "name": "Gramona",
+      "city": "Sant Sadurní d'Anoia",
+      "description": {
+        "en": "A family-owned boutique producer crafting some of Catalonia's finest Gran Reserva cavas, aged for years to develop extraordinary complexity.",
+        "es": "Un productor boutique familiar que elabora algunos de los mejores cavas Gran Reserva de Cataluña, criados durante años para desarrollar extraordinaria complejidad."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Don't judge cava by its price. Even inexpensive cavas (under €10 a bottle) can be excellent. Look for Brut Nature for the driest, most authentic style.",
+      "es": "No juzgues el cava por su precio. Incluso los cavas económicos (menos de 10€ la botella) pueden ser excelentes. Busca Brut Nature para el estilo más seco y auténtico."
+    },
+    {
+      "en": "Visit Sant Sadurní d'Anoia, the 'capital of cava,' just 45 minutes from Barcelona. Over 80 cava producers are based there, many offering tours and tastings.",
+      "es": "Visita Sant Sadurní d'Anoia, la 'capital del cava', a solo 45 minutos de Barcelona. Más de 80 productores de cava están allí, muchos ofreciendo visitas y degustaciones."
+    },
+    {
+      "en": "For celebrations, look for a Cava de Paraje Calificado -- the highest quality designation, similar to Champagne's Grand Cru, from specific vineyard sites.",
+      "es": "Para celebraciones, busca un Cava de Paraje Calificado -- la designación de máxima calidad, similar al Grand Cru del Champagne, de parcelas específicas."
+    }
+  ]
+}

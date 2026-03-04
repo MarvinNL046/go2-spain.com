@@ -1,0 +1,28 @@
+{
+  "slug": "la-rambla",
+  "name": {
+    "en": "La Rambla",
+    "es": "La Rambla"
+  },
+  "city": "barcelona",
+  "region": "catalonia",
+  "image": "/images/destinations/la-rambla.jpg",
+  "description": {
+    "en": "Barcelona's famous tree-lined pedestrian boulevard stretching 1.2km from Plaça de Catalunya to the port, with flower stalls, street performers, and the legendary La Boqueria food market.",
+    "es": "El famoso bulevar peatonal arbolado de Barcelona de 1,2km desde la Plaça de Catalunya hasta el puerto, con puestos de flores, artistas callejeros y el legendario mercado de La Boquería."
+  },
+  "category": "street",
+  "rating": 4.3,
+  "visitDuration": "1-2 hours",
+  "price": "Free",
+  "tips": [
+    {
+      "en": "Beware of pickpockets — keep valuables secure",
+      "es": "Cuidado con los carteristas — guarda los objetos de valor de forma segura"
+    },
+    {
+      "en": "Visit La Boqueria market for fresh produce and tapas",
+      "es": "Visita el mercado de La Boquería para productos frescos y tapas"
+    }
+  ]
+}

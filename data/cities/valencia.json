@@ -1,0 +1,124 @@
+{
+  "slug": "valencia",
+  "name": { "en": "Valencia", "es": "Valencia" },
+  "region": "valencia",
+  "province": "Valencia",
+  "population": 800000,
+  "elevation": 15,
+  "image": "/images/cities/valencia.jpg",
+  "gallery": ["/images/cities/valencia-1.jpg", "/images/cities/valencia-2.jpg", "/images/cities/valencia-3.jpg"],
+  "description": {
+    "en": "Valencia, Spain's third-largest city, is a captivating blend of old and new. The futuristic City of Arts and Sciences, designed by Santiago Calatrava, contrasts with a beautifully preserved medieval old town. As the birthplace of paella, Valencia takes its food seriously — from the authentic rice dishes cooked over wood fires to the bustling Mercado Central, one of Europe's largest fresh food markets. The former Turia riverbed has been transformed into a stunning 9-kilometer park that winds through the entire city.",
+    "es": "Valencia, la tercera ciudad más grande de España, es una cautivadora mezcla de lo antiguo y lo nuevo. La futurista Ciudad de las Artes y las Ciencias, diseñada por Santiago Calatrava, contrasta con un casco antiguo medieval bellamente conservado. Como cuna de la paella, Valencia se toma la comida en serio — desde los auténticos arroces cocinados a leña hasta el bullicioso Mercado Central, uno de los mercados de productos frescos más grandes de Europa. El antiguo cauce del río Turia se ha transformado en un impresionante parque de 9 kilómetros que atraviesa toda la ciudad."
+  },
+  "highlights": [
+    { "en": "City of Arts and Sciences", "es": "Ciudad de las Artes y las Ciencias" },
+    { "en": "Mercado Central", "es": "Mercado Central" },
+    { "en": "La Lonja de la Seda (Silk Exchange)", "es": "La Lonja de la Seda" },
+    { "en": "Turia Gardens", "es": "Jardines del Turia" },
+    { "en": "Las Fallas Festival", "es": "Las Fallas" }
+  ],
+  "bestTimeToVisit": {
+    "en": "Spring is spectacular, especially mid-March when Las Fallas transforms the city with giant sculptures, fireworks, and festivities. Autumn (September-November) offers warm weather and fewer tourists. Summers are hot but the nearby beaches provide relief.",
+    "es": "La primavera es espectacular, especialmente a mediados de marzo cuando las Fallas transforman la ciudad con esculturas gigantes, fuegos artificiales y festividades. El otoño (septiembre-noviembre) ofrece buen tiempo y menos turistas. Los veranos son calurosos pero las playas cercanas proporcionan alivio."
+  },
+  "gettingAround": {
+    "en": "Valencia has an integrated metro and tram system that covers the city and extends to the beach and airport. The bus network is comprehensive, and the flat terrain makes Valencia ideal for cycling — the public Valenbisi bike-sharing system is very popular. The historic center is easily walkable.",
+    "es": "Valencia cuenta con un sistema integrado de metro y tranvía que cubre la ciudad y se extiende hasta la playa y el aeropuerto. La red de autobuses es completa, y el terreno llano hace que Valencia sea ideal para el ciclismo — el sistema público de bicicletas compartidas Valenbisi es muy popular. El centro histórico se recorre fácilmente a pie."
+  },
+  "neighborhoods": [
+    {
+      "name": { "en": "Ciutat Vella (Old Town)", "es": "Ciutat Vella (Casco Antiguo)" },
+      "description": {
+        "en": "The historic core encompassing the Carmen district, with the Cathedral, La Lonja, and the Central Market. A maze of narrow streets with medieval churches, plazas, and street art.",
+        "es": "El núcleo histórico que abarca el barrio del Carmen, con la Catedral, La Lonja y el Mercado Central. Un laberinto de calles estrechas con iglesias medievales, plazas y arte callejero."
+      },
+      "vibe": { "en": "Historic charm with vibrant street art and nightlife", "es": "Encanto histórico con vibrante arte callejero y vida nocturna" }
+    },
+    {
+      "name": { "en": "Ruzafa", "es": "Ruzafa" },
+      "description": {
+        "en": "Valencia's trendiest neighborhood, a multicultural district packed with independent cafés, brunch spots, art galleries, and vintage shops. The city's creative heart.",
+        "es": "El barrio más moderno de Valencia, un distrito multicultural repleto de cafés independientes, locales de brunch, galerías de arte y tiendas vintage. El corazón creativo de la ciudad."
+      },
+      "vibe": { "en": "Trendy, multicultural, and café culture", "es": "De moda, multicultural y cultura de café" }
+    },
+    {
+      "name": { "en": "Cabanyal", "es": "El Cabañal" },
+      "description": {
+        "en": "The former fishermen's quarter near the beach, known for its colorful tiled facades, traditional rice restaurants, and an increasingly hip creative scene.",
+        "es": "El antiguo barrio de pescadores cerca de la playa, conocido por sus coloridas fachadas de azulejos, restaurantes tradicionales de arroz y una escena creativa cada vez más moderna."
+      },
+      "vibe": { "en": "Beachy, authentic, and artsy", "es": "Playero, auténtico y artístico" }
+    },
+    {
+      "name": { "en": "La Malvarrosa Beach", "es": "Playa de la Malvarrosa" },
+      "description": {
+        "en": "Valencia's main beach area with a long sandy stretch, seaside promenades, and beachfront restaurants serving authentic paella. Connected to the center by tram.",
+        "es": "La zona de playa principal de Valencia con una larga franja de arena, paseos marítimos y restaurantes frente al mar que sirven paella auténtica. Conectada al centro por tranvía."
+      },
+      "vibe": { "en": "Relaxed seaside with paella restaurants", "es": "Ambiente playero relajado con restaurantes de paella" }
+    }
+  ],
+  "localFood": [
+    {
+      "name": { "en": "Paella Valenciana", "es": "Paella Valenciana" },
+      "description": {
+        "en": "The authentic Valencian paella is made with chicken, rabbit, green beans, white beans, and saffron rice — never seafood. Cooked over orange-wood fire in a wide, shallow pan.",
+        "es": "La auténtica paella valenciana se hace con pollo, conejo, judías verdes, garrofón y arroz con azafrán — nunca con marisco. Cocinada a leña de naranjo en una paella ancha y poco profunda."
+      }
+    },
+    {
+      "name": { "en": "All i Pebre", "es": "All i Pebre" },
+      "description": {
+        "en": "A garlic and paprika eel stew from the Albufera lagoon, made with potatoes and a rich sauce. A traditional fishermen's dish that's a local delicacy.",
+        "es": "Un guiso de anguila con ajo y pimentón de la laguna de la Albufera, hecho con patatas y una rica salsa. Un plato tradicional de pescadores que es una delicia local."
+      }
+    },
+    {
+      "name": { "en": "Horchata & Fartons", "es": "Horchata y Fartons" },
+      "description": {
+        "en": "A refreshing tiger nut milk drink served ice-cold with long sugary pastries (fartons) for dipping. The best comes from the village of Alboraya, just north of Valencia.",
+        "es": "Una refrescante bebida de chufa servida muy fría con fartons (bollos alargados y azucarados) para mojar. La mejor viene del pueblo de Alboraya, al norte de Valencia."
+      }
+    },
+    {
+      "name": { "en": "Fideuà", "es": "Fideuá" },
+      "description": {
+        "en": "A coastal variation of paella using short noodles instead of rice, typically made with seafood. Served with alioli (garlic mayonnaise) on the side.",
+        "es": "Una variación costera de la paella que usa fideos cortos en lugar de arroz, típicamente hecha con marisco. Servida con alioli aparte."
+      }
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": { "en": "Albufera Natural Park", "es": "Parque Natural de la Albufera" },
+      "description": {
+        "en": "A freshwater lagoon and wetland just south of Valencia, perfect for sunset boat rides through rice paddies. The birthplace of paella, with lakeside restaurants serving the real deal.",
+        "es": "Una laguna de agua dulce y humedal al sur de Valencia, perfecto para paseos en barca al atardecer entre arrozales. La cuna de la paella, con restaurantes junto al lago que sirven la auténtica."
+      },
+      "distance": "15km"
+    },
+    {
+      "name": { "en": "Xàtiva", "es": "Xàtiva" },
+      "description": {
+        "en": "A charming town dominated by an impressive hilltop castle with panoramic views. Known as the birthplace of the Borgia popes and its upside-down portrait of Philip V.",
+        "es": "Un encantador pueblo dominado por un impresionante castillo en lo alto de una colina con vistas panorámicas. Conocida como la cuna de los papas Borgia y su retrato invertido de Felipe V."
+      },
+      "distance": "65km"
+    },
+    {
+      "name": { "en": "Peñíscola", "es": "Peñíscola" },
+      "description": {
+        "en": "A dramatic coastal fortress town on the Costa del Azahar, with a castle perched on a rocky peninsula jutting into the Mediterranean. Used as a filming location for Game of Thrones.",
+        "es": "Un espectacular pueblo-fortaleza costero en la Costa del Azahar, con un castillo encaramado en una península rocosa que se adentra en el Mediterráneo. Utilizado como localización de rodaje de Juego de Tronos."
+      },
+      "distance": "150km"
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€35-50/day", "es": "35-50€/día" },
+    "midRange": { "en": "€80-150/day", "es": "80-150€/día" },
+    "luxury": { "en": "€250+/day", "es": "250+€/día" }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "spanish-guitar-lesson",
+  "name": {
+    "en": "Spanish Guitar Lesson",
+    "es": "Clase de Guitarra Española"
+  },
+  "city": "granada",
+  "region": "andalusia",
+  "image": "/images/experiences/spanish-guitar-lesson.jpg",
+  "description": {
+    "en": "Learn the basics of flamenco guitar in the city where flamenco runs deepest. Even a single session can teach you basic rasgueos (strumming patterns) and give you a deeper appreciation of the art.",
+    "es": "Aprende los básicos de la guitarra flamenca en la ciudad donde el flamenco tiene sus raíces más profundas. Incluso una sola sesión puede enseñarte rasgueos básicos y darte una mayor apreciación del arte."
+  },
+  "category": "culture",
+  "duration": "1-2 hours",
+  "price": "€30-60",
+  "difficulty": "easy",
+  "rating": 4.6
+}

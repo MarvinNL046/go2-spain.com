@@ -1,0 +1,83 @@
+{
+  "slug": "tapas",
+  "name": { "en": "Tapas", "es": "Tapas" },
+  "description": {
+    "en": "Small dishes served as snacks or appetizers, forming the backbone of Spanish social dining. From patatas bravas to jamón, tapas culture encourages sharing, conversation, and bar-hopping.",
+    "es": "Pequeños platos servidos como aperitivos que forman la columna vertebral de la cultura gastronómica social española. Desde patatas bravas hasta jamón, la cultura de tapas fomenta compartir, conversar e ir de bar en bar."
+  },
+  "enhanced_description": "Tapas are far more than just small plates of food -- they represent an entire philosophy of eating and socializing that is central to Spanish identity. The tradition of 'ir de tapas' (going out for tapas) involves moving from bar to bar with friends, enjoying a drink and a small dish at each stop, often standing at the counter or gathered around tall tables. In cities like Granada and Almeria, tapas are still served free with every drink order, preserving a tradition that has largely faded elsewhere in Spain.",
+  "region": "national",
+  "category": "appetizer",
+  "image": "/images/food/tapas.jpg",
+  "preparation_time": "Varies by dish",
+  "price_range": "€2-8 per tapa",
+  "difficulty": "varies",
+  "ingredients": ["Varies widely by dish"],
+  "history": {
+    "en": "The origin of tapas is debated, but the most popular legend credits King Alfonso X of Castile (13th century), who decreed that taverns must serve food with wine to reduce drunkenness. The word 'tapa' means 'lid' or 'cover,' possibly referring to the practice of covering wine glasses with a slice of bread or ham to keep flies out. By the 20th century, tapas had evolved from simple accompaniments into an elaborate culinary tradition, and today tapas bars are the social heart of Spanish life.",
+    "es": "El origen de las tapas es debatido, pero la leyenda más popular se atribuye al Rey Alfonso X de Castilla (siglo XIII), quien decretó que las tabernas debían servir comida con el vino para reducir la embriaguez. La palabra 'tapa' significa 'cubierta', posiblemente refiriéndose a la práctica de cubrir los vasos de vino con una rebanada de pan o jamón para mantener alejadas las moscas. Para el siglo XX, las tapas habían evolucionado de simples acompañamientos a una elaborada tradición culinaria, y hoy los bares de tapas son el corazón social de la vida española."
+  },
+  "where_to_try": [
+    {
+      "name": "El Rinconcillo",
+      "city": "Seville",
+      "description": {
+        "en": "Seville's oldest bar, established in 1670, serving traditional Andalusian tapas in a beautifully tiled interior. The bartenders still chalk your tab on the wooden counter.",
+        "es": "El bar más antiguo de Sevilla, establecido en 1670, que sirve tapas andaluzas tradicionales en un interior bellamente azulejado. Los camareros aún apuntan la cuenta con tiza en el mostrador de madera."
+      }
+    },
+    {
+      "name": "Bar El Comercial",
+      "city": "Granada",
+      "description": {
+        "en": "One of Granada's beloved tapas bars where a generous free tapa comes with every drink. A perfect introduction to Granada's legendary free tapas culture.",
+        "es": "Uno de los queridos bares de tapas de Granada donde una generosa tapa gratis viene con cada bebida. Una introducción perfecta a la legendaria cultura de tapas gratis de Granada."
+      }
+    },
+    {
+      "name": "Mercado de San Miguel",
+      "city": "Madrid",
+      "description": {
+        "en": "A beautifully restored iron-and-glass market near Plaza Mayor offering a wide variety of tapas from different vendors under one roof.",
+        "es": "Un mercado de hierro y cristal bellamente restaurado cerca de la Plaza Mayor que ofrece una gran variedad de tapas de diferentes vendedores bajo un mismo techo."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "In Granada and parts of Andalusia, you still get a free tapa with every drink. The tapa gets bigger with each round.",
+      "es": "En Granada y partes de Andalucía, todavía recibes una tapa gratis con cada bebida. La tapa se hace más grande con cada ronda."
+    },
+    {
+      "en": "Eat where the locals eat. If a bar is full of Spaniards at 9-10 PM, it's a good sign. Empty bars at peak hours are usually tourist traps.",
+      "es": "Come donde comen los locales. Si un bar está lleno de españoles a las 9-10 PM, es buena señal. Los bares vacíos en horas punta suelen ser trampas para turistas."
+    },
+    {
+      "en": "Don't fill up at the first bar. The tradition is to have one drink and one or two tapas per stop, then move on to the next bar.",
+      "es": "No te llenes en el primer bar. La tradición es tomar una bebida y una o dos tapas por parada, y luego pasar al siguiente bar."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Raciones", "es": "Raciones" },
+      "description": {
+        "en": "Larger portions meant for sharing among a group, typically 2-3 times the size of a tapa.",
+        "es": "Porciones más grandes pensadas para compartir entre un grupo, típicamente 2-3 veces el tamaño de una tapa."
+      }
+    },
+    {
+      "name": { "en": "Pintxos", "es": "Pintxos" },
+      "description": {
+        "en": "The Basque Country's version of tapas, usually served on bread and held together with a toothpick.",
+        "es": "La versión del País Vasco de las tapas, generalmente servidas sobre pan y sujetas con un palillo."
+      }
+    },
+    {
+      "name": { "en": "Montaditos", "es": "Montaditos" },
+      "description": {
+        "en": "Small open-faced sandwiches on sliced bread, popular across Spain as a quick tapa.",
+        "es": "Pequeños bocadillos abiertos sobre rebanadas de pan, populares en toda España como tapa rápida."
+      }
+    }
+  ]
+}

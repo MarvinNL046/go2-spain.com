@@ -1,105 +1,273 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://go2-thailand.com/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
+    <loc>https://go2-spain.com/</loc>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/transport/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
+    <loc>https://go2-spain.com/city/</loc>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/weather/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
+    <loc>https://go2-spain.com/food/</loc>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/thailand-in/january/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://go2-spain.com/drinks/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/region/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/islands/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/city/madrid/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/thailand-in/february/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://go2-spain.com/city/barcelona/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/thailand-in/march/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://go2-spain.com/city/seville/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/thailand-in/april/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://go2-spain.com/city/valencia/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/thailand-in/may/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://go2-spain.com/city/granada/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/thailand-in/june/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://go2-spain.com/city/bilbao/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/thailand-in/july/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://go2-spain.com/city/san-sebastian/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/thailand-in/august/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://go2-spain.com/city/malaga/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/thailand-in/september/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://go2-spain.com/city/toledo/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/thailand-in/october/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://go2-spain.com/city/salamanca/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/thailand-in/november/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-thailand.com/thailand-in/december/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://go2-thailand.com/esim/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
+    <loc>https://go2-spain.com/visa/</loc>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://go2-thailand.com/travel-insurance/</loc>
-    <lastmod>2026-02-19T20:16:17.356Z</lastmod>
+    <loc>https://go2-spain.com/transport/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/weather/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/esim/</loc>
+    <lastmod>2026-03-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/travel-insurance/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/practical-info/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/compare/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/top-10/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/top-10/attractions/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/top-10/hotels/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/top-10/restaurants/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/blog/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/blog/ultimate-spain-travel-guide-2026/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/blog/first-time-barcelona/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/blog/spanish-food-guide/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/blog/best-time-to-visit-spain/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/blog/train-travel-spain-renfe/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/blog/wine-regions-spain/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/blog/andalusia-road-trip/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/destinations/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/experiences/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/itineraries/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/about/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/contact/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/editorial-policy/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/how-we-research/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/affiliate-disclosure/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/privacy/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://go2-spain.com/terms/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
   </url>
 </urlset>

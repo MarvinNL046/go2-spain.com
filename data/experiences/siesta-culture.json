@@ -1,0 +1,19 @@
+{
+  "slug": "siesta-culture",
+  "name": {
+    "en": "Embrace the Siesta",
+    "es": "Abraza la Siesta"
+  },
+  "city": "nationwide",
+  "region": "nationwide",
+  "image": "/images/experiences/siesta-culture.jpg",
+  "description": {
+    "en": "Experience Spain's famous afternoon rest period like a local. While the traditional siesta is fading in modern cities, the culture of long lunches and quiet afternoons remains a cherished rhythm of life.",
+    "es": "Experimenta el famoso descanso de la tarde de España como un local. Aunque la siesta tradicional está desapareciendo en las ciudades modernas, la cultura de las largas comidas y las tardes tranquilas sigue siendo un querido ritmo de vida."
+  },
+  "category": "culture",
+  "duration": "2-3 hours",
+  "price": "Free",
+  "difficulty": "easy",
+  "rating": 4.2
+}

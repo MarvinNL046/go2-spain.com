@@ -1,0 +1,28 @@
+{
+  "slug": "alcazar-seville",
+  "name": {
+    "en": "Royal Alcázar of Seville",
+    "es": "Real Alcázar de Sevilla"
+  },
+  "city": "seville",
+  "region": "andalusia",
+  "image": "/images/destinations/alcazar-seville.jpg",
+  "description": {
+    "en": "A stunning royal palace complex blending Mudéjar, Gothic, Renaissance, and Baroque styles. Still used by the Spanish royal family, it features exquisite courtyards and lush gardens.",
+    "es": "Un impresionante complejo palaciego real que combina estilos mudéjar, gótico, renacentista y barroco. Aún usado por la familia real española, presenta exquisitos patios y exuberantes jardines."
+  },
+  "category": "monument",
+  "rating": 4.7,
+  "visitDuration": "2-3 hours",
+  "price": "€12.50",
+  "tips": [
+    {
+      "en": "Book online to avoid long queues, especially in spring",
+      "es": "Reserva online para evitar largas colas, especialmente en primavera"
+    },
+    {
+      "en": "The upper royal apartments require a separate ticket",
+      "es": "Los apartamentos reales superiores requieren entrada aparte"
+    }
+  ]
+}

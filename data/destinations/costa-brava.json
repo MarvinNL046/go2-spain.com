@@ -1,0 +1,28 @@
+{
+  "slug": "costa-brava",
+  "name": {
+    "en": "Costa Brava",
+    "es": "Costa Brava"
+  },
+  "city": "girona-province",
+  "region": "catalonia",
+  "image": "/images/destinations/costa-brava.jpg",
+  "description": {
+    "en": "Catalonia's 'Wild Coast' stretching from Blanes to the French border, with dramatic cliffs, hidden coves, medieval fishing villages like Cadaqués and Tossa de Mar, and the Dalí Theatre-Museum.",
+    "es": "La 'Costa Brava' de Cataluña extendiéndose desde Blanes hasta la frontera francesa, con espectaculares acantilados, calas escondidas, pueblos pesqueros medievales como Cadaqués y Tossa de Mar, y el Teatro-Museo Dalí."
+  },
+  "category": "coastline",
+  "rating": 4.6,
+  "visitDuration": "2-5 days",
+  "price": "Free",
+  "tips": [
+    {
+      "en": "Visit in June or September to avoid the summer crowds",
+      "es": "Visita en junio o septiembre para evitar las multitudes veraniegas"
+    },
+    {
+      "en": "The coastal path (Camí de Ronda) connects many coves and villages",
+      "es": "El sendero costero (Camí de Ronda) conecta muchas calas y pueblos"
+    }
+  ]
+}

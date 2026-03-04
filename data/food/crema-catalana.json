@@ -1,0 +1,76 @@
+{
+  "slug": "crema-catalana",
+  "name": { "en": "Crema Catalana", "es": "Crema Catalana" },
+  "description": {
+    "en": "Catalonia's custard dessert flavored with lemon zest and cinnamon, topped with a caramelized sugar crust. Predating French crème brûlée, it is traditionally served on March 19, Saint Joseph's Day.",
+    "es": "El postre de crema de Cataluña aromatizado con ralladura de limón y canela, cubierto con una costra de azúcar caramelizado. Anterior a la crème brûlée francesa, tradicionalmente se sirve el 19 de marzo, día de San José."
+  },
+  "enhanced_description": "Crema catalana is Catalonia's beloved custard dessert and one of the oldest documented desserts in Europe, with recipes appearing in Catalan cookbooks as early as the 14th century -- well before French creme brulee entered the scene. Distinguished from its French counterpart by its flavoring of lemon zest and cinnamon rather than vanilla, and by being thickened with cornstarch rather than baked, crema catalana has a lighter, silkier texture. The magical moment comes when the waiter caramelizes the sugar topping tableside with a hot iron, creating a glass-like crust that shatters satisfyingly under the tap of a spoon.",
+  "region": "catalonia",
+  "category": "dessert",
+  "image": "/images/food/crema-catalana.jpg",
+  "preparation_time": "30 min plus chilling",
+  "price_range": "€4-8",
+  "difficulty": "intermediate",
+  "ingredients": ["Egg yolks", "Milk", "Sugar", "Cornstarch", "Lemon zest", "Cinnamon stick", "Vanilla (optional)"],
+  "history": {
+    "en": "Crema catalana, also known as 'crema de Sant Josep,' is documented in Catalan cookbooks dating to the 14th century, making it one of Europe's oldest desserts. It was traditionally prepared for the feast of Saint Joseph (March 19), which is also Father's Day in Spain. The dish predates the French crème brûlée by several centuries -- a fact Catalans are very proud to point out. The traditional method of caramelizing the sugar involved heating a flat iron disc (called a 'ferro de cremar') and pressing it against the sugar surface, a technique still used in many traditional restaurants.",
+    "es": "La crema catalana, también conocida como 'crema de Sant Josep', está documentada en libros de cocina catalanes del siglo XIV, lo que la convierte en uno de los postres más antiguos de Europa. Tradicionalmente se preparaba para la festividad de San José (19 de marzo), que también es el Día del Padre en España. El plato es anterior a la crème brûlée francesa por varios siglos -- un hecho que los catalanes se enorgullecen de señalar. El método tradicional de caramelizar el azúcar consistía en calentar un disco de hierro plano (llamado 'ferro de cremar') y presionarlo contra la superficie de azúcar, una técnica que aún se usa en muchos restaurantes tradicionales."
+  },
+  "where_to_try": [
+    {
+      "name": "Can Culleretes",
+      "city": "Barcelona",
+      "description": {
+        "en": "Barcelona's oldest restaurant, operating since 1786, serves a wonderfully traditional crema catalana as part of its classic Catalan menu.",
+        "es": "El restaurante más antiguo de Barcelona, en funcionamiento desde 1786, sirve una maravillosamente tradicional crema catalana como parte de su menú catalán clásico."
+      }
+    },
+    {
+      "name": "Cal Pep",
+      "city": "Barcelona",
+      "description": {
+        "en": "A celebrated Born district restaurant where the crema catalana is made fresh daily and caramelized to order in front of you.",
+        "es": "Un célebre restaurante del Born donde la crema catalana se hace fresca cada día y se carameliza al momento delante de ti."
+      }
+    },
+    {
+      "name": "El Celler de Can Roca",
+      "city": "Girona",
+      "description": {
+        "en": "The three-Michelin-starred restaurant of the Roca brothers offers a deconstructed, avant-garde take on this Catalan classic.",
+        "es": "El restaurante de tres estrellas Michelin de los hermanos Roca ofrece una versión deconstruida y vanguardista de este clásico catalán."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Crema catalana should be served cold with a warm, just-caramelized sugar crust. The contrast between cold cream and warm, crackling sugar is essential.",
+      "es": "La crema catalana debe servirse fría con una costra de azúcar recién caramelizada y caliente. El contraste entre la crema fría y el azúcar caliente y crujiente es esencial."
+    },
+    {
+      "en": "Don't confuse it with crème brûlée. Catalans will correct you -- their version uses lemon and cinnamon, is stove-cooked (not baked), and came first.",
+      "es": "No la confundas con la crème brûlée. Los catalanes te corregirán -- su versión usa limón y canela, se cocina en fogón (no al horno) y fue primero."
+    },
+    {
+      "en": "Visit Catalonia around March 19 (Saint Joseph's Day) to enjoy crema catalana at its most traditional, when every bakery and restaurant features it prominently.",
+      "es": "Visita Cataluña alrededor del 19 de marzo (día de San José) para disfrutar la crema catalana en su momento más tradicional, cuando cada pastelería y restaurante la destaca prominentemente."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Crème Brûlée", "es": "Crème Brûlée" },
+      "description": {
+        "en": "The French cousin, made with vanilla and cream, baked in a water bath rather than stove-cooked. Richer and denser than crema catalana.",
+        "es": "La prima francesa, hecha con vainilla y nata, horneada al baño maría en vez de cocinada en fogón. Más rica y densa que la crema catalana."
+      }
+    },
+    {
+      "name": { "en": "Mel i Mató", "es": "Mel i Mató" },
+      "description": {
+        "en": "Another Catalan classic dessert: fresh mató cheese drizzled with honey and sometimes walnuts. A lighter alternative.",
+        "es": "Otro clásico postre catalán: queso mató fresco rociado con miel y a veces nueces. Una alternativa más ligera."
+      }
+    }
+  ]
+}

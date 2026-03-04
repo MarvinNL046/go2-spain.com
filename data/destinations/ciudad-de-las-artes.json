@@ -1,0 +1,28 @@
+{
+  "slug": "ciudad-de-las-artes",
+  "name": {
+    "en": "City of Arts and Sciences",
+    "es": "Ciudad de las Artes y las Ciencias"
+  },
+  "city": "valencia",
+  "region": "valencia",
+  "image": "/images/destinations/ciudad-de-las-artes.jpg",
+  "description": {
+    "en": "A futuristic complex of stunning white buildings designed by Santiago Calatrava, including an opera house, science museum, oceanarium, IMAX cinema, and landscaped gardens in the former Turia riverbed.",
+    "es": "Un complejo futurista de impresionantes edificios blancos diseñados por Santiago Calatrava, que incluye un palacio de ópera, museo de ciencias, oceanario, cine IMAX y jardines paisajísticos en el antiguo cauce del Turia."
+  },
+  "category": "cultural-complex",
+  "rating": 4.6,
+  "visitDuration": "Half-full day",
+  "price": "€8-38 (varies by attraction)",
+  "tips": [
+    {
+      "en": "The Oceanogràfic is Europe's largest aquarium and worth the visit",
+      "es": "El Oceanogràfic es el acuario más grande de Europa y merece la visita"
+    },
+    {
+      "en": "Combine attractions with a combo ticket for the best value",
+      "es": "Combina atracciones con una entrada combinada para mejor precio"
+    }
+  ]
+}

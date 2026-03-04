@@ -1,0 +1,76 @@
+{
+  "slug": "pulpo-a-la-gallega",
+  "name": { "en": "Galician-Style Octopus", "es": "Pulpo a la Gallega" },
+  "description": {
+    "en": "Tender boiled octopus sliced and served on a wooden plate, drizzled with olive oil and sprinkled with sweet paprika and coarse salt. A Galician delicacy traditionally served at local fairs.",
+    "es": "Tierno pulpo cocido cortado en rodajas y servido en un plato de madera, rociado con aceite de oliva y espolvoreado con pimentón dulce y sal gruesa. Una delicia gallega tradicionalmente servida en ferias locales."
+  },
+  "enhanced_description": "Pulpo a la gallega, also known as 'pulpo a feira' (fair-style octopus), is one of Galicia's most treasured culinary traditions and a dish of striking visual beauty. The octopus is slowly simmered in large copper pots until perfectly tender, then sliced with scissors and arranged on round wooden plates called 'táboas,' drizzled with golden-green olive oil and dusted with a generous layer of vibrant red pimentón. The dish's genius lies in its simplicity -- just four ingredients combine to create a symphony of tender texture, smoky-sweet spice, and rich olive oil that captures the essence of Galician cuisine.",
+  "region": "galicia",
+  "category": "main",
+  "image": "/images/food/pulpo-a-la-gallega.jpg",
+  "preparation_time": "45-60 min",
+  "price_range": "€12-20",
+  "difficulty": "intermediate",
+  "ingredients": ["Octopus", "Coarse sea salt", "Sweet Spanish paprika (pimentón dulce)", "Extra virgin olive oil"],
+  "history": {
+    "en": "Pulpo a feira has been a staple at Galician markets and festivals for centuries, where specialized cooks called 'pulpeiras' (almost always women) would prepare it in enormous copper cauldrons. The tradition is particularly strong in the inland town of O Carballiño (Ourense), which hosts an annual octopus festival (Festa do Polbo) drawing tens of thousands of visitors. Interestingly, most of Galicia's octopus was historically caught not in Galicia but off the coast of Morocco and Portugal, brought to Galicia by fishing fleets. The dish's fame has spread across all of Spain and is now found on menus nationwide.",
+    "es": "El pulpo a feira ha sido un básico en los mercados y ferias gallegas durante siglos, donde cocineras especializadas llamadas 'pulpeiras' (casi siempre mujeres) lo preparaban en enormes calderas de cobre. La tradición es particularmente fuerte en la localidad interior de O Carballiño (Ourense), que acoge una fiesta del pulpo anual (Festa do Polbo) que atrae a decenas de miles de visitantes. Curiosamente, la mayoría del pulpo de Galicia históricamente no se capturaba en Galicia sino frente a las costas de Marruecos y Portugal, traído a Galicia por las flotas pesqueras. La fama del plato se ha extendido por toda España y ahora se encuentra en menús a nivel nacional."
+  },
+  "where_to_try": [
+    {
+      "name": "Pulpería Ezequiel",
+      "city": "Melide (Camino de Santiago)",
+      "description": {
+        "en": "A famous pulpería on the Camino de Santiago route, serving pilgrims and locals alike with perfectly cooked octopus from enormous copper pots since 1950.",
+        "es": "Una famosa pulpería en la ruta del Camino de Santiago, sirviendo a peregrinos y locales por igual con pulpo perfectamente cocinado en enormes ollas de cobre desde 1950."
+      }
+    },
+    {
+      "name": "O Curro da Parra",
+      "city": "Santiago de Compostela",
+      "description": {
+        "en": "A modern Galician restaurant in the old town offering a refined take on pulpo a feira alongside an excellent selection of Galician Albariño wines.",
+        "es": "Un restaurante gallego moderno en el casco antiguo que ofrece una versión refinada del pulpo a feira junto con una excelente selección de vinos Albariño gallegos."
+      }
+    },
+    {
+      "name": "Casa Solla",
+      "city": "Poio (Pontevedra)",
+      "description": {
+        "en": "Michelin-starred chef Pepe Solla's restaurant, where traditional Galician octopus is elevated to fine-dining heights with creative presentations.",
+        "es": "El restaurante del chef estrella Michelin Pepe Solla, donde el pulpo gallego tradicional se eleva a las alturas de la alta cocina con presentaciones creativas."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "The octopus must be served on a wooden plate (táboa). If it comes on ceramic, you're not getting the authentic experience.",
+      "es": "El pulpo debe servirse en un plato de madera (táboa). Si viene en cerámica, no estás teniendo la experiencia auténtica."
+    },
+    {
+      "en": "Traditional pulpeiras 'scare' the octopus by dipping it three times in boiling water before submerging it. This curls the tentacles and helps tenderize the meat.",
+      "es": "Las pulpeiras tradicionales 'asustan' al pulpo sumergiéndolo tres veces en agua hirviendo antes de dejarlo cocinar. Esto riza los tentáculos y ayuda a ablandar la carne."
+    },
+    {
+      "en": "Pair it with Galician Albariño wine and some crusty bread to soak up the paprika-infused olive oil.",
+      "es": "Acompáñalo con vino Albariño gallego y pan crujiente para mojar en el aceite de oliva con pimentón."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Octopus on Potato Bed", "es": "Pulpo sobre Cachelos" },
+      "description": {
+        "en": "Served atop sliced boiled potatoes (cachelos), which absorb the paprika oil. A common variation throughout Galicia.",
+        "es": "Servido sobre patatas cocidas cortadas en rodajas (cachelos), que absorben el aceite con pimentón. Una variación común en toda Galicia."
+      }
+    },
+    {
+      "name": { "en": "Grilled Octopus", "es": "Pulpo a la Brasa" },
+      "description": {
+        "en": "Chargrilled after boiling for added smokiness and a slightly charred exterior. Increasingly popular in modern Spanish restaurants.",
+        "es": "Asado a la brasa después de hervido para un toque ahumado adicional y un exterior ligeramente carbonizado. Cada vez más popular en restaurantes españoles modernos."
+      }
+    }
+  ]
+}

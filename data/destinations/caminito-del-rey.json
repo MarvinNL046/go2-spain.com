@@ -1,0 +1,28 @@
+{
+  "slug": "caminito-del-rey",
+  "name": {
+    "en": "Caminito del Rey",
+    "es": "Caminito del Rey"
+  },
+  "city": "near-malaga",
+  "region": "andalusia",
+  "image": "/images/destinations/caminito-del-rey.jpg",
+  "description": {
+    "en": "A breathtaking walkway pinned to the sheer walls of the Gaitanes Gorge, suspended 100 meters above the river. Once the world's most dangerous path, it was fully renovated and reopened in 2015.",
+    "es": "Un sendero suspendido en las paredes verticales del Desfiladero de los Gaitanes, a 100 metros sobre el río. Antaño el sendero más peligroso del mundo, fue totalmente renovado y reabierto en 2015."
+  },
+  "category": "nature",
+  "rating": 4.8,
+  "visitDuration": "3-4 hours",
+  "price": "€10",
+  "tips": [
+    {
+      "en": "Book well in advance — tickets sell out weeks ahead, especially in spring and autumn",
+      "es": "Reserva con mucha antelación — las entradas se agotan semanas antes, especialmente en primavera y otoño"
+    },
+    {
+      "en": "The walk is one-way (7.7km), arrange transport back to the start",
+      "es": "El recorrido es solo de ida (7,7km), organiza el transporte de vuelta al inicio"
+    }
+  ]
+}

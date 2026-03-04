@@ -1,0 +1,62 @@
+{
+  "slug": "rioja-wine",
+  "name": { "en": "Rioja Wine", "es": "Vino de Rioja" },
+  "description": {
+    "en": "Spain's most prestigious wine region produces elegant reds primarily from Tempranillo grapes, aged in oak barrels. Classifications range from young Joven to the complex, oak-aged Gran Reserva (minimum 5 years aging).",
+    "es": "La región vinícola más prestigiosa de España produce elegantes tintos principalmente de uva Tempranillo, envejecidos en barricas de roble. Las clasificaciones van desde el joven Joven hasta el complejo Gran Reserva envejecido en roble (mínimo 5 años de crianza)."
+  },
+  "enhanced_description": "Rioja is Spain's most celebrated wine region and the benchmark by which all other Spanish reds are measured. Located along the Ebro River in northern Spain, sheltered by the Sierra de Cantabria mountains, the region produces wines of remarkable elegance and longevity from the Tempranillo grape. What sets Rioja apart is its classification system based on aging: Joven (young, fruity), Crianza (minimum 2 years with at least 1 in oak), Reserva (minimum 3 years with at least 1 in oak), and the majestic Gran Reserva (minimum 5 years with at least 2 in oak), which can rival the finest aged Bordeaux at a fraction of the price.",
+  "region": "la-rioja",
+  "category": "wine",
+  "alcoholic": true,
+  "image": "/images/drinks/rioja-wine.jpg",
+  "price_range": "€3-8 per glass, €8-50+ per bottle in restaurants",
+  "history": {
+    "en": "Wine has been produced in La Rioja since at least Phoenician and Roman times, but the modern Rioja wine industry was shaped by two pivotal events. In the 1850s, the Marqués de Riscal and Marqués de Murrieta introduced French Bordeaux-style winemaking techniques, including aging in oak barrels. Then in the 1860s and 1870s, when the phylloxera plague devastated French vineyards, Bordeaux winemakers migrated south to Rioja, bringing their expertise and further elevating the region's wines. Rioja became Spain's first Denominación de Origen in 1925, and in 1991 it was elevated to the highest classification, DOCa (Denominación de Origen Calificada), a status shared only with Priorat.",
+    "es": "El vino se ha producido en La Rioja desde al menos tiempos fenicios y romanos, pero la industria vinícola moderna de Rioja fue moldeada por dos eventos fundamentales. En la década de 1850, el Marqués de Riscal y el Marqués de Murrieta introdujeron técnicas de vinificación estilo Burdeos francés, incluyendo la crianza en barricas de roble. Luego, en las décadas de 1860 y 1870, cuando la plaga de filoxera devastó los viñedos franceses, los vinicultores bordeleses migraron al sur hacia Rioja, trayendo su experiencia y elevando aún más los vinos de la región. Rioja se convirtió en la primera Denominación de Origen de España en 1925, y en 1991 fue elevada a la clasificación más alta, DOCa (Denominación de Origen Calificada), un estatus compartido solo con Priorat."
+  },
+  "how_to_enjoy": {
+    "en": "Red Rioja is best served at 16-18°C in a large-bowled glass that allows the aromas to develop. Crianza and Reserva pair beautifully with roast lamb, grilled meats, and aged cheeses. Gran Reserva wines deserve special attention -- decant them for 30-60 minutes before drinking. Young Joven wines are refreshing slightly chilled and pair well with tapas. White Rioja, made from Viura grapes, is an underappreciated gem that ranges from crisp and fresh to rich and oak-aged.",
+    "es": "El Rioja tinto se sirve mejor a 16-18°C en una copa amplia que permita desarrollar los aromas. Crianza y Reserva maridan bellamente con cordero asado, carnes a la brasa y quesos curados. Los Gran Reserva merecen atención especial -- decántalos 30-60 minutos antes de beber. Los Joven son refrescantes ligeramente fríos y acompañan bien las tapas. El Rioja blanco, de uva Viura, es una joya infravalorada que va desde fresco y crujiente hasta rico y criado en barrica."
+  },
+  "where_to_try": [
+    {
+      "name": "Bodegas Marqués de Riscal",
+      "city": "Elciego (Álava)",
+      "description": {
+        "en": "One of Rioja's oldest and most prestigious wineries, now home to a stunning Frank Gehry-designed hotel. Their cellar tour ends with tastings of their finest Reserva and Gran Reserva wines.",
+        "es": "Una de las bodegas más antiguas y prestigiosas de Rioja, que ahora alberga un impresionante hotel diseñado por Frank Gehry. Su visita a la bodega termina con degustaciones de sus mejores vinos Reserva y Gran Reserva."
+      }
+    },
+    {
+      "name": "Bodegas López de Heredia",
+      "city": "Haro",
+      "description": {
+        "en": "A traditional winery in Haro's famous Barrio de la Estación, producing classic, age-worthy Rioja since 1877. Their Viña Tondonia is considered one of Spain's greatest wines.",
+        "es": "Una bodega tradicional en el famoso Barrio de la Estación de Haro, produciendo Rioja clásico y longevo desde 1877. Su Viña Tondonia es considerado uno de los mejores vinos de España."
+      }
+    },
+    {
+      "name": "Calle Laurel",
+      "city": "Logroño",
+      "description": {
+        "en": "Logroño's famous tapas street where dozens of bars pour excellent local Rioja wines by the glass alongside pintxos and tapas.",
+        "es": "La famosa calle de tapas de Logroño donde docenas de bares sirven excelentes vinos locales de Rioja por copas junto a pintxos y tapas."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Understanding Rioja's aging classifications helps you choose: Joven (young, fruity), Crianza (2+ years, balanced), Reserva (3+ years, complex), Gran Reserva (5+ years, exceptional).",
+      "es": "Entender las clasificaciones de crianza de Rioja te ayuda a elegir: Joven (joven, afrutado), Crianza (2+ años, equilibrado), Reserva (3+ años, complejo), Gran Reserva (5+ años, excepcional)."
+    },
+    {
+      "en": "Visit Haro in late June for the Batalla del Vino, where thousands of people drench each other in red wine on a hillside. It's one of Spain's most unique festivals.",
+      "es": "Visita Haro a finales de junio para la Batalla del Vino, donde miles de personas se empapan mutuamente en vino tinto en una ladera. Es uno de los festivales más únicos de España."
+    },
+    {
+      "en": "Rioja Gran Reserva offers incredible value compared to similarly aged wines from Bordeaux or Burgundy. A world-class 10-year-old Rioja can cost a fraction of its French equivalent.",
+      "es": "El Rioja Gran Reserva ofrece un valor increíble comparado con vinos de crianza similar de Burdeos o Borgoña. Un Rioja de clase mundial de 10 años puede costar una fracción de su equivalente francés."
+    }
+  ]
+}

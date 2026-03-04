@@ -1,0 +1,55 @@
+{
+  "slug": "castile",
+  "name": { "en": "Castile", "es": "Castilla" },
+  "description": {
+    "en": "Castile is the vast, windswept heartland of Spain — the meseta (central plateau) that shaped the kingdom which eventually unified the Iberian Peninsula. This immense region encompasses both Castilla y León (the north) and Castilla-La Mancha (the south), containing some of Spain's most impressive medieval cities. Toledo, the ancient capital; Segovia with its fairy-tale Alcázar and Roman aqueduct; Salamanca glowing golden in the sunset; and the Don Quixote landscapes of La Mancha all lie within Castile. It is a land of extremes — blazing summers, freezing winters — that forged a resilient culture celebrated in literature, architecture, and hearty cuisine.",
+    "es": "Castilla es el vasto y ventoso corazón de España — la meseta central que dio forma al reino que finalmente unificó la Península Ibérica. Esta inmensa región abarca tanto Castilla y León (el norte) como Castilla-La Mancha (el sur), conteniendo algunas de las ciudades medievales más impresionantes de España. Toledo, la antigua capital; Segovia con su Alcázar de cuento de hadas y acueducto romano; Salamanca brillando dorada al atardecer; y los paisajes quijotescos de La Mancha se encuentran en Castilla. Es una tierra de extremos — veranos abrasadores, inviernos heladores — que forjó una cultura resiliente celebrada en la literatura, la arquitectura y la contundente cocina."
+  },
+  "geography": {
+    "en": "Castile dominates Spain's central plateau (meseta), a vast tableland averaging 600-700m elevation. The Guadarrama and Gredos mountain ranges divide the northern and southern mesetas. Major rivers include the Tagus (Tajo), Duero, and Guadiana. The landscape is dominated by open plains, wheat fields, olive groves, and vineyards.",
+    "es": "Castilla domina la meseta central de España, una vasta planicie con una altitud media de 600-700m. Las sierras de Guadarrama y Gredos dividen las mesetas norte y sur. Los principales ríos incluyen el Tajo, el Duero y el Guadiana. El paisaje está dominado por llanuras abiertas, campos de trigo, olivares y viñedos."
+  },
+  "culture": {
+    "en": "Castile is the cultural cradle of the Spanish language (Castilian/castellano) and of the nation itself. Cervantes set Don Quixote in La Mancha's windmill-dotted plains. The medieval walled cities of Ávila and Segovia are UNESCO treasures. The region's paradores (luxury hotels in historic buildings) offer a unique way to experience its castles and monasteries.",
+    "es": "Castilla es la cuna cultural de la lengua española (castellano) y de la nación misma. Cervantes ambientó Don Quijote en las llanuras con molinos de La Mancha. Las ciudades medievales amuralladas de Ávila y Segovia son tesoros de la UNESCO. Los paradores de la región ofrecen una forma única de experimentar sus castillos y monasterios."
+  },
+  "cuisine": {
+    "en": "Castilian cuisine is hearty and meat-driven: roast suckling pig (cochinillo) and lamb (lechazo) from wood-fired ovens are legendary. Sopa castellana (garlic soup), cocido madrileño (chickpea stew), and Manchego cheese are staples. The region is also Spain's largest wine-producing area, with denominations like Ribera del Duero, Rueda, and La Mancha.",
+    "es": "La cocina castellana es contundente y centrada en la carne: el cochinillo asado y el lechazo de horno de leña son legendarios. La sopa castellana, el cocido madrileño y el queso manchego son básicos. La región es también la mayor zona productora de vino de España, con denominaciones como Ribera del Duero, Rueda y La Mancha."
+  },
+  "climate": {
+    "en": "Continental climate with extreme temperatures. Summers are very hot and dry (35-40°C), winters are cold (frequently below 0°C with frost). The popular saying 'nueve meses de invierno y tres de infierno' (nine months of winter and three of hell) captures the extremes. Rainfall is low, mostly in spring and autumn.",
+    "es": "Clima continental con temperaturas extremas. Los veranos son muy calurosos y secos (35-40°C), los inviernos son fríos (frecuentemente bajo 0°C con heladas). El dicho popular 'nueve meses de invierno y tres de infierno' captura los extremos. Las precipitaciones son escasas, principalmente en primavera y otoño."
+  },
+  "highlights": [
+    {
+      "title": { "en": "Toledo", "es": "Toledo" },
+      "description": { "en": "The 'City of Three Cultures' where Christian, Muslim, and Jewish heritage blend in a dramatic hilltop setting above the Tagus River.", "es": "La 'Ciudad de las Tres Culturas' donde la herencia cristiana, musulmana y judía se fusionan en un espectacular emplazamiento sobre el río Tajo." }
+    },
+    {
+      "title": { "en": "Segovia's Aqueduct", "es": "Acueducto de Segovia" },
+      "description": { "en": "A 2,000-year-old Roman engineering marvel with 167 arches, standing 28 meters tall in the heart of the city — built without mortar.", "es": "Una maravilla de la ingeniería romana de 2.000 años con 167 arcos, de 28 metros de altura en el corazón de la ciudad — construido sin argamasa." }
+    },
+    {
+      "title": { "en": "Don Quixote's La Mancha", "es": "La Mancha de Don Quijote" },
+      "description": { "en": "Windmills on the horizon at Consuegra and Campo de Criptana bring Cervantes' literary masterpiece to life across the vast Castilian plain.", "es": "Molinos de viento en el horizonte de Consuegra y Campo de Criptana dan vida a la obra maestra literaria de Cervantes en la vasta llanura castellana." }
+    }
+  ],
+  "travelTips": [
+    {
+      "title": { "en": "Use Madrid as a Base", "es": "Usa Madrid como Base" },
+      "description": { "en": "Toledo, Segovia, and Ávila are all easy day trips from Madrid by high-speed train (30-60 minutes). Save on accommodation by staying in the capital.", "es": "Toledo, Segovia y Ávila son excursiones fáciles de un día desde Madrid en tren de alta velocidad (30-60 minutos). Ahorra en alojamiento quedándote en la capital." }
+    },
+    {
+      "title": { "en": "Try Roast Meats", "es": "Prueba los Asados" },
+      "description": { "en": "Don't miss cochinillo (suckling pig) in Segovia or lechazo (roast lamb) in Aranda de Duero. These wood-oven specialties are Castile's culinary crown jewels.", "es": "No te pierdas el cochinillo en Segovia ni el lechazo en Aranda de Duero. Estas especialidades de horno de leña son las joyas culinarias de Castilla." }
+    },
+    {
+      "title": { "en": "Stay in a Parador", "es": "Alójate en un Parador" },
+      "description": { "en": "Castile has many paradores — state-run luxury hotels in converted castles, monasteries, and palaces. They offer an unforgettable way to experience the region's history.", "es": "Castilla tiene muchos paradores — hoteles de lujo estatales en castillos, monasterios y palacios reconvertidos. Ofrecen una forma inolvidable de experimentar la historia de la región." }
+    }
+  ],
+  "popularCities": ["toledo", "salamanca"],
+  "image": "/images/regions/castile.jpg",
+  "gallery": ["/images/regions/castile-1.jpg", "/images/regions/castile-2.jpg", "/images/regions/castile-3.jpg"]
+}

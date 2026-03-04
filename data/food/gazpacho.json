@@ -1,0 +1,83 @@
+{
+  "slug": "gazpacho",
+  "name": { "en": "Gazpacho", "es": "Gazpacho" },
+  "description": {
+    "en": "A chilled tomato soup blended with peppers, cucumber, garlic, bread, olive oil, and sherry vinegar. This refreshing Andalusian classic is the perfect antidote to Spain's summer heat.",
+    "es": "Una sopa fría de tomate mezclada con pimientos, pepino, ajo, pan, aceite de oliva y vinagre de Jerez. Este refrescante clásico andaluz es el antídoto perfecto para el calor veraniego de España."
+  },
+  "enhanced_description": "Gazpacho is the quintessential cold soup of southern Spain, a brilliant creation born from the scorching summers of Andalusia where temperatures regularly exceed 40 degrees Celsius. This silky, vibrant red soup transforms humble pantry staples into something extraordinary through the simple technique of blending and chilling. Traditionally served in a glass rather than a bowl, gazpacho is consumed throughout the day in summer -- as a starter, a refreshment, or even poured from a pitcher at outdoor gatherings.",
+  "region": "andalusia",
+  "category": "appetizer",
+  "image": "/images/food/gazpacho.jpg",
+  "preparation_time": "15-20 min plus chilling",
+  "price_range": "€4-8",
+  "difficulty": "easy",
+  "ingredients": ["Ripe tomatoes", "Green pepper", "Cucumber", "Garlic", "Day-old bread", "Extra virgin olive oil", "Sherry vinegar", "Salt", "Water"],
+  "history": {
+    "en": "Gazpacho has ancient roots in Roman and Moorish Iberia, where field workers prepared cold soups from bread, olive oil, vinegar, garlic, and water. The tomato-based version we know today only became possible after tomatoes arrived from the Americas in the 16th century and were eventually accepted into Spanish cuisine. By the 19th century, the red tomato gazpacho had become the standard in Andalusia, and it gained international fame in the 20th century as Spanish cuisine became globally celebrated.",
+    "es": "El gazpacho tiene raíces antiguas en la Iberia romana y morisca, donde los trabajadores del campo preparaban sopas frías con pan, aceite de oliva, vinagre, ajo y agua. La versión a base de tomate que conocemos hoy solo fue posible después de que los tomates llegaran de las Américas en el siglo XVI y fueran finalmente aceptados en la cocina española. Para el siglo XIX, el gazpacho rojo de tomate se había convertido en el estándar en Andalucía, y ganó fama internacional en el siglo XX cuando la cocina española fue celebrada globalmente."
+  },
+  "where_to_try": [
+    {
+      "name": "El Faro de Cádiz",
+      "city": "Cádiz",
+      "description": {
+        "en": "A respected Andalusian restaurant serving a beautifully refined gazpacho alongside exceptional fresh seafood from the Atlantic.",
+        "es": "Un respetado restaurante andaluz que sirve un gazpacho bellamente refinado junto con excepcional marisco fresco del Atlántico."
+      }
+    },
+    {
+      "name": "Casa Robles",
+      "city": "Seville",
+      "description": {
+        "en": "A classic Sevillian restaurant near the cathedral known for its traditional Andalusian cooking, including a rich, well-balanced gazpacho.",
+        "es": "Un restaurante sevillano clásico cerca de la catedral conocido por su cocina andaluza tradicional, incluyendo un gazpacho rico y bien equilibrado."
+      }
+    },
+    {
+      "name": "Taberna El Rincón",
+      "city": "Córdoba",
+      "description": {
+        "en": "A charming tavern in the old quarter serving gazpacho with traditional garnishes of diced pepper, cucumber, and croutons.",
+        "es": "Una encantadora taberna en el casco antiguo que sirve gazpacho con guarniciones tradicionales de pimiento picado, pepino y picatostes."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Gazpacho is a summer dish. Don't order it in winter -- most restaurants won't have it, and if they do, the tomatoes won't be at their best.",
+      "es": "El gazpacho es un plato de verano. No lo pidas en invierno -- la mayoría de los restaurantes no lo tendrán, y si lo tienen, los tomates no estarán en su mejor momento."
+    },
+    {
+      "en": "In Andalusia, gazpacho is often served in a glass as a drink rather than in a bowl as a soup.",
+      "es": "En Andalucía, el gazpacho se sirve a menudo en un vaso como bebida en lugar de en un cuenco como sopa."
+    },
+    {
+      "en": "The quality of the olive oil and tomatoes makes all the difference. The best gazpacho uses perfectly ripe summer tomatoes and high-quality extra virgin olive oil.",
+      "es": "La calidad del aceite de oliva y los tomates marca toda la diferencia. El mejor gazpacho usa tomates de verano perfectamente maduros y aceite de oliva virgen extra de alta calidad."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Salmorejo", "es": "Salmorejo" },
+      "description": {
+        "en": "A thicker, creamier cold soup from Córdoba made with more bread and no cucumber or pepper. Topped with diced jamón and hard-boiled egg.",
+        "es": "Una sopa fría más espesa y cremosa de Córdoba hecha con más pan y sin pepino ni pimiento. Cubierta con jamón picado y huevo duro."
+      }
+    },
+    {
+      "name": { "en": "Ajoblanco", "es": "Ajoblanco" },
+      "description": {
+        "en": "A white gazpacho from Málaga made with almonds, garlic, bread, and olive oil. Predates the tomato version and is served with grapes or melon.",
+        "es": "Un gazpacho blanco de Málaga hecho con almendras, ajo, pan y aceite de oliva. Anterior a la versión con tomate y se sirve con uvas o melón."
+      }
+    },
+    {
+      "name": { "en": "Porra Antequerana", "es": "Porra Antequerana" },
+      "description": {
+        "en": "A thick cold soup from Antequera (Málaga), similar to salmorejo but with green pepper. Served with tuna and egg.",
+        "es": "Una sopa fría espesa de Antequera (Málaga), similar al salmorejo pero con pimiento verde. Se sirve con atún y huevo."
+      }
+    }
+  ]
+}

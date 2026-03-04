@@ -1,0 +1,116 @@
+{
+  "slug": "bilbao",
+  "name": { "en": "Bilbao", "es": "Bilbao" },
+  "region": "basque-country",
+  "province": "Biscay",
+  "population": 347000,
+  "elevation": 19,
+  "image": "/images/cities/bilbao.jpg",
+  "gallery": ["/images/cities/bilbao-1.jpg", "/images/cities/bilbao-2.jpg", "/images/cities/bilbao-3.jpg"],
+  "description": {
+    "en": "Bilbao is a remarkable success story of urban reinvention. Once a gritty industrial port, the arrival of Frank Gehry's titanium-clad Guggenheim Museum in 1997 sparked a stunning transformation. Today, the largest city in the Basque Country seamlessly blends cutting-edge architecture with a charming medieval old town (Casco Viejo), world-class gastronomy, and a proud Basque cultural identity. The city straddles the Nervión River, which is crossed by Santiago Calatrava's Zubizuri bridge and other architectural landmarks.",
+    "es": "Bilbao es una notable historia de éxito de reinvención urbana. Antiguamente un duro puerto industrial, la llegada del Museo Guggenheim revestido de titanio de Frank Gehry en 1997 provocó una impresionante transformación. Hoy, la ciudad más grande del País Vasco combina perfectamente arquitectura de vanguardia con un encantador casco viejo medieval, gastronomía de primer nivel y una orgullosa identidad cultural vasca. La ciudad se extiende a orillas del río Nervión, cruzado por el puente Zubizuri de Santiago Calatrava y otros hitos arquitectónicos."
+  },
+  "highlights": [
+    { "en": "Guggenheim Museum Bilbao", "es": "Museo Guggenheim Bilbao" },
+    { "en": "Casco Viejo (Old Town)", "es": "Casco Viejo" },
+    { "en": "Pintxos Bar Crawl", "es": "Ruta de Pintxos" },
+    { "en": "San Mamés Stadium", "es": "Estadio San Mamés" },
+    { "en": "Artxanda Funicular", "es": "Funicular de Artxanda" }
+  ],
+  "bestTimeToVisit": {
+    "en": "Summer (June-September) offers the best weather with warm temperatures around 20-25°C. Bilbao's Aste Nagusia (Great Week) festival in August is a highlight. Spring and autumn are pleasant but rainy. The Basque Country receives significant rainfall year-round.",
+    "es": "El verano (junio-septiembre) ofrece el mejor clima con temperaturas cálidas de 20-25°C. La Aste Nagusia (Semana Grande) de Bilbao en agosto es un punto álgido. La primavera y el otoño son agradables pero lluviosos. El País Vasco recibe lluvias significativas durante todo el año."
+  },
+  "gettingAround": {
+    "en": "Bilbao has an efficient metro system designed by Norman Foster, with two lines covering the metropolitan area. The tram (EuskoTran) runs along the riverfront. The compact city center is very walkable, and the metro connects easily to beach towns like Getxo and Plentzia.",
+    "es": "Bilbao cuenta con un eficiente sistema de metro diseñado por Norman Foster, con dos líneas que cubren el área metropolitana. El tranvía (EuskoTran) recorre la ribera del río. El compacto centro de la ciudad se recorre fácilmente a pie, y el metro conecta fácilmente con pueblos costeros como Getxo y Plentzia."
+  },
+  "neighborhoods": [
+    {
+      "name": { "en": "Casco Viejo (Old Town)", "es": "Casco Viejo" },
+      "description": {
+        "en": "The original Seven Streets (Siete Calles) of medieval Bilbao, now packed with pintxos bars, traditional shops, and the Art Nouveau Ribera Market. The Santiago Cathedral anchors this atmospheric quarter.",
+        "es": "Las originales Siete Calles del Bilbao medieval, ahora repletas de bares de pintxos, tiendas tradicionales y el Mercado de la Ribera de estilo Art Nouveau. La Catedral de Santiago ancla este barrio con mucha atmósfera."
+      },
+      "vibe": { "en": "Medieval charm with the best pintxos bars", "es": "Encanto medieval con los mejores bares de pintxos" }
+    },
+    {
+      "name": { "en": "Abando / Ensanche", "es": "Abando / Ensanche" },
+      "description": {
+        "en": "The elegant 19th-century expansion with wide boulevards, the Fine Arts Museum, and upscale shopping along Gran Vía. The Guggenheim Museum sits at its western edge along the river.",
+        "es": "La elegante expansión del siglo XIX con amplios bulevares, el Museo de Bellas Artes y compras de lujo en la Gran Vía. El Museo Guggenheim se sitúa en su extremo occidental junto al río."
+      },
+      "vibe": { "en": "Elegant boulevards and cultural institutions", "es": "Elegantes bulevares e instituciones culturales" }
+    },
+    {
+      "name": { "en": "Bilbao La Vieja", "es": "Bilbao La Vieja" },
+      "description": {
+        "en": "Once a rough industrial area across the river, now rapidly gentrifying into Bilbao's creative hub with street art, design studios, multicultural restaurants, and alternative galleries.",
+        "es": "Antiguamente una zona industrial dura al otro lado del río, ahora se está gentrificando rápidamente como el centro creativo de Bilbao con arte callejero, estudios de diseño, restaurantes multiculturales y galerías alternativas."
+      },
+      "vibe": { "en": "Creative, multicultural, and up-and-coming", "es": "Creativo, multicultural y en auge" }
+    }
+  ],
+  "localFood": [
+    {
+      "name": { "en": "Pintxos", "es": "Pintxos" },
+      "description": {
+        "en": "The Basque version of tapas, often elaborate small bites served on bread and held together with a toothpick. Bilbao's Casco Viejo bars display stunning spreads of these miniature culinary masterpieces.",
+        "es": "La versión vasca de las tapas, a menudo elaborados bocados pequeños servidos sobre pan y sujetos con un palillo. Los bares del Casco Viejo de Bilbao exhiben impresionantes muestras de estas miniaturas culinarias."
+      }
+    },
+    {
+      "name": { "en": "Bacalao a la Vizcaína", "es": "Bacalao a la Vizcaína" },
+      "description": {
+        "en": "Salt cod cooked in a rich sauce of dried red peppers, a signature dish of Biscayan cuisine. One of the Basque Country's most traditional and beloved recipes.",
+        "es": "Bacalao cocido en una rica salsa de pimientos choriceros, un plato emblemático de la cocina vizcaína. Una de las recetas más tradicionales y queridas del País Vasco."
+      }
+    },
+    {
+      "name": { "en": "Marmitako", "es": "Marmitako" },
+      "description": {
+        "en": "A hearty tuna and potato stew originally made by Basque fishermen at sea. A warming, rustic dish that showcases the Basque connection to the sea.",
+        "es": "Un contundente guiso de atún y patatas hecho originalmente por los pescadores vascos en el mar. Un plato reconfortante y rústico que muestra la conexión vasca con el mar."
+      }
+    },
+    {
+      "name": { "en": "Txuleta (Basque Steak)", "es": "Txuleta (Chuletón Vasco)" },
+      "description": {
+        "en": "An enormous bone-in ribeye steak, typically from retired dairy cows aged for weeks, grilled over charcoal and served rare. A carnivore's pilgrimage dish.",
+        "es": "Un enorme chuletón con hueso, típicamente de vacas lecheras retiradas maduradas durante semanas, asado a la brasa y servido poco hecho. Un plato de peregrinación para carnívoros."
+      }
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": { "en": "San Juan de Gaztelugatxe", "es": "San Juan de Gaztelugatxe" },
+      "description": {
+        "en": "A tiny islet connected to the mainland by a dramatic stone bridge with 241 steps leading to a 10th-century hermitage. Famously used as Dragonstone in Game of Thrones.",
+        "es": "Un diminuto islote conectado a tierra firme por un espectacular puente de piedra con 241 escalones que llevan a una ermita del siglo X. Famoso por ser usado como Rocadragón en Juego de Tronos."
+      },
+      "distance": "35km"
+    },
+    {
+      "name": { "en": "Gernika (Guernica)", "es": "Gernika (Guernica)" },
+      "description": {
+        "en": "The town tragically bombed in 1937 and immortalized by Picasso's painting. Visit the Peace Museum, the ancient Assembly House, and the symbolic Oak Tree of Basque freedoms.",
+        "es": "El pueblo trágicamente bombardeado en 1937 e inmortalizado por el cuadro de Picasso. Visita el Museo de la Paz, la antigua Casa de Juntas y el simbólico Árbol de las libertades vascas."
+      },
+      "distance": "35km"
+    },
+    {
+      "name": { "en": "San Sebastián", "es": "San Sebastián" },
+      "description": {
+        "en": "Just over an hour east, San Sebastián offers stunning beaches, world-class pintxos, and a beautiful Belle Époque waterfront. One of Spain's top foodie destinations.",
+        "es": "A poco más de una hora al este, San Sebastián ofrece impresionantes playas, pintxos de primer nivel y un hermoso paseo marítimo de estilo Belle Époque. Uno de los principales destinos gastronómicos de España."
+      },
+      "distance": "100km"
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€40-60/day", "es": "40-60€/día" },
+    "midRange": { "en": "€100-170/day", "es": "100-170€/día" },
+    "luxury": { "en": "€280+/day", "es": "280+€/día" }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "lanzarote",
+  "name": { "en": "Lanzarote", "es": "Lanzarote" },
+  "archipelago": "Canary Islands",
+  "population": 155000,
+  "area": 846,
+  "climate": {
+    "en": "Arid subtropical climate. Warm and dry year-round (18-28°C) with very little rainfall. Constant trade winds keep temperatures comfortable. One of the driest places in Spain.",
+    "es": "Clima subtropical árido. Cálido y seco todo el año (18-28°C) con muy poca lluvia. Los constantes vientos alisios mantienen las temperaturas agradables. Uno de los lugares más secos de España."
+  },
+  "description": {
+    "en": "Lanzarote is unlike anywhere else on Earth. Designated a UNESCO Biosphere Reserve in its entirety, the island's otherworldly volcanic landscape was shaped by catastrophic eruptions between 1730 and 1736 that buried a third of the island under lava. The visionary artist César Manrique, who returned to his native island in the 1960s, created a series of extraordinary attractions that harmoniously integrate architecture with the volcanic terrain. His influence also led to strict building codes — no high-rises, no billboards — preserving Lanzarote's unique character. The surreal La Geria wine region, where vines grow in volcanic hollows, is unforgettable.",
+    "es": "Lanzarote es diferente a cualquier otro lugar del mundo. Designada Reserva de la Biosfera por la UNESCO en su totalidad, el paisaje volcánico de otro mundo de la isla fue moldeado por erupciones catastróficas entre 1730 y 1736 que enterraron un tercio de la isla bajo lava. El visionario artista César Manrique, que regresó a su isla natal en los años 60, creó una serie de extraordinarias atracciones que integran armoniosamente la arquitectura con el terreno volcánico. Su influencia también condujo a estrictos códigos de edificación — sin rascacielos, sin vallas publicitarias — preservando el carácter único de Lanzarote. La surrealista región vinícola de La Geria, donde las vides crecen en hoyos volcánicos, es inolvidable."
+  },
+  "highlights": [
+    { "en": "Timanfaya National Park (Fire Mountains)", "es": "Parque Nacional de Timanfaya (Montañas del Fuego)" },
+    { "en": "César Manrique Foundation", "es": "Fundación César Manrique" },
+    { "en": "Jameos del Agua", "es": "Jameos del Agua" },
+    { "en": "La Geria volcanic wine region", "es": "Región vinícola volcánica de La Geria" },
+    { "en": "Cueva de los Verdes", "es": "Cueva de los Verdes" }
+  ],
+  "bestTimeToVisit": {
+    "en": "Year-round destination with consistently warm temperatures. Spring (March-May) is pleasant with occasional wildflowers. Winter is warm enough for beaches. The trade winds can be strong, especially in summer, which is ideal for windsurfing.",
+    "es": "Destino para todo el año con temperaturas consistentemente cálidas. La primavera (marzo-mayo) es agradable con flores silvestres ocasionales. El invierno es lo bastante cálido para la playa. Los vientos alisios pueden ser fuertes, especialmente en verano, ideal para windsurf."
+  },
+  "gettingThere": {
+    "en": "César Manrique-Lanzarote Airport (ACE) receives direct flights from many European cities. Inter-island ferries connect to Fuerteventura (30 minutes from Playa Blanca to Corralejo) and Gran Canaria. Short flights link to other Canary Islands.",
+    "es": "El Aeropuerto César Manrique-Lanzarote (ACE) recibe vuelos directos desde muchas ciudades europeas. Ferris interinsulares conectan con Fuerteventura (30 minutos desde Playa Blanca a Corralejo) y Gran Canaria. Vuelos cortos enlazan con otras islas canarias."
+  },
+  "beaches": [
+    {
+      "name": { "en": "Papagayo Beach", "es": "Playa de Papagayo" },
+      "description": { "en": "A series of stunning golden sand coves at the southern tip of the island, set within a natural park. Crystal-clear waters and dramatic cliff surroundings make it Lanzarote's most beautiful beach.", "es": "Una serie de impresionantes calas de arena dorada en el extremo sur de la isla, dentro de un parque natural. Aguas cristalinas y espectaculares acantilados la convierten en la playa más bella de Lanzarote." }
+    },
+    {
+      "name": { "en": "Famara Beach", "es": "Playa de Famara" },
+      "description": { "en": "A dramatic 6km stretch of golden sand beneath towering 600-meter cliffs. Popular with surfers, it offers some of the best wave conditions in the Canary Islands.", "es": "Una espectacular franja de 6km de arena dorada bajo imponentes acantilados de 600 metros. Popular entre surfistas, ofrece algunas de las mejores condiciones de olas de las Islas Canarias." }
+    },
+    {
+      "name": { "en": "El Golfo (Green Lagoon)", "es": "El Golfo (Laguna Verde)" },
+      "description": { "en": "Not a traditional beach but an extraordinary green lagoon formed in a half-submerged volcanic crater. The vivid green color comes from a rare algae growing in the mineral-rich water.", "es": "No es una playa tradicional sino una extraordinaria laguna verde formada en un cráter volcánico semisumergido. El vívido color verde proviene de una rara alga que crece en el agua rica en minerales." }
+    }
+  ],
+  "activities": [
+    {
+      "name": { "en": "Timanfaya Camel Ride", "es": "Paseo en Camello en Timanfaya" },
+      "description": { "en": "Ride a camel across the volcanic terrain of Timanfaya National Park, where the earth is still hot just centimeters below the surface. Rangers demonstrate geothermal activity by igniting brush.", "es": "Monta en camello por el terreno volcánico del Parque Nacional de Timanfaya, donde la tierra sigue caliente a solo centímetros bajo la superficie. Los guardas demuestran la actividad geotermal encendiendo arbustos." }
+    },
+    {
+      "name": { "en": "Wine Tasting in La Geria", "es": "Cata de Vinos en La Geria" },
+      "description": { "en": "Taste volcanic Malvasía wines at bodegas in the surreal La Geria landscape, where vines are planted in individual volcanic hollows protected by semicircular stone walls.", "es": "Degusta vinos volcánicos de Malvasía en bodegas del surrealista paisaje de La Geria, donde las vides se plantan en hoyos volcánicos individuales protegidos por muros semicirculares de piedra." }
+    },
+    {
+      "name": { "en": "Surfing at Famara", "es": "Surf en Famara" },
+      "description": { "en": "Famara is Lanzarote's surf capital, with consistent waves suitable for all levels. Several surf schools offer lessons against the backdrop of the dramatic Famara cliffs.", "es": "Famara es la capital del surf de Lanzarote, con olas consistentes aptas para todos los niveles. Varias escuelas de surf ofrecen clases con el telón de fondo de los espectaculares acantilados de Famara." }
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€40-55/day", "es": "40-55€/día" },
+    "midRange": { "en": "€80-140/day", "es": "80-140€/día" },
+    "luxury": { "en": "€220+/day", "es": "220+€/día" }
+  }
+}

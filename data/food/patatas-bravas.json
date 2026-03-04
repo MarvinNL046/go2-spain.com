@@ -1,0 +1,83 @@
+{
+  "slug": "patatas-bravas",
+  "name": { "en": "Patatas Bravas", "es": "Patatas Bravas" },
+  "description": {
+    "en": "Crispy fried potato cubes topped with a spicy bravas sauce (tomato-based with paprika and chili) and sometimes alioli. Spain's most universal tapa, found in virtually every bar.",
+    "es": "Cubos de patata frita crujiente cubiertos con una salsa brava picante (a base de tomate con pimentón y guindilla) y a veces alioli. La tapa más universal de España, presente en prácticamente todos los bares."
+  },
+  "enhanced_description": "Patatas bravas are the single most ordered tapa in Spain, a dish so universally loved that it serves as a reliable benchmark for judging any tapas bar's quality. The concept is brilliantly simple -- crispy fried potatoes topped with a spicy sauce -- yet the execution varies enormously from bar to bar, with each establishment guarding its bravas sauce recipe as a closely held secret. The best versions feature potatoes that are fluffy inside and shatteringly crispy outside, crowned with a sauce that balances heat, smokiness, and tang in perfect harmony.",
+  "region": "national",
+  "category": "appetizer",
+  "image": "/images/food/patatas-bravas.jpg",
+  "preparation_time": "25-35 min",
+  "price_range": "€3-7",
+  "difficulty": "easy",
+  "ingredients": ["Potatoes", "Olive oil", "Tomato", "Smoked paprika", "Cayenne pepper or chili", "Garlic", "Flour", "Vinegar", "Salt"],
+  "history": {
+    "en": "Patatas bravas emerged in Madrid's tapas bars in the mid-20th century, likely in the 1950s or 1960s. The name 'bravas' means 'fierce' or 'brave,' referring to the spicy sauce -- a relatively bold flavor in traditional Spanish cuisine, which generally avoids heavy spiciness. The dish quickly spread from Madrid to become Spain's most popular tapa. Each region developed its own style: Madrid favors a tomato-based sauce, Barcelona often adds aioli, and some bars serve both sauces side by side.",
+    "es": "Las patatas bravas surgieron en los bares de tapas de Madrid a mediados del siglo XX, probablemente en los años 50 o 60. El nombre 'bravas' significa 'fieras' o 'valientes', refiriéndose a la salsa picante -- un sabor relativamente atrevido en la cocina española tradicional, que generalmente evita el picante intenso. El plato se extendió rápidamente desde Madrid hasta convertirse en la tapa más popular de España. Cada región desarrolló su propio estilo: Madrid favorece una salsa a base de tomate, Barcelona a menudo añade alioli, y algunos bares sirven ambas salsas juntas."
+  },
+  "where_to_try": [
+    {
+      "name": "Las Bravas",
+      "city": "Madrid",
+      "description": {
+        "en": "The bar that claims to have invented patatas bravas, with a patented sauce recipe. Multiple locations in central Madrid, all serving their signature orange-red sauce.",
+        "es": "El bar que afirma haber inventado las patatas bravas, con una receta de salsa patentada. Múltiples localizaciones en el centro de Madrid, todas sirviendo su característica salsa rojo-anaranjada."
+      }
+    },
+    {
+      "name": "Bar Tomás",
+      "city": "Barcelona",
+      "description": {
+        "en": "A legendary neighborhood bar in Sarrià famous for what many consider Barcelona's best bravas, served with both spicy sauce and aioli.",
+        "es": "Un legendario bar de barrio en Sarrià famoso por lo que muchos consideran las mejores bravas de Barcelona, servidas con salsa picante y alioli."
+      }
+    },
+    {
+      "name": "Docamar",
+      "city": "Madrid",
+      "description": {
+        "en": "A locals' favorite in the Prosperidad neighborhood known for perfectly crispy double-fried potatoes with a rich, smoky bravas sauce.",
+        "es": "Un favorito de los locales en el barrio de Prosperidad conocido por sus patatas perfectamente crujientes fritas dos veces con una rica salsa brava ahumada."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Patatas bravas are the ultimate test of a tapas bar. If the bravas are good, the rest of the menu likely is too.",
+      "es": "Las patatas bravas son la prueba definitiva de un bar de tapas. Si las bravas son buenas, el resto del menú probablemente también lo será."
+    },
+    {
+      "en": "The sauce should be homemade, not ketchup with hot sauce. Real bravas sauce has depth from smoked paprika and a subtle vinegar tang.",
+      "es": "La salsa debe ser casera, no ketchup con salsa picante. La verdadera salsa brava tiene profundidad del pimentón ahumado y un sutil toque de vinagre."
+    },
+    {
+      "en": "In Barcelona, bravas are typically served with aioli alongside the spicy sauce. Ask for both if it's not automatic.",
+      "es": "En Barcelona, las bravas se sirven típicamente con alioli junto a la salsa picante. Pide ambas si no es automático."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Bravas with Aioli", "es": "Bravas con Alioli" },
+      "description": {
+        "en": "Topped with both spicy bravas sauce and garlic aioli. The standard serving style in Barcelona and Catalonia.",
+        "es": "Cubiertas con salsa brava picante y alioli de ajo. El estilo de servicio estándar en Barcelona y Cataluña."
+      }
+    },
+    {
+      "name": { "en": "Patatas a lo Pobre", "es": "Patatas a lo Pobre" },
+      "description": {
+        "en": "Sliced potatoes slowly fried with peppers and onions in olive oil. A humbler, sauce-free cousin from Andalusia.",
+        "es": "Patatas cortadas en rodajas fritas lentamente con pimientos y cebollas en aceite de oliva. Una prima más humilde y sin salsa de Andalucía."
+      }
+    },
+    {
+      "name": { "en": "Patatas Revolconas", "es": "Patatas Revolconas" },
+      "description": {
+        "en": "Mashed potatoes with paprika from Extremadura and Ávila, typically topped with crispy pork belly bits.",
+        "es": "Puré de patatas con pimentón de Extremadura y Ávila, típicamente cubierto con trozos crujientes de panceta."
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "cochinillo",
+  "name": { "en": "Roast Suckling Pig", "es": "Cochinillo Asado" },
+  "description": {
+    "en": "A whole young pig slow-roasted in a wood-fired oven until the skin is impossibly crispy and the meat melts off the bone. Segovia's legendary restaurants traditionally carve it with the edge of a plate.",
+    "es": "Un lechón entero asado lentamente en horno de leña hasta que la piel queda increíblemente crujiente y la carne se deshace del hueso. Los legendarios restaurantes de Segovia tradicionalmente lo trincha con el borde de un plato."
+  },
+  "enhanced_description": "Cochinillo asado is one of Spain's most spectacular and theatrical dishes, a centuries-old specialty of Segovia and the Castilian meseta that transforms a whole suckling pig into a masterpiece of contrast -- paper-thin skin that shatters like glass over meat so tender it practically dissolves on the tongue. The piglets are no more than 21 days old and fed only on their mother's milk, which gives the meat its extraordinary delicacy and sweetness. In Segovia's most famous restaurants, the ritual of carving the cochinillo with the edge of a plate -- demonstrating the meat's incredible tenderness -- followed by the ceremonial smashing of the plate on the floor, has become an iconic piece of Spanish culinary theater.",
+  "region": "segovia",
+  "category": "main",
+  "image": "/images/food/cochinillo.jpg",
+  "preparation_time": "2-3 hours",
+  "price_range": "€20-35 per person",
+  "difficulty": "expert",
+  "ingredients": ["Whole suckling pig (2-3 weeks old, milk-fed)", "Water", "Salt", "Lard or butter (for basting)"],
+  "history": {
+    "en": "Cochinillo asado has been a specialty of Segovia and central Castile since at least the Middle Ages, when the region's wood-fired clay ovens proved ideal for slow-roasting young pigs. The tradition became formalized in the late 19th and early 20th centuries when Segovia's great restaurants -- most notably Mesón de Cándido, founded in 1786 -- established the theatrical plate-carving ceremony. Cándido López, the restaurant's legendary owner from 1931 to 1992, was named 'Royal Roaster of Castile' by King Juan Carlos I and became internationally famous for his cochinillo ritual. The dish is deeply tied to Segovia's identity and to the broader culinary traditions of Castile, where roast meats cooked in bread ovens are a cornerstone of the cuisine.",
+    "es": "El cochinillo asado ha sido una especialidad de Segovia y la Castilla central desde al menos la Edad Media, cuando los hornos de barro de leña de la región demostraron ser ideales para asar lentamente lechones. La tradición se formalizó a finales del siglo XIX y principios del XX cuando los grandes restaurantes de Segovia -- más notablemente el Mesón de Cándido, fundado en 1786 -- establecieron la teatral ceremonia de trinchar con el plato. Cándido López, el legendario propietario del restaurante de 1931 a 1992, fue nombrado 'Asador Real de Castilla' por el Rey Juan Carlos I y se hizo internacionalmente famoso por su ritual del cochinillo. El plato está profundamente ligado a la identidad de Segovia y a las tradiciones culinarias más amplias de Castilla, donde las carnes asadas cocinadas en hornos de pan son una piedra angular de la cocina."
+  },
+  "where_to_try": [
+    {
+      "name": "Mesón de Cándido",
+      "city": "Segovia",
+      "description": {
+        "en": "Segovia's most iconic restaurant, operating since 1786 at the foot of the Roman aqueduct. Famous for its plate-carving ceremony and generations of roasting expertise.",
+        "es": "El restaurante más icónico de Segovia, en funcionamiento desde 1786 al pie del acueducto romano. Famoso por su ceremonia de trinchado con plato y generaciones de experiencia asadora."
+      }
+    },
+    {
+      "name": "José María",
+      "city": "Segovia",
+      "description": {
+        "en": "A local institution that many Segovianos consider to serve even better cochinillo than Cándido, with perfectly crispy skin and supremely tender meat.",
+        "es": "Una institución local que muchos segovianos consideran que sirve un cochinillo incluso mejor que Cándido, con piel perfectamente crujiente y carne supremamente tierna."
+      }
+    },
+    {
+      "name": "Restaurante Botín",
+      "city": "Madrid",
+      "description": {
+        "en": "The oldest restaurant in the world (Guinness certified, since 1725), where cochinillo is roasted in the original 300-year-old wood-burning oven. Hemingway's favorite Madrid restaurant.",
+        "es": "El restaurante más antiguo del mundo (certificado por Guinness, desde 1725), donde el cochinillo se asa en el horno de leña original de 300 años. El restaurante madrileño favorito de Hemingway."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Cochinillo is best ordered for a minimum of 2 people, as restaurants typically serve quarter or half portions. Consider going with a group and ordering a whole pig.",
+      "es": "El cochinillo se pide mejor para un mínimo de 2 personas, ya que los restaurantes típicamente sirven cuartos o medias raciones. Considera ir en grupo y pedir un cochinillo entero."
+    },
+    {
+      "en": "Make a day trip from Madrid to Segovia specifically for cochinillo. The city is only 30 minutes by AVE high-speed train.",
+      "es": "Haz una excursión de un día desde Madrid a Segovia específicamente para el cochinillo. La ciudad está a solo 30 minutos en AVE."
+    },
+    {
+      "en": "Reserve in advance, especially at the famous restaurants on weekends. Cochinillo is Segovia's main culinary attraction and tables fill up fast.",
+      "es": "Reserva con antelación, especialmente en los restaurantes famosos los fines de semana. El cochinillo es la principal atracción culinaria de Segovia y las mesas se llenan rápido."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Cordero Asado", "es": "Cordero Asado" },
+      "description": {
+        "en": "Roast suckling lamb, the other great Castilian oven-roasted specialty. Especially prized in Aranda de Duero, Sepúlveda, and Peñafiel.",
+        "es": "Cordero lechal asado, la otra gran especialidad castellana al horno. Especialmente apreciado en Aranda de Duero, Sepúlveda y Peñafiel."
+      }
+    },
+    {
+      "name": { "en": "Torreznos", "es": "Torreznos" },
+      "description": {
+        "en": "Thick-cut pork belly strips fried until crispy, from Soria. A popular tapa that celebrates Castile's love of pork.",
+        "es": "Tiras de panceta gruesas fritas hasta quedar crujientes, de Soria. Una tapa popular que celebra el amor de Castilla por el cerdo."
+      }
+    }
+  ]
+}

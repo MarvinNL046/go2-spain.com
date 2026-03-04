@@ -1,0 +1,83 @@
+{
+  "slug": "churros",
+  "name": { "en": "Churros", "es": "Churros" },
+  "description": {
+    "en": "Fried dough pastries dusted with sugar, traditionally dipped in thick hot chocolate. A beloved breakfast or late-night snack, with the iconic Chocolatería San Ginés in Madrid serving them since 1894.",
+    "es": "Masa frita espolvoreada con azúcar, tradicionalmente mojada en chocolate espeso caliente. Un querido desayuno o tentempié nocturno, con la icónica Chocolatería San Ginés de Madrid sirviéndolos desde 1894."
+  },
+  "enhanced_description": "Churros are one of Spain's most beloved comfort foods, a simple fried dough pastry that has been a staple of Spanish mornings and late nights for centuries. The dough -- made from just flour, water, and salt -- is piped through a star-shaped nozzle and fried until golden and crispy on the outside while remaining soft and airy inside. The ritual of dunking churros into a cup of thick, almost pudding-like Spanish hot chocolate is an experience that transcends mere eating and enters the realm of cultural tradition.",
+  "region": "national",
+  "category": "dessert",
+  "image": "/images/food/churros.jpg",
+  "preparation_time": "20-30 min",
+  "price_range": "€3-6",
+  "difficulty": "easy",
+  "ingredients": ["Flour", "Water", "Salt", "Olive oil or sunflower oil for frying", "Sugar", "Dark chocolate", "Milk", "Cornstarch"],
+  "history": {
+    "en": "The exact origin of churros is debated. One theory credits Spanish shepherds who fried simple dough over open fires in the mountains, naming them after the Churra breed of sheep whose horns resembled the pastry's shape. Another theory suggests Portuguese sailors brought a similar fried dough from China. Regardless of origin, churros became deeply embedded in Spanish culture, particularly as a breakfast food and a late-night snack after evenings out. Chocolatería San Ginés in Madrid has been serving churros con chocolate continuously since 1894.",
+    "es": "El origen exacto de los churros es debatido. Una teoría atribuye a los pastores españoles que freían masa sencilla sobre fuegos abiertos en las montañas, nombrándolos por la raza de oveja Churra cuyos cuernos se asemejaban a la forma del dulce. Otra teoría sugiere que los marineros portugueses trajeron una masa frita similar de China. Independientemente del origen, los churros se integraron profundamente en la cultura española, particularmente como desayuno y tentempié nocturno después de las salidas. La Chocolatería San Ginés de Madrid ha servido churros con chocolate ininterrumpidamente desde 1894."
+  },
+  "where_to_try": [
+    {
+      "name": "Chocolatería San Ginés",
+      "city": "Madrid",
+      "description": {
+        "en": "Madrid's most iconic churros spot, open since 1894 and serving churros around the clock. A must-visit institution near the Puerta del Sol.",
+        "es": "El lugar de churros más icónico de Madrid, abierto desde 1894 y sirviendo churros las 24 horas. Una institución imprescindible cerca de la Puerta del Sol."
+      }
+    },
+    {
+      "name": "Churrería Laietana",
+      "city": "Barcelona",
+      "description": {
+        "en": "A beloved churros stall in Barcelona's La Ribera neighborhood, known for freshly fried churros dusted with sugar and served in paper cones.",
+        "es": "Un querido puesto de churros en el barrio de La Ribera de Barcelona, conocido por sus churros recién fritos espolvoreados con azúcar y servidos en cucuruchos de papel."
+      }
+    },
+    {
+      "name": "Casa Aranda",
+      "city": "Málaga",
+      "description": {
+        "en": "A traditional churrería near Málaga's central market that has been frying perfect churros for over a century, best enjoyed with their thick hot chocolate.",
+        "es": "Una churrería tradicional cerca del mercado central de Málaga que lleva más de un siglo friendo churros perfectos, mejor disfrutados con su espeso chocolate caliente."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Churros are best eaten immediately while hot and crispy. If they've been sitting for a while, move on to another churrería.",
+      "es": "Los churros se comen mejor inmediatamente mientras están calientes y crujientes. Si llevan un rato hechos, busca otra churrería."
+    },
+    {
+      "en": "Spanish hot chocolate is much thicker than what you may be used to -- almost like chocolate pudding. It's meant for dipping, not sipping.",
+      "es": "El chocolate caliente español es mucho más espeso de lo que puedes estar acostumbrado -- casi como un pudin de chocolate. Está hecho para mojar, no para beber a sorbos."
+    },
+    {
+      "en": "In Madrid, churros are long and thin. In southern Spain, you'll find porras -- thicker, doughier versions that are equally delicious.",
+      "es": "En Madrid, los churros son largos y finos. En el sur de España, encontrarás porras -- versiones más gruesas y esponjosas que son igualmente deliciosas."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Porras", "es": "Porras" },
+      "description": {
+        "en": "Thicker and spongier fried dough, popular in Madrid and southern Spain. Often cut into shorter segments.",
+        "es": "Masa frita más gruesa y esponjosa, popular en Madrid y el sur de España. A menudo cortada en segmentos más cortos."
+      }
+    },
+    {
+      "name": { "en": "Churros Filled with Chocolate", "es": "Churros Rellenos de Chocolate" },
+      "description": {
+        "en": "Modern versions filled with chocolate, dulce de leche, or cream. More common in Latin America but increasingly found in Spain.",
+        "es": "Versiones modernas rellenas de chocolate, dulce de leche o crema. Más comunes en Latinoamérica pero cada vez más frecuentes en España."
+      }
+    },
+    {
+      "name": { "en": "Buñuelos", "es": "Buñuelos" },
+      "description": {
+        "en": "Round, puffy fried dough balls, a close cousin of churros. Particularly popular in Valencia during Las Fallas festival.",
+        "es": "Bolas de masa frita redondas e hinchadas, primas cercanas de los churros. Particularmente populares en Valencia durante las Fallas."
+      }
+    }
+  ]
+}

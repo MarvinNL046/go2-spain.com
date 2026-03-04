@@ -1,0 +1,63 @@
+{
+  "slug": "gran-canaria",
+  "name": { "en": "Gran Canaria", "es": "Gran Canaria" },
+  "archipelago": "Canary Islands",
+  "population": 851000,
+  "area": 1560,
+  "climate": {
+    "en": "Subtropical climate with 14 distinct microclimates. The south is hot and arid (22-30°C year-round), while the mountainous interior and north are cooler and greener. Year-round beach weather in southern resorts.",
+    "es": "Clima subtropical con 14 microclimas distintos. El sur es caluroso y árido (22-30°C todo el año), mientras que el montañoso interior y el norte son más frescos y verdes. Tiempo de playa todo el año en los complejos del sur."
+  },
+  "description": {
+    "en": "Gran Canaria is aptly nicknamed a 'miniature continent' for the extraordinary diversity packed into its circular form. The iconic Maspalomas sand dunes resemble a small Sahara, while the mountainous interior reaches 1,949 meters at Pico de las Nieves. The capital, Las Palmas de Gran Canaria, is a vibrant city with the historic Vegueta quarter, the stunning Las Canteras urban beach, and a thriving cultural scene. Between the coastal resorts and cloud-piercing peaks lie deep ravines, pine forests, and charming villages virtually untouched by tourism.",
+    "es": "Gran Canaria recibe acertadamente el apodo de 'continente en miniatura' por la extraordinaria diversidad concentrada en su forma circular. Las icónicas dunas de Maspalomas semejan un pequeño Sáhara, mientras que el montañoso interior alcanza los 1.949 metros en el Pico de las Nieves. La capital, Las Palmas de Gran Canaria, es una ciudad vibrante con el histórico barrio de Vegueta, la impresionante playa urbana de Las Canteras y una próspera escena cultural. Entre los complejos costeros y los picos que perforan las nubes se extienden profundos barrancos, bosques de pinos y encantadores pueblos prácticamente intactos por el turismo."
+  },
+  "highlights": [
+    { "en": "Maspalomas Sand Dunes", "es": "Dunas de Maspalomas" },
+    { "en": "Roque Nublo", "es": "Roque Nublo" },
+    { "en": "Las Canteras Beach in Las Palmas", "es": "Playa de Las Canteras en Las Palmas" },
+    { "en": "Vegueta historic quarter", "es": "Barrio histórico de Vegueta" },
+    { "en": "Tejeda mountain village", "es": "Pueblo de montaña de Tejeda" }
+  ],
+  "bestTimeToVisit": {
+    "en": "Year-round destination. Winter (November-March) is peak season for northern Europeans seeking warmth. Spring and autumn offer ideal hiking conditions in the interior. Summer is hottest but the trade winds provide relief. The south is consistently sunny.",
+    "es": "Destino para todo el año. El invierno (noviembre-marzo) es temporada alta para los europeos del norte que buscan calor. La primavera y el otoño ofrecen condiciones ideales de senderismo en el interior. El verano es el más caluroso pero los vientos alisios proporcionan alivio. El sur es consistentemente soleado."
+  },
+  "gettingThere": {
+    "en": "Gran Canaria Airport (LPA) receives direct flights from most European cities year-round. Inter-island ferries and flights connect to Tenerife (1 hour by ferry), Fuerteventura, and Lanzarote. Fred. Olsen and Naviera Armas operate the ferry routes.",
+    "es": "El Aeropuerto de Gran Canaria (LPA) recibe vuelos directos desde la mayoría de ciudades europeas todo el año. Ferris y vuelos interinsulares conectan con Tenerife (1 hora en ferry), Fuerteventura y Lanzarote. Fred. Olsen y Naviera Armas operan las rutas de ferry."
+  },
+  "beaches": [
+    {
+      "name": { "en": "Maspalomas Beach & Dunes", "es": "Playa y Dunas de Maspalomas" },
+      "description": { "en": "A vast expanse of golden sand dunes that flow into a wide beach. A protected natural reserve with a unique ecosystem where desert meets ocean.", "es": "Una vasta extensión de dunas de arena dorada que desembocan en una amplia playa. Una reserva natural protegida con un ecosistema único donde el desierto se encuentra con el océano." }
+    },
+    {
+      "name": { "en": "Las Canteras", "es": "Las Canteras" },
+      "description": { "en": "One of the world's best urban beaches, a 3km golden crescent in the heart of Las Palmas. A natural reef (La Barra) creates calm swimming conditions and excellent snorkeling.", "es": "Una de las mejores playas urbanas del mundo, una media luna dorada de 3km en el corazón de Las Palmas. Un arrecife natural (La Barra) crea condiciones tranquilas de baño y excelente snorkel." }
+    },
+    {
+      "name": { "en": "Güi Güi", "es": "Güi Güi" },
+      "description": { "en": "A remote, wild beach accessible only by boat or a challenging 3-hour hike through ravines. One of the most pristine and unspoiled beaches in the Canary Islands.", "es": "Una playa remota y salvaje accesible solo por barco o una desafiante caminata de 3 horas por barrancos. Una de las playas más prístinas y vírgenes de las Islas Canarias." }
+    }
+  ],
+  "activities": [
+    {
+      "name": { "en": "Hike to Roque Nublo", "es": "Senderismo al Roque Nublo" },
+      "description": { "en": "A moderate hike to Gran Canaria's iconic 80-meter volcanic rock pinnacle at 1,813 meters elevation, with views across to Mount Teide on Tenerife on clear days.", "es": "Una caminata moderada hasta el icónico pináculo volcánico de 80 metros del Roque Nublo a 1.813 metros de altitud, con vistas al Monte Teide de Tenerife en días despejados." }
+    },
+    {
+      "name": { "en": "Explore Vegueta", "es": "Explora Vegueta" },
+      "description": { "en": "Wander the cobblestone streets of Las Palmas' founding quarter, with the Casa de Colón (Columbus's house), the cathedral, and the Canarian Museum of indigenous Guanche artifacts.", "es": "Pasea por las calles empedradas del barrio fundacional de Las Palmas, con la Casa de Colón, la catedral y el Museo Canario de artefactos guanches indígenas." }
+    },
+    {
+      "name": { "en": "Cave Houses of Artenara", "es": "Casas Cueva de Artenara" },
+      "description": { "en": "Visit Gran Canaria's highest village where many residents still live in cave houses carved into the volcanic rock, some converted into atmospheric restaurants and hotels.", "es": "Visita el pueblo más alto de Gran Canaria donde muchos residentes aún viven en casas cueva excavadas en la roca volcánica, algunas convertidas en restaurantes y hoteles con mucha atmósfera." }
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€40-55/day", "es": "40-55€/día" },
+    "midRange": { "en": "€85-150/day", "es": "85-150€/día" },
+    "luxury": { "en": "€250+/day", "es": "250+€/día" }
+  }
+}

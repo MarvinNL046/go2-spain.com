@@ -1,0 +1,116 @@
+{
+  "slug": "toledo",
+  "name": { "en": "Toledo", "es": "Toledo" },
+  "region": "castile",
+  "province": "Toledo",
+  "population": 85000,
+  "elevation": 529,
+  "image": "/images/cities/toledo.jpg",
+  "gallery": ["/images/cities/toledo-1.jpg", "/images/cities/toledo-2.jpg", "/images/cities/toledo-3.jpg"],
+  "description": {
+    "en": "Toledo, the former capital of Spain, rises dramatically above the Tagus River like a natural fortress. Known as the 'City of Three Cultures,' it preserves a remarkable legacy of coexistence between Christians, Muslims, and Jews. The entire old city is a UNESCO World Heritage Site, an open-air museum where every turn reveals a Gothic cathedral, a Moorish mosque, a synagogue, or a painting by El Greco, who made Toledo his adopted home. The city's famous steel craft — Toledo swords and damascene work — continues a tradition dating back centuries.",
+    "es": "Toledo, la antigua capital de España, se alza dramáticamente sobre el río Tajo como una fortaleza natural. Conocida como la 'Ciudad de las Tres Culturas', conserva un notable legado de convivencia entre cristianos, musulmanes y judíos. Todo el casco antiguo es Patrimonio de la Humanidad, un museo al aire libre donde cada giro revela una catedral gótica, una mezquita morisca, una sinagoga o una pintura de El Greco, quien hizo de Toledo su hogar adoptivo. La famosa artesanía del acero — espadas y damasquinado toledanos — continúa una tradición de siglos."
+  },
+  "highlights": [
+    { "en": "Toledo Cathedral", "es": "Catedral Primada de Toledo" },
+    { "en": "Alcázar of Toledo", "es": "Alcázar de Toledo" },
+    { "en": "Monastery of San Juan de los Reyes", "es": "Monasterio de San Juan de los Reyes" },
+    { "en": "El Greco Museum & Church of Santo Tomé", "es": "Museo del Greco e Iglesia de Santo Tomé" },
+    { "en": "Synagogue of Santa María la Blanca", "es": "Sinagoga de Santa María la Blanca" }
+  ],
+  "bestTimeToVisit": {
+    "en": "Spring (April-June) and autumn (September-October) are best, with comfortable temperatures for walking the hilly streets. Toledo can be brutally hot in summer (often above 38°C) and cold in winter. Weekdays are much less crowded than weekends and holidays.",
+    "es": "La primavera (abril-junio) y el otoño (septiembre-octubre) son los mejores, con temperaturas cómodas para caminar por las calles empinadas. Toledo puede ser brutalmente caluroso en verano (a menudo por encima de 38°C) y frío en invierno. Los días laborables son mucho menos concurridos que los fines de semana y festivos."
+  },
+  "gettingAround": {
+    "en": "Toledo's old town is entirely walkable but very hilly — wear comfortable shoes. A series of escalators help with the steepest ascents from the valley. The tourist train (Zocotren) offers a panoramic tour. From Madrid, the AVE high-speed train takes just 33 minutes.",
+    "es": "El casco antiguo de Toledo se recorre enteramente a pie pero es muy empinado — usa calzado cómodo. Una serie de escaleras mecánicas ayudan con las subidas más pronunciadas desde el valle. El tren turístico (Zocotren) ofrece un recorrido panorámico. Desde Madrid, el tren de alta velocidad AVE tarda solo 33 minutos."
+  },
+  "neighborhoods": [
+    {
+      "name": { "en": "Jewish Quarter", "es": "Judería" },
+      "description": {
+        "en": "The historic Jewish neighborhood in the western part of the old town, home to two ancient synagogues (Santa María la Blanca and El Tránsito) and the Sephardic Museum.",
+        "es": "El histórico barrio judío en la parte occidental del casco antiguo, hogar de dos antiguas sinagogas (Santa María la Blanca y El Tránsito) y el Museo Sefardí."
+      },
+      "vibe": { "en": "Historic and quietly atmospheric", "es": "Histórico y con una atmósfera tranquila" }
+    },
+    {
+      "name": { "en": "Cathedral Quarter", "es": "Zona de la Catedral" },
+      "description": {
+        "en": "The monumental heart of Toledo centered on the massive Gothic cathedral. Narrow streets bustle with souvenir shops, marzipan stores, and restaurants.",
+        "es": "El corazón monumental de Toledo centrado en la inmensa catedral gótica. Calles estrechas bullen con tiendas de recuerdos, confiterías de mazapán y restaurantes."
+      },
+      "vibe": { "en": "Tourist hub with major monuments", "es": "Centro turístico con grandes monumentos" }
+    },
+    {
+      "name": { "en": "Arrabal / Train Station Area", "es": "Arrabal / Zona de la Estación" },
+      "description": {
+        "en": "The area below the old town near the beautiful Mudéjar-style train station. More modern, with hotels and restaurants at lower prices than inside the walls.",
+        "es": "La zona por debajo del casco antiguo cerca de la hermosa estación de tren de estilo mudéjar. Más moderna, con hoteles y restaurantes a precios más bajos que dentro de las murallas."
+      },
+      "vibe": { "en": "Practical base with good-value accommodation", "es": "Base práctica con alojamiento de buena relación calidad-precio" }
+    }
+  ],
+  "localFood": [
+    {
+      "name": { "en": "Carcamusas", "es": "Carcamusas" },
+      "description": {
+        "en": "A rich pork and pea stew with tomato sauce that's uniquely Toledan. A hearty tapa found in virtually every traditional bar in the city.",
+        "es": "Un rico guiso de cerdo y guisantes con salsa de tomate que es típicamente toledano. Una contundente tapa que se encuentra en prácticamente todos los bares tradicionales de la ciudad."
+      }
+    },
+    {
+      "name": { "en": "Perdiz a la Toledana", "es": "Perdiz a la Toledana" },
+      "description": {
+        "en": "Partridge stewed with onions, garlic, bay leaves, and white wine. A classic Castilian game dish that reflects Toledo's hunting traditions.",
+        "es": "Perdiz estofada con cebollas, ajo, hojas de laurel y vino blanco. Un clásico plato de caza castellano que refleja las tradiciones cinegéticas de Toledo."
+      }
+    },
+    {
+      "name": { "en": "Mazapán de Toledo", "es": "Mazapán de Toledo" },
+      "description": {
+        "en": "Toledo has been making marzipan since the Middle Ages, and local convents still produce the finest versions. These almond-and-sugar confections come in various shapes and are especially popular at Christmas.",
+        "es": "Toledo lleva elaborando mazapán desde la Edad Media, y los conventos locales todavía producen las mejores versiones. Estos dulces de almendra y azúcar vienen en diversas formas y son especialmente populares en Navidad."
+      }
+    },
+    {
+      "name": { "en": "Venison Stew", "es": "Estofado de Venado" },
+      "description": {
+        "en": "Game meats are central to Toledan cuisine, and slow-cooked venison in red wine with herbs is a cold-weather favorite in the city's traditional restaurants.",
+        "es": "Las carnes de caza son centrales en la cocina toledana, y el venado cocinado a fuego lento en vino tinto con hierbas es un favorito de clima frío en los restaurantes tradicionales de la ciudad."
+      }
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": { "en": "Consuegra Windmills", "es": "Molinos de Consuegra" },
+      "description": {
+        "en": "A ridge of 12 restored windmills overlooking the La Mancha plain, evoking the world of Don Quixote. A medieval castle crowns the hilltop beside them.",
+        "es": "Una hilera de 12 molinos restaurados con vistas a la llanura de La Mancha, evocando el mundo de Don Quijote. Un castillo medieval corona la cima junto a ellos."
+      },
+      "distance": "65km"
+    },
+    {
+      "name": { "en": "Aranjuez", "es": "Aranjuez" },
+      "description": {
+        "en": "The royal summer residence with magnificent gardens along the Tagus River. Its palace and cultural landscape are a UNESCO World Heritage Site.",
+        "es": "La residencia real de verano con magníficos jardines junto al río Tajo. Su palacio y paisaje cultural son Patrimonio de la Humanidad."
+      },
+      "distance": "45km"
+    },
+    {
+      "name": { "en": "Madrid", "es": "Madrid" },
+      "description": {
+        "en": "Spain's capital is just 33 minutes away by AVE high-speed train, making it easy to combine a Toledo visit with the Prado Museum or Royal Palace.",
+        "es": "La capital de España está a solo 33 minutos en tren de alta velocidad AVE, lo que facilita combinar una visita a Toledo con el Museo del Prado o el Palacio Real."
+      },
+      "distance": "70km"
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€30-45/day", "es": "30-45€/día" },
+    "midRange": { "en": "€70-130/day", "es": "70-130€/día" },
+    "luxury": { "en": "€200+/day", "es": "200+€/día" }
+  }
+}

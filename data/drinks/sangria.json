@@ -1,0 +1,54 @@
+{
+  "slug": "sangria",
+  "name": { "en": "Sangria", "es": "Sangría" },
+  "description": {
+    "en": "Spain's most famous punch, made with red wine, chopped fruit, sweetener, and a splash of brandy. While tourists love it, locals typically drink it only at summer gatherings and fiestas rather than in bars.",
+    "es": "El ponche más famoso de España, hecho con vino tinto, fruta troceada, endulzante y un chorrito de brandy. Aunque los turistas la adoran, los locales típicamente la beben solo en reuniones veraniegas y fiestas, no en bares."
+  },
+  "enhanced_description": "Sangria is Spain's most internationally recognized drink, a refreshing wine punch that conjures images of sun-drenched terraces and lazy Mediterranean afternoons. Made by macerating chopped seasonal fruits in red wine with a sweetener and a measure of brandy or triple sec, sangria is served ice-cold in large pitchers meant for sharing. However, the drink occupies a curious cultural position in Spain -- while it is beloved at summer barbecues, fiestas, and beach gatherings, most Spaniards would never order it at a regular bar or restaurant, viewing it as something made at home for parties or consumed mainly by tourists.",
+  "region": "national",
+  "category": "cocktail",
+  "alcoholic": true,
+  "image": "/images/drinks/sangria.jpg",
+  "price_range": "€8-15 per pitcher, €3-6 per glass",
+  "history": {
+    "en": "Wine punches have been made in the Iberian Peninsula since Roman times, when soldiers mixed wine with water, sugar, and spices to make it more palatable and safe to drink. The name 'sangria' comes from 'sangre' (blood), referring to its deep red color. The modern version, incorporating citrus fruits and brandy, became popular in the 18th and 19th centuries. Sangria gained international fame at the 1964 World's Fair in New York, where Spain's pavilion served it to millions of American visitors, launching it as a global sensation. In 2014, the EU granted sangria protected status, stipulating that only wine punch made in Spain and Portugal can be labeled 'sangria.'",
+    "es": "Los ponches de vino se han hecho en la Península Ibérica desde tiempos romanos, cuando los soldados mezclaban vino con agua, azúcar y especias para hacerlo más agradable y seguro. El nombre 'sangría' viene de 'sangre', refiriéndose a su color rojo intenso. La versión moderna, incorporando cítricos y brandy, se popularizó en los siglos XVIII y XIX. La sangría ganó fama internacional en la Feria Mundial de 1964 en Nueva York, donde el pabellón de España la sirvió a millones de visitantes americanos, lanzándola como sensación mundial. En 2014, la UE otorgó a la sangría un estatus protegido, estipulando que solo el ponche de vino hecho en España y Portugal puede etiquetarse como 'sangría'."
+  },
+  "how_to_enjoy": {
+    "en": "Sangria is best enjoyed ice-cold, shared from a large pitcher among friends on a warm day. Let the fruit macerate in the wine for at least a few hours before serving. Pour it into wide glasses filled with ice and make sure to include some of the fruit in each glass. It pairs wonderfully with tapas, barbecued meats, or as an aperitif before dinner.",
+    "es": "La sangría se disfruta mejor bien fría, compartida de una jarra grande entre amigos en un día cálido. Deja que la fruta macere en el vino al menos unas horas antes de servir. Sírvela en vasos anchos llenos de hielo y asegúrate de incluir algo de fruta en cada vaso. Marida maravillosamente con tapas, carnes a la brasa o como aperitivo antes de la cena."
+  },
+  "where_to_try": [
+    {
+      "name": "Outdoor Terrace Bars",
+      "city": "Nationwide",
+      "description": {
+        "en": "Sangria is best enjoyed at outdoor terrace bars during summer. Avoid tourist-trap sangria and look for places that make it fresh with real fruit.",
+        "es": "La sangría se disfruta mejor en terrazas al aire libre durante el verano. Evita la sangría de trampas turísticas y busca lugares que la hagan fresca con fruta real."
+      }
+    },
+    {
+      "name": "Summer Fiestas",
+      "city": "Nationwide",
+      "description": {
+        "en": "The most authentic way to drink sangria is at a local summer fiesta or verbena, where it's made in enormous batches and shared freely.",
+        "es": "La forma más auténtica de beber sangría es en una fiesta o verbena local de verano, donde se hace en enormes cantidades y se comparte libremente."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Locals rarely drink sangria in bars -- it's considered a tourist drink. If you want what Spaniards actually drink in summer, order a tinto de verano instead.",
+      "es": "Los locales raramente beben sangría en bares -- se considera una bebida de turistas. Si quieres lo que los españoles realmente beben en verano, pide un tinto de verano."
+    },
+    {
+      "en": "Avoid sangria in tourist areas where it's often pre-made with cheap wine and artificial flavors. Good sangria is made fresh with decent wine and real fruit.",
+      "es": "Evita la sangría en zonas turísticas donde a menudo está pre-hecha con vino barato y sabores artificiales. La buena sangría se hace fresca con vino decente y fruta real."
+    },
+    {
+      "en": "If you want to try sangria, make it yourself at your accommodation. It's incredibly simple: red wine, chopped oranges and peaches, a splash of brandy, and some sugar or honey.",
+      "es": "Si quieres probar sangría, hazla tú mismo en tu alojamiento. Es increíblemente sencilla: vino tinto, naranjas y melocotones troceados, un chorrito de brandy y algo de azúcar o miel."
+    }
+  ]
+}

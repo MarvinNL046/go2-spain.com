@@ -1,0 +1,55 @@
+{
+  "slug": "catalonia",
+  "name": { "en": "Catalonia", "es": "Cataluña" },
+  "description": {
+    "en": "Catalonia is a proudly distinct region in northeastern Spain with its own language (Catalan), traditions, and a fierce sense of identity. Its capital Barcelona is one of Europe's most visited cities, but the region extends far beyond — from the surreal landscapes that inspired Salvador Dalí along the Costa Brava to the snow-capped Pyrenees, from the sacred mountain of Montserrat to the wine country of Penedès and Priorat. Catalonia's culinary scene is arguably the most innovative in Spain, home to legendary restaurants and the creative spirit that produced Ferran Adrià's molecular gastronomy revolution.",
+    "es": "Cataluña es una región orgullosamente diferente en el noreste de España con su propio idioma (catalán), tradiciones y un feroz sentido de identidad. Su capital Barcelona es una de las ciudades más visitadas de Europa, pero la región se extiende mucho más allá — desde los paisajes surrealistas que inspiraron a Salvador Dalí en la Costa Brava hasta los Pirineos nevados, desde la montaña sagrada de Montserrat hasta la comarca vinícola del Penedès y el Priorat. La escena culinaria de Cataluña es posiblemente la más innovadora de España, hogar de restaurantes legendarios y del espíritu creativo que produjo la revolución de la gastronomía molecular de Ferran Adrià."
+  },
+  "geography": {
+    "en": "Catalonia spans from the Pyrenees mountains on the French border to the Mediterranean coast. The Costa Brava offers rugged cliffs and hidden coves in the north, while the Costa Daurada provides family-friendly beaches to the south. Inland, the volcanic region of La Garrotxa and the Montserrat massif offer dramatic landscapes.",
+    "es": "Cataluña se extiende desde los Pirineos en la frontera francesa hasta la costa mediterránea. La Costa Brava ofrece acantilados escarpados y calas escondidas en el norte, mientras que la Costa Daurada proporciona playas familiares al sur. En el interior, la región volcánica de La Garrotxa y el macizo de Montserrat ofrecen paisajes espectaculares."
+  },
+  "culture": {
+    "en": "Catalan culture is deeply rooted in traditions like castellers (human towers), sardana dancing, and the correfocs (fire runs). Modernisme, the Catalan Art Nouveau movement led by Gaudí, Domènech i Montaner, and Puig i Cadafalch, left Barcelona with some of Europe's most extraordinary buildings. The Catalan language is widely spoken and is a source of great regional pride.",
+    "es": "La cultura catalana tiene profundas raíces en tradiciones como los castellers (torres humanas), la sardana y los correfocs. El Modernismo, el movimiento Art Nouveau catalán liderado por Gaudí, Domènech i Montaner y Puig i Cadafalch, dejó en Barcelona algunos de los edificios más extraordinarios de Europa. La lengua catalana se habla ampliamente y es fuente de gran orgullo regional."
+  },
+  "cuisine": {
+    "en": "Catalan cuisine blends mountain and sea (mar i muntanya). Pa amb tomàquet (bread with tomato) is ubiquitous. Escalivada, calçots (grilled spring onions), and fideuà are regional staples. Catalonia's wine regions — Penedès, Priorat, and cava country — produce some of Spain's finest bottles.",
+    "es": "La cocina catalana combina montaña y mar (mar i muntanya). El pa amb tomàquet (pan con tomate) es omnipresente. La escalivada, los calçots (cebolletas a la brasa) y la fideuá son básicos regionales. Las regiones vinícolas de Cataluña — Penedès, Priorat y la zona del cava — producen algunas de las mejores botellas de España."
+  },
+  "climate": {
+    "en": "Mediterranean climate on the coast with hot summers (25-32°C) and mild winters (8-15°C). The Pyrenees have alpine conditions with heavy snowfall in winter. The interior has a continental influence with greater temperature extremes. Rainfall is higher in the north.",
+    "es": "Clima mediterráneo en la costa con veranos calurosos (25-32°C) e inviernos suaves (8-15°C). Los Pirineos tienen condiciones alpinas con fuertes nevadas en invierno. El interior tiene influencia continental con mayores extremos de temperatura. Las lluvias son más abundantes en el norte."
+  },
+  "highlights": [
+    {
+      "title": { "en": "Gaudí's Barcelona", "es": "La Barcelona de Gaudí" },
+      "description": { "en": "From the soaring Sagrada Familia to the whimsical Park Güell and the undulating Casa Batlló, Gaudí's masterpieces define Barcelona's unique character.", "es": "Desde la majestuosa Sagrada Familia hasta el caprichoso Park Güell y la ondulante Casa Batlló, las obras maestras de Gaudí definen el carácter único de Barcelona." }
+    },
+    {
+      "title": { "en": "Costa Brava", "es": "Costa Brava" },
+      "description": { "en": "Dramatic cliffs, hidden coves, and charming fishing villages like Cadaqués and Tossa de Mar line this rugged Mediterranean coastline.", "es": "Espectaculares acantilados, calas escondidas y encantadores pueblos pesqueros como Cadaqués y Tossa de Mar bordean esta escarpada costa mediterránea." }
+    },
+    {
+      "title": { "en": "Dalí Triangle", "es": "Triángulo Daliniano" },
+      "description": { "en": "Visit the Dalí Theatre-Museum in Figueres, his house in Portlligat, and the castle in Púbol to enter the surreal world of Salvador Dalí.", "es": "Visita el Teatro-Museo Dalí en Figueres, su casa en Portlligat y el castillo en Púbol para entrar en el mundo surrealista de Salvador Dalí." }
+    }
+  ],
+  "travelTips": [
+    {
+      "title": { "en": "Learn a Few Catalan Words", "es": "Aprende Algunas Palabras en Catalán" },
+      "description": { "en": "While everyone speaks Spanish, using basic Catalan greetings (bon dia, gràcies, adéu) is appreciated and shows respect for local culture.", "es": "Aunque todos hablan castellano, usar saludos básicos en catalán (bon dia, gràcies, adéu) es apreciado y muestra respeto por la cultura local." }
+    },
+    {
+      "title": { "en": "Beware of Pickpockets", "es": "Cuidado con los Carteristas" },
+      "description": { "en": "Barcelona's popular tourist areas, especially La Rambla and the metro, are hotspots for pickpockets. Keep valuables secure and stay aware of your surroundings.", "es": "Las zonas turísticas populares de Barcelona, especialmente La Rambla y el metro, son puntos calientes para los carteristas. Guarda los objetos de valor de forma segura y mantente atento a tu entorno." }
+    },
+    {
+      "title": { "en": "Book Sagrada Familia Tickets Online", "es": "Reserva Entradas para la Sagrada Familia Online" },
+      "description": { "en": "Skip the long queues by booking tickets in advance on the official website. Morning visits offer the best light through the stained glass windows.", "es": "Evita las largas colas reservando entradas con antelación en la web oficial. Las visitas matinales ofrecen la mejor luz a través de las vidrieras." }
+    }
+  ],
+  "popularCities": ["barcelona"],
+  "image": "/images/regions/catalonia.jpg",
+  "gallery": ["/images/regions/catalonia-1.jpg", "/images/regions/catalonia-2.jpg", "/images/regions/catalonia-3.jpg"]
+}

@@ -1,0 +1,124 @@
+{
+  "slug": "granada",
+  "name": { "en": "Granada", "es": "Granada" },
+  "region": "andalusia",
+  "province": "Granada",
+  "population": 232000,
+  "elevation": 738,
+  "image": "/images/cities/granada.jpg",
+  "gallery": ["/images/cities/granada-1.jpg", "/images/cities/granada-2.jpg", "/images/cities/granada-3.jpg"],
+  "description": {
+    "en": "Granada is one of Spain's most enchanting cities, where the snow-capped Sierra Nevada mountains provide a dramatic backdrop to the magnificent Alhambra palace complex. The last Moorish stronghold in Spain (falling to the Catholic Monarchs in 1492), Granada's Arab heritage permeates its architecture, cuisine, and culture. The Albaicín quarter, with its whitewashed houses and narrow winding streets, faces the Alhambra across a deep ravine, offering some of the most photographed views in all of Spain. Granada is also one of the last cities where free tapas are still served with every drink.",
+    "es": "Granada es una de las ciudades más encantadoras de España, donde las cumbres nevadas de Sierra Nevada proporcionan un espectacular telón de fondo al magnífico complejo palaciego de la Alhambra. El último bastión morisco en España (que cayó ante los Reyes Católicos en 1492), la herencia árabe de Granada impregna su arquitectura, cocina y cultura. El barrio del Albaicín, con sus casas encaladas y estrechas calles sinuosas, mira a la Alhambra al otro lado de un profundo barranco, ofreciendo algunas de las vistas más fotografiadas de toda España. Granada es también una de las últimas ciudades donde todavía se sirven tapas gratis con cada bebida."
+  },
+  "highlights": [
+    { "en": "The Alhambra & Generalife Gardens", "es": "La Alhambra y los Jardines del Generalife" },
+    { "en": "Albaicín Quarter", "es": "El Barrio del Albaicín" },
+    { "en": "Sacromonte Cave Houses", "es": "Cuevas del Sacromonte" },
+    { "en": "Granada Cathedral & Royal Chapel", "es": "Catedral de Granada y Capilla Real" },
+    { "en": "Sierra Nevada Skiing", "es": "Esquí en Sierra Nevada" }
+  ],
+  "bestTimeToVisit": {
+    "en": "Spring (April-June) and early autumn (September-October) are ideal, with mild temperatures and clear skies. Book Alhambra tickets well in advance regardless of season. Winter offers the unique possibility of skiing Sierra Nevada in the morning and exploring the city in the afternoon.",
+    "es": "La primavera (abril-junio) y el principio del otoño (septiembre-octubre) son ideales, con temperaturas suaves y cielos despejados. Reserva las entradas de la Alhambra con mucha antelación en cualquier época. El invierno ofrece la posibilidad única de esquiar en Sierra Nevada por la mañana y explorar la ciudad por la tarde."
+  },
+  "gettingAround": {
+    "en": "Granada's historic center is best explored on foot, though the steep hills of the Albaicín can be challenging. Small minibuses navigate the narrow streets of the old quarters. A single-line metro connects the outskirts. Taxis are affordable and the city is compact enough that most attractions are within walking distance.",
+    "es": "El centro histórico de Granada se explora mejor a pie, aunque las empinadas colinas del Albaicín pueden ser un desafío. Pequeños microbuses navegan por las estrechas calles de los barrios antiguos. Un metro de una sola línea conecta las afueras. Los taxis son asequibles y la ciudad es lo bastante compacta para que la mayoría de atracciones estén a distancia a pie."
+  },
+  "neighborhoods": [
+    {
+      "name": { "en": "Albaicín", "es": "Albaicín" },
+      "description": {
+        "en": "A UNESCO World Heritage Site, this ancient Moorish quarter climbs the hill opposite the Alhambra. Its labyrinthine streets, carmenes (walled gardens), and the Mirador de San Nicolás viewpoint make it unforgettable.",
+        "es": "Patrimonio de la Humanidad, este antiguo barrio morisco sube por la colina frente a la Alhambra. Sus calles laberínticas, carmenes (jardines amurallados) y el Mirador de San Nicolás lo hacen inolvidable."
+      },
+      "vibe": { "en": "Ancient Moorish charm with stunning views", "es": "Encanto morisco antiguo con vistas impresionantes" }
+    },
+    {
+      "name": { "en": "Sacromonte", "es": "Sacromonte" },
+      "description": {
+        "en": "The traditional Roma (Gitano) quarter, famous for its cave houses carved into the hillside and authentic zambra flamenco performances. A raw and atmospheric part of Granada's identity.",
+        "es": "El tradicional barrio gitano, famoso por sus cuevas excavadas en la ladera y las auténticas zambras flamencas. Una parte cruda y atmosférica de la identidad de Granada."
+      },
+      "vibe": { "en": "Authentic flamenco and cave dwellings", "es": "Flamenco auténtico y viviendas en cuevas" }
+    },
+    {
+      "name": { "en": "Centro / Cathedral Area", "es": "Centro / Zona de la Catedral" },
+      "description": {
+        "en": "The commercial heart of Granada, centered around the Cathedral and Gran Vía. Bustling shopping streets, tapas bars, and the ornate Royal Chapel where Ferdinand and Isabella are buried.",
+        "es": "El corazón comercial de Granada, centrado en la Catedral y Gran Vía. Calles comerciales bulliciosas, bares de tapas y la ornamentada Capilla Real donde están enterrados Fernando e Isabel."
+      },
+      "vibe": { "en": "Commercial center with historic monuments", "es": "Centro comercial con monumentos históricos" }
+    },
+    {
+      "name": { "en": "Realejo", "es": "Realejo" },
+      "description": {
+        "en": "The former Jewish Quarter, now a bohemian neighborhood with street art, creative restaurants, and the Campo del Príncipe plaza. Less touristy than the Albaicín with excellent tapas bars.",
+        "es": "La antigua judería, ahora un barrio bohemio con arte callejero, restaurantes creativos y la plaza del Campo del Príncipe. Menos turístico que el Albaicín con excelentes bares de tapas."
+      },
+      "vibe": { "en": "Bohemian with great street art and local tapas", "es": "Bohemio con excelente arte callejero y tapas locales" }
+    }
+  ],
+  "localFood": [
+    {
+      "name": { "en": "Free Tapas", "es": "Tapas Gratis" },
+      "description": {
+        "en": "Granada is famous for its tradition of serving a free tapa with every drink. The tapas get bigger and better with each round, making it one of Spain's best value food cities.",
+        "es": "Granada es famosa por su tradición de servir una tapa gratis con cada bebida. Las tapas son más grandes y mejores con cada ronda, lo que la convierte en una de las ciudades con mejor relación calidad-precio gastronómica de España."
+      }
+    },
+    {
+      "name": { "en": "Plato Alpujarreño", "es": "Plato Alpujarreño" },
+      "description": {
+        "en": "A hearty mountain dish from the Alpujarras region: fried eggs, jamón, morcilla, chorizo, and fried potatoes. Simple, filling, and perfect after a day of hiking.",
+        "es": "Un contundente plato de montaña de la región de las Alpujarras: huevos fritos, jamón, morcilla, chorizo y patatas fritas. Sencillo, saciante y perfecto después de un día de senderismo."
+      }
+    },
+    {
+      "name": { "en": "Pionono", "es": "Pionono" },
+      "description": {
+        "en": "A tiny cylindrical pastry from nearby Santa Fe, made of sponge cake soaked in syrup and topped with toasted cream. Named after Pope Pius IX.",
+        "es": "Un pequeño pastelito cilíndrico de la cercana Santa Fe, hecho de bizcocho empapado en almíbar y coronado con crema tostada. Nombrado en honor al Papa Pío IX."
+      }
+    },
+    {
+      "name": { "en": "Habas con Jamón", "es": "Habas con Jamón" },
+      "description": {
+        "en": "Broad beans sautéed with cured ham, garlic, and olive oil. A simple spring dish that's a Granada tapas bar essential.",
+        "es": "Habas salteadas con jamón curado, ajo y aceite de oliva. Un sencillo plato de primavera que es imprescindible en los bares de tapas de Granada."
+      }
+    }
+  ],
+  "dayTrips": [
+    {
+      "name": { "en": "The Alpujarras", "es": "Las Alpujarras" },
+      "description": {
+        "en": "A string of white villages clinging to the southern slopes of the Sierra Nevada, with Berber-influenced architecture, local crafts, and excellent hiking trails.",
+        "es": "Una cadena de pueblos blancos aferrados a las laderas meridionales de Sierra Nevada, con arquitectura de influencia bereber, artesanía local y excelentes rutas de senderismo."
+      },
+      "distance": "65km"
+    },
+    {
+      "name": { "en": "Sierra Nevada", "es": "Sierra Nevada" },
+      "description": {
+        "en": "Europe's southernmost ski resort, just 32km from Granada. In summer, the mountains offer superb hiking with views stretching to the Mediterranean and even Morocco on clear days.",
+        "es": "La estación de esquí más meridional de Europa, a solo 32km de Granada. En verano, las montañas ofrecen magnífico senderismo con vistas hasta el Mediterráneo e incluso Marruecos en días despejados."
+      },
+      "distance": "32km"
+    },
+    {
+      "name": { "en": "Guadix", "es": "Guadix" },
+      "description": {
+        "en": "A town famous for its troglodyte cave houses, still inhabited today, with a dramatic cathedral and a surreal badlands landscape.",
+        "es": "Un pueblo famoso por sus casas cueva trogloditas, aún habitadas hoy, con una espectacular catedral y un surrealista paisaje de tierras baldías."
+      },
+      "distance": "55km"
+    }
+  ],
+  "budget": {
+    "backpacker": { "en": "€30-45/day", "es": "30-45€/día" },
+    "midRange": { "en": "€75-140/day", "es": "75-140€/día" },
+    "luxury": { "en": "€220+/day", "es": "220+€/día" }
+  }
+}

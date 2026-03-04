@@ -1,0 +1,83 @@
+{
+  "slug": "fabada-asturiana",
+  "name": { "en": "Fabada Asturiana", "es": "Fabada Asturiana" },
+  "description": {
+    "en": "A rich, hearty bean stew from Asturias made with large white fabes beans, chorizo, morcilla (blood sausage), and pork shoulder. The ultimate comfort food for rainy northern Spanish days.",
+    "es": "Un rico y contundente guiso de alubias de Asturias hecho con grandes fabes blancas, chorizo, morcilla y lacón. La comida reconfortante definitiva para los lluviosos días del norte de España."
+  },
+  "enhanced_description": "Fabada asturiana is the soul-warming flagship dish of Asturias, Spain's green and rainy northern region where hearty, calorie-rich meals are a necessity against the damp Atlantic climate. This magnificent bean stew uses the exceptionally large, creamy fabes de la Granja beans that are unique to Asturias, slow-simmered for hours with the 'compango' -- a trio of smoked chorizo, morcilla (blood sausage), and lacón (cured pork shoulder) that infuses the broth with deep, smoky richness. The result is a dish of extraordinary depth and comfort that has earned its place as one of Spain's most important regional specialties.",
+  "region": "asturias",
+  "category": "main",
+  "image": "/images/food/fabada-asturiana.jpg",
+  "preparation_time": "2-3 hours plus overnight soaking",
+  "price_range": "€12-20",
+  "difficulty": "intermediate",
+  "ingredients": ["Fabes de la Granja (large white beans)", "Chorizo asturiano", "Morcilla asturiana (blood sausage)", "Lacón (cured pork shoulder)", "Saffron", "Bay leaf", "Olive oil", "Salt"],
+  "history": {
+    "en": "Fabada has been the defining dish of Asturian cuisine for centuries, though the first written recipe appeared relatively late, in the early 20th century. The dish developed from the tradition of hearty bean stews common across northern Spain, but Asturias' unique variety of large, creamy fabes beans and its tradition of smoked pork products created something exceptional. The fabes de la Granja or fabes de Asturias beans hold a protected geographical designation (IGP), and the compango meats are traditionally produced by local artisans using age-old smoking techniques. Fabada is so important to Asturian identity that it is featured in virtually every traditional restaurant in the region.",
+    "es": "La fabada ha sido el plato definitorio de la cocina asturiana durante siglos, aunque la primera receta escrita apareció relativamente tarde, a principios del siglo XX. El plato se desarrolló a partir de la tradición de contundentes guisos de alubias comunes en el norte de España, pero la variedad única de fabes grandes y cremosas de Asturias y su tradición de productos porcinos ahumados crearon algo excepcional. Las fabes de la Granja o fabes de Asturias tienen denominación geográfica protegida (IGP), y las carnes del compango son tradicionalmente producidas por artesanos locales usando técnicas de ahumado ancestrales. La fabada es tan importante para la identidad asturiana que aparece en prácticamente todos los restaurantes tradicionales de la región."
+  },
+  "where_to_try": [
+    {
+      "name": "Casa Gerardo",
+      "city": "Prendes (Asturias)",
+      "description": {
+        "en": "A Michelin-starred restaurant run by the same family since 1882, famous for what many consider the finest fabada in Asturias, using beans from their own farm.",
+        "es": "Un restaurante con estrella Michelin gestionado por la misma familia desde 1882, famoso por lo que muchos consideran la mejor fabada de Asturias, usando alubias de su propia finca."
+      }
+    },
+    {
+      "name": "Sidrería Tierra Astur",
+      "city": "Oviedo",
+      "description": {
+        "en": "A popular Asturian sidrería chain offering generous portions of traditional fabada in a rustic, lively atmosphere with flowing cider.",
+        "es": "Una popular cadena de sidrerías asturianas que ofrece generosas porciones de fabada tradicional en un ambiente rústico y animado con sidra a raudales."
+      }
+    },
+    {
+      "name": "El Molín de la Pedrera",
+      "city": "Cangas de Onís (Asturias)",
+      "description": {
+        "en": "A charming rural restaurant in the Picos de Europa foothills serving fabada with locally sourced compango meats and house-made bread.",
+        "es": "Un encantador restaurante rural en las estribaciones de los Picos de Europa que sirve fabada con carnes de compango locales y pan casero."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "Fabada is extremely filling. Order it as a main course, not as a starter. Many Spaniards need a siesta after eating it.",
+      "es": "La fabada es extremadamente contundente. Pídela como plato principal, no como entrante. Muchos españoles necesitan una siesta después de comerla."
+    },
+    {
+      "en": "It's a cold-weather dish. The best time to eat fabada is during Asturias' rainy autumn and winter months.",
+      "es": "Es un plato de clima frío. El mejor momento para comer fabada es durante los lluviosos meses de otoño e invierno de Asturias."
+    },
+    {
+      "en": "The beans should be whole and unbroken, swimming in a creamy, thick broth. If the broth is watery, the fabada hasn't been properly made.",
+      "es": "Las alubias deben estar enteras y sin romper, nadando en un caldo cremoso y espeso. Si el caldo es aguado, la fabada no está bien hecha."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Fabes con Almejas", "es": "Fabes con Almejas" },
+      "description": {
+        "en": "The same Asturian white beans cooked with clams instead of pork, a lighter coastal variation.",
+        "es": "Las mismas alubias blancas asturianas cocinadas con almejas en vez de cerdo, una variación costera más ligera."
+      }
+    },
+    {
+      "name": { "en": "Judiones de La Granja", "es": "Judiones de La Granja" },
+      "description": {
+        "en": "A similar bean stew from Segovia using even larger judión beans, with chorizo and pig's ear.",
+        "es": "Un guiso de alubias similar de Segovia usando judiones aún más grandes, con chorizo y oreja de cerdo."
+      }
+    },
+    {
+      "name": { "en": "Cocido Montañés", "es": "Cocido Montañés" },
+      "description": {
+        "en": "Cantabria's bean stew cousin, using white beans with collard greens and pork ribs.",
+        "es": "El primo cántabro del guiso de alubias, usando alubias blancas con berza y costillas de cerdo."
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "santiago-de-compostela",
+  "name": {
+    "en": "Santiago de Compostela Cathedral",
+    "es": "Catedral de Santiago de Compostela"
+  },
+  "city": "santiago-de-compostela",
+  "region": "galicia",
+  "image": "/images/destinations/santiago-de-compostela.jpg",
+  "description": {
+    "en": "The magnificent Romanesque cathedral marking the end of the Camino de Santiago pilgrimage route. Its ornate Baroque facade, the Pórtico de la Gloria, and the botafumeiro incense burner are awe-inspiring.",
+    "es": "La magnífica catedral románica que marca el final del Camino de Santiago. Su ornamentada fachada barroca, el Pórtico de la Gloria y el incensario botafumeiro son impresionantes."
+  },
+  "category": "monument",
+  "rating": 4.8,
+  "visitDuration": "1-2 hours",
+  "price": "Free",
+  "tips": [
+    {
+      "en": "Attend the noon Pilgrim's Mass to see the botafumeiro swing",
+      "es": "Asiste a la Misa del Peregrino del mediodía para ver balancear el botafumeiro"
+    },
+    {
+      "en": "Visit the rooftop tour for panoramic city views",
+      "es": "Haz la visita a las cubiertas para vistas panorámicas de la ciudad"
+    }
+  ]
+}

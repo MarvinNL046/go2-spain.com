@@ -1,0 +1,83 @@
+{
+  "slug": "croquetas",
+  "name": { "en": "Croquetas", "es": "Croquetas" },
+  "description": {
+    "en": "Creamy béchamel fritters, usually filled with jamón, chicken, or cod, then breaded and deep-fried to golden perfection. Every grandmother in Spain claims to make the best croquetas.",
+    "es": "Croquetas cremosas de bechamel, generalmente rellenas de jamón, pollo o bacalao, empanadas y fritas hasta quedar doradas. Cada abuela en España afirma hacer las mejores croquetas."
+  },
+  "enhanced_description": "Croquetas are perhaps the most emotionally charged dish in all of Spanish cuisine, evoking powerful memories of grandmother's kitchen and family Sunday lunches. These golden, breaded fritters conceal a molten, creamy interior of thick bechamel sauce infused with the flavor of jamón, cod, mushrooms, or other fillings. The art lies in achieving the perfect contrast between the shattering crispy exterior and the flowing, lava-like center -- a balance that requires patience in making the bechamel, courage in the frying, and restraint in waiting for them to cool just enough before eating.",
+  "region": "national",
+  "category": "appetizer",
+  "image": "/images/food/croquetas.jpg",
+  "preparation_time": "45-60 min plus chilling time",
+  "price_range": "€1-3 each, €6-12 per plate",
+  "difficulty": "intermediate",
+  "ingredients": ["Butter", "Flour", "Whole milk", "Jamón serrano or ibérico", "Nutmeg", "Salt", "White pepper", "Eggs", "Breadcrumbs", "Olive oil for frying"],
+  "history": {
+    "en": "Croquetas were introduced to Spain from French cuisine in the 19th century, where croquettes were already an established dish. However, Spanish cooks transformed them into something uniquely their own by creating a much creamier bechamel base and incorporating distinctly Spanish fillings like jamón ibérico and bacalao. The dish became a staple of Spanish home cooking, particularly as a way to use leftover ham bones and meat. During the post-Civil War years of scarcity, croquetas became a resourceful way to stretch ingredients, cementing their place in the national culinary identity.",
+    "es": "Las croquetas fueron introducidas en España desde la cocina francesa en el siglo XIX, donde las croquettes ya eran un plato establecido. Sin embargo, los cocineros españoles las transformaron en algo únicamente suyo creando una base de bechamel mucho más cremosa e incorporando rellenos típicamente españoles como jamón ibérico y bacalao. El plato se convirtió en un básico de la cocina casera española, particularmente como forma de aprovechar huesos de jamón y restos de carne. Durante los años de escasez tras la Guerra Civil, las croquetas se convirtieron en una ingeniosa forma de estirar los ingredientes, cimentando su lugar en la identidad culinaria nacional."
+  },
+  "where_to_try": [
+    {
+      "name": "La Barraca",
+      "city": "Madrid",
+      "description": {
+        "en": "A beloved Madrid institution known for their exceptionally creamy jamón croquetas with a perfectly golden crust.",
+        "es": "Una querida institución madrileña conocida por sus excepcionalmente cremosas croquetas de jamón con una costra perfectamente dorada."
+      }
+    },
+    {
+      "name": "La Croquetería",
+      "city": "Madrid",
+      "description": {
+        "en": "A specialist croqueta bar offering creative flavors alongside traditional ham and cod varieties. Their croquetas de cocido are legendary.",
+        "es": "Un bar especializado en croquetas que ofrece sabores creativos junto a las variedades tradicionales de jamón y bacalao. Sus croquetas de cocido son legendarias."
+      }
+    },
+    {
+      "name": "Casa Guinart",
+      "city": "Barcelona",
+      "description": {
+        "en": "A traditional Catalan restaurant in the Eixample neighborhood serving some of Barcelona's most praised croquetas de bacalao.",
+        "es": "Un restaurante catalán tradicional en el barrio del Eixample que sirve algunas de las más elogiadas croquetas de bacalao de Barcelona."
+      }
+    }
+  ],
+  "tips": [
+    {
+      "en": "The best croquetas have a liquid, flowing center. If the inside is solid or doughy, they haven't been made properly.",
+      "es": "Las mejores croquetas tienen un centro líquido y fluido. Si el interior es sólido o pastoso, no están bien hechas."
+    },
+    {
+      "en": "Croquetas de jamón are the classic, but don't miss croquetas de bacalao (cod) or croquetas de boletus (wild mushroom) when available.",
+      "es": "Las croquetas de jamón son el clásico, pero no te pierdas las croquetas de bacalao o las croquetas de boletus cuando estén disponibles."
+    },
+    {
+      "en": "Wait a minute before biting in -- the center is molten hot and will burn your mouth. Every Spaniard has learned this lesson the hard way.",
+      "es": "Espera un minuto antes de morder -- el centro está ardiendo y te quemará la boca. Todos los españoles han aprendido esta lección por las malas."
+    }
+  ],
+  "variations": [
+    {
+      "name": { "en": "Jamón Croquetas", "es": "Croquetas de Jamón" },
+      "description": {
+        "en": "The undisputed classic, made with finely diced jamón serrano or ibérico stirred into the bechamel.",
+        "es": "El clásico indiscutible, hechas con jamón serrano o ibérico finamente picado mezclado en la bechamel."
+      }
+    },
+    {
+      "name": { "en": "Cod Croquetas", "es": "Croquetas de Bacalao" },
+      "description": {
+        "en": "Made with salt cod, offering a slightly briny, savory alternative to ham. Especially popular during Lent and in coastal regions.",
+        "es": "Hechas con bacalao, ofreciendo una alternativa ligeramente salina y sabrosa al jamón. Especialmente populares durante Cuaresma y en regiones costeras."
+      }
+    },
+    {
+      "name": { "en": "Cocido Croquetas", "es": "Croquetas de Cocido" },
+      "description": {
+        "en": "Made from the leftover meats and broth of cocido madrileño stew, embodying the Spanish tradition of wasting nothing.",
+        "es": "Hechas con las carnes y caldo sobrantes del cocido madrileño, encarnando la tradición española de no desperdiciar nada."
+      }
+    }
+  ]
+}

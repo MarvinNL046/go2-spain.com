@@ -1,0 +1,19 @@
+{
+  "slug": "camino-pilgrimage",
+  "name": {
+    "en": "Camino de Santiago Pilgrimage",
+    "es": "Peregrinación del Camino de Santiago"
+  },
+  "city": "multiple",
+  "region": "multiple",
+  "image": "/images/experiences/camino-pilgrimage.jpg",
+  "description": {
+    "en": "Walk the legendary pilgrimage route to Santiago de Compostela. Whether you walk the full Camino Francés (780km over 30+ days) or just the final 100km from Sarria, the journey is transformative.",
+    "es": "Camina la legendaria ruta de peregrinación a Santiago de Compostela. Ya camines el Camino Francés completo (780km en más de 30 días) o solo los últimos 100km desde Sarria, el viaje es transformador."
+  },
+  "category": "adventure",
+  "duration": "5-35 days",
+  "price": "€25-50/day",
+  "difficulty": "moderate",
+  "rating": 4.9
+}

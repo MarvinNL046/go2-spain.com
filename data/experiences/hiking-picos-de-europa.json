@@ -1,0 +1,19 @@
+{
+  "slug": "hiking-picos-de-europa",
+  "name": {
+    "en": "Hiking in Picos de Europa",
+    "es": "Senderismo en Picos de Europa"
+  },
+  "city": "cantabria",
+  "region": "cantabria",
+  "image": "/images/experiences/hiking-picos-de-europa.jpg",
+  "description": {
+    "en": "Trek through Spain's first national park, a dramatic limestone massif with soaring peaks, deep gorges, and alpine meadows. The Cares Gorge route is Spain's most spectacular canyon walk.",
+    "es": "Camina por el primer parque nacional de España, un espectacular macizo calcáreo con altísimos picos, profundas gargantas y prados alpinos. La ruta del Desfiladero del Cares es la caminata por cañón más espectacular de España."
+  },
+  "category": "adventure",
+  "duration": "Full day",
+  "price": "Free",
+  "difficulty": "moderate",
+  "rating": 4.8
+}
