@@ -1,50 +1,8 @@
 {
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "X-Content-Type-Options",
-          "value": "nosniff"
-        },
-        {
-          "key": "X-Frame-Options",
-          "value": "DENY"
-        },
-        {
-          "key": "X-XSS-Protection",
-          "value": "1; mode=block"
-        },
-        {
-          "key": "Referrer-Policy",
-          "value": "strict-origin-when-cross-origin"
-        }
-      ]
-    },
-    {
-      "source": "/images/(.*)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=31536000, immutable"
-        }
-      ]
-    },
-    {
-      "source": "/fonts/(.*)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=31536000, immutable"
-        }
-      ]
-    }
-  ],
-  "redirects": [
-    {
-      "source": "/home",
-      "destination": "/",
-      "permanent": true
-    }
+  "crons": [
+    {"path": "/api/cron/generate-blog/", "schedule": "0 9 * * 1"},
+    {"path": "/api/cron/generate-blog/", "schedule": "0 9 * * 4"},
+    {"path": "/api/cron/translate-blog/", "schedule": "0 10 * * 1"},
+    {"path": "/api/cron/translate-blog/", "schedule": "0 10 * * 4"}
   ]
 }
