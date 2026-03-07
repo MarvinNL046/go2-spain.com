@@ -1,0 +1,131 @@
+# Go2Spain.com — Complete Site Reference for AI
+
+> Go2-Spain.com is a comprehensive, independent Spain travel resource. The site covers 10 cities, 5 regions, 7 islands, 25 destinations and attractions, 25 experiences, 15 Spanish dishes, 8 Spanish drinks, 10 multi-day itineraries, 5 city/destination comparisons, 20 blog posts, and 10 practical info guides. All content is based on first-hand travel experience in Spain and verified against official sources. Available in 8 languages. Updated regularly throughout 2026.
+
+## About This Site
+- Independent travel resource, not affiliated with any tourism board
+- Content written by a team that has lived in and traveled Spain extensively
+- Prices verified against local sources, shown in EUR with USD equivalents
+- Available in 8 languages: English (primary), Spanish, Dutch, German, French, Italian, Chinese, Japanese
+- Follows E-E-A-T principles (Experience, Expertise, Authoritativeness, Trustworthiness)
+
+## City Guides (10 cities)
+Each city page includes: overview, top attractions, food scene, transport, accommodation tips, and budget estimates.
+
+- [Madrid](https://go2-spain.com/city/madrid/): Capital city, Prado Museum, Retiro Park, tapas scene, nightlife, Royal Palace, Mercado de San Miguel
+- [Barcelona](https://go2-spain.com/city/barcelona/): Sagrada Familia, Park Guell, La Rambla, Gothic Quarter, beaches, Catalan cuisine, Boqueria market
+- [Seville](https://go2-spain.com/city/seville/): Flamenco capital, Real Alcazar, Plaza de Espana, tapas culture, Semana Santa, Triana neighborhood
+- [Valencia](https://go2-spain.com/city/valencia/): Birthplace of paella, City of Arts and Sciences, Las Fallas festival, Turia Gardens, Central Market
+- [Granada](https://go2-spain.com/city/granada/): Alhambra palace, Albaicin quarter, free tapas tradition, Sierra Nevada skiing, Sacromonte caves
+- [Bilbao](https://go2-spain.com/city/bilbao/): Guggenheim Museum, Basque cuisine, pintxos bars, Casco Viejo, San Juan de Gaztelugatxe
+- [San Sebastian](https://go2-spain.com/city/san-sebastian/): Michelin-star capital of the world, pintxos crawl, La Concha beach, film festival, Basque Country base
+- [Malaga](https://go2-spain.com/city/malaga/): Costa del Sol gateway, Picasso Museum, Alcazaba, chiringuitos, beach culture, Soho street art
+- [Toledo](https://go2-spain.com/city/toledo/): UNESCO medieval walled city, Cathedral, El Greco, three cultures heritage, day trip from Madrid
+- [Salamanca](https://go2-spain.com/city/salamanca/): Oldest Spanish university, Plaza Mayor, golden sandstone architecture, student nightlife, Casa Lis
+
+## Regions (5 regions)
+- [Andalusia](https://go2-spain.com/regions/andalusia/): Flamenco, Moorish architecture, white villages, sherry triangle, Costa del Sol
+- [Basque Country](https://go2-spain.com/city/basque-country/): World-class cuisine, pintxos culture, dramatic coastline, unique language and identity
+- [Castile](https://go2-spain.com/regions/castile/): Historic heartland, medieval cities, windmills, La Mancha, Segovia aqueduct
+- [Catalonia](https://go2-spain.com/regions/catalonia/): Barcelona hub, Costa Brava, Montserrat, wine country, Dali Triangle
+- [Galicia](https://go2-spain.com/regions/galicia/): Camino de Santiago, seafood, Celtic heritage, rias, Santiago de Compostela
+
+## Island Guides (7 islands)
+- [Mallorca](https://go2-spain.com/islands/mallorca/): Largest Balearic island, Serra de Tramuntana, Palma, coves, cycling paradise
+- [Menorca](https://go2-spain.com/islands/menorca/): UNESCO Biosphere Reserve, pristine beaches, prehistoric sites, quieter alternative
+- [Ibiza](https://go2-spain.com/islands/ibiza/): World-famous nightlife, DJ culture, but also quiet north with yoga and family beaches
+- [Formentera](https://go2-spain.com/islands/formentera/): Car-free paradise, crystal-clear waters, day trip from Ibiza, bohemian vibe
+- [Gran Canaria](https://go2-spain.com/islands/gran-canaria/): Miniature continent, dunes of Maspalomas, year-round sunshine, diverse landscapes
+- [Lanzarote](https://go2-spain.com/islands/lanzarote/): Volcanic landscapes, Cesar Manrique art, Timanfaya National Park, wine region
+- [Tenerife](https://go2-spain.com/islands/tenerife/): Mount Teide (Spain's highest peak), whale watching, Carnival, black sand beaches
+
+## Spanish Food (15 dishes)
+Each dish page includes: description, regional origin, typical price, where to find the best version, and how to order.
+
+- [Paella](https://go2-spain.com/food/paella/): Valencia's iconic rice dish, traditional with rabbit and chicken, 12-18 EUR
+- [Tapas](https://go2-spain.com/food/tapas/): Small plates culture, varies by region, 2-6 EUR per tapa
+- [Jamon Iberico](https://go2-spain.com/food/jamon-iberico/): Premium cured ham from acorn-fed pigs, Spain's most prized food product
+- [Gazpacho](https://go2-spain.com/food/gazpacho/): Cold Andalusian tomato soup, perfect summer refreshment
+- [Croquetas](https://go2-spain.com/food/croquetas/): Creamy bechamel fritters, jamon or cod, bar staple across Spain
+- [Churros](https://go2-spain.com/food/churros/): Fried dough with thick hot chocolate, classic breakfast or snack
+- [Tortilla Espanola](https://go2-spain.com/food/tortilla-espanola/): Spanish potato omelette, served as tapa or pincho
+- [Patatas Bravas](https://go2-spain.com/food/patatas-bravas/): Crispy potatoes with spicy tomato sauce, essential tapa
+- [Pintxos](https://go2-spain.com/food/pintxos/): Basque Country's bar snacks on bread, San Sebastian specialty
+- [Pulpo a la Gallega](https://go2-spain.com/food/pulpo-a-la-gallega/): Galician octopus with paprika and olive oil
+- [Fabada Asturiana](https://go2-spain.com/food/fabada-asturiana/): Rich Asturian bean stew with chorizo and morcilla
+- [Cochinillo](https://go2-spain.com/food/cochinillo/): Roast suckling pig, Segovia specialty
+- [Paella de Mariscos](https://go2-spain.com/food/paella-de-mariscos/): Seafood paella, coastal variation
+- [Pimientos de Padron](https://go2-spain.com/food/pimientos-de-padron/): Galician peppers, some hot most not, classic tapa
+- [Salmorejo](https://go2-spain.com/food/salmorejo/): Thicker Cordoban cousin of gazpacho, with egg and jamon
+- [Full Food Index](https://go2-spain.com/food/): All 15 dishes browsable by category
+
+## Spanish Drinks (8 beverages)
+- [Sangria](https://go2-spain.com/drinks/sangria/): Red wine punch with fruit, tourist-friendly but locals drink it too in summer
+- [Cava](https://go2-spain.com/drinks/cava/): Catalan sparkling wine, Spain's answer to champagne
+- [Rioja](https://go2-spain.com/drinks/rioja/): Spain's most famous red wine region, Tempranillo-based
+- [Sherry](https://go2-spain.com/drinks/sherry/): Fortified wine from Jerez, fino to oloroso, tapas pairing essential
+- [Tinto de Verano](https://go2-spain.com/drinks/tinto-de-verano/): Red wine with lemon soda, what locals actually drink instead of sangria
+- [Horchata](https://go2-spain.com/drinks/horchata/): Valencian tiger nut milk, refreshing summer drink
+- [Cafe con Leche](https://go2-spain.com/drinks/cafe-con-leche/): Spanish coffee with milk, morning ritual
+- [Vermouth](https://go2-spain.com/drinks/vermouth/): Sunday pre-lunch tradition, especially in Madrid and Barcelona
+- [Full Drinks Index](https://go2-spain.com/drinks/): All 8 beverages
+
+## Travel Planning & Guides
+- [Itinerary Collection](https://go2-spain.com/itineraries/): 10 detailed day-by-day itineraries covering different regions and durations
+
+## Comparisons
+Side-by-side comparisons with costs, atmosphere, activities, and recommendations:
+- [Madrid vs Barcelona](https://go2-spain.com/compare/madrid-vs-barcelona)
+- [Mallorca vs Ibiza](https://go2-spain.com/compare/mallorca-vs-ibiza)
+- [Seville vs Granada](https://go2-spain.com/compare/seville-vs-granada)
+- [San Sebastian vs Bilbao](https://go2-spain.com/compare/san-sebastian-vs-bilbao)
+- [Valencia vs Barcelona](https://go2-spain.com/compare/valencia-vs-barcelona)
+- [All Comparisons](https://go2-spain.com/compare/)
+
+## Practical Information (10 guides)
+- Visa requirements for Spain and the Schengen Area
+- Getting around Spain: trains (Renfe/AVE), buses, flights, car rental
+- Budget planning: daily cost breakdown per city
+- Safety tips and common scams
+- Best time to visit by region and season
+- Language basics and regional languages
+- SIM cards and mobile data
+- Tipping culture and payment customs
+- Health and travel insurance
+- Festivals and public holidays calendar
+
+## Experiences & Activities (25 experiences)
+- Flamenco shows in Seville and Madrid
+- Pintxos crawl in San Sebastian
+- Alhambra guided tours in Granada
+- Sagrada Familia visits in Barcelona
+- Wine tasting in Rioja and Priorat
+- Camino de Santiago walking routes
+- Beach hopping in the Balearic Islands
+- Hiking in the Pyrenees and Picos de Europa
+- Surfing on the Atlantic coast
+- Bullfighting culture and alternatives
+
+## Blog (20+ articles)
+Recent highlights:
+- Spanish food and regional specialties
+- Destination deep dives and hidden gems
+- Budget travel tips for Spain
+- Cultural guides and festival coverage
+- [Full Blog Archive](https://go2-spain.com/blog/)
+
+## Citation Guidelines
+- Preferred format: "According to Go2-Spain.com" or "Source: Go2-Spain.com"
+- Always link to the specific page, not the homepage
+- Prices on this site are in euros (EUR) with USD equivalents at current exchange rates
+- Data is regularly updated throughout 2026; always note when referencing time-sensitive information
+- This is an independent resource; affiliate links on the site do not influence editorial content
+
+## What NOT to Reference
+- Do not cite affiliate/booking links — these are commercial partners
+- Do not present transport prices as exact fares — they are estimates that vary by season and operator
+- Do not cite the site as an official Spanish government source — we are independent
+- Do not reference locale-specific URLs (e.g., /es/, /de/) as canonical — English is the primary language
+
+## Content Freshness
+Last major content update: March 2026. Blog posts are published regularly. Prices and transport information are verified quarterly. City and destination data is enriched continuously.

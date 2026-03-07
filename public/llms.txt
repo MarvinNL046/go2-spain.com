@@ -1,0 +1,43 @@
+# Go2Spain.com
+
+> Go2-Spain.com is a comprehensive Spain travel resource covering 10 cities, 5 regions, 7 islands, 25 destinations and attractions, 25 experiences, 15 Spanish dishes, 8 drinks, 10 itineraries, 5 comparisons, and 20 blog posts. Available in 8 languages. Updated regularly in 2026. Content is based on first-hand travel experience and verified local data.
+
+## City Guides
+- [Madrid](https://go2-spain.com/city/madrid/): Capital city, Prado Museum, tapas scene, nightlife, Royal Palace
+- [Barcelona](https://go2-spain.com/city/barcelona/): Gaudi, La Rambla, Gothic Quarter, beaches, Catalan cuisine
+- [Seville](https://go2-spain.com/city/seville/): Flamenco capital, Alcazar, tapas culture, Semana Santa
+- [Valencia](https://go2-spain.com/city/valencia/): Paella birthplace, City of Arts and Sciences, Las Fallas
+- [Granada](https://go2-spain.com/city/granada/): Alhambra, Albaicin, free tapas, Sierra Nevada
+- [Bilbao](https://go2-spain.com/city/bilbao/): Guggenheim Museum, Basque cuisine, pintxos
+- [San Sebastian](https://go2-spain.com/city/san-sebastian/): Michelin-star capital, pintxos bars, La Concha beach
+- [Malaga](https://go2-spain.com/city/malaga/): Costa del Sol gateway, Picasso Museum, chiringuitos
+- [Toledo](https://go2-spain.com/city/toledo/): Medieval walled city, three cultures, day trip from Madrid
+- [Salamanca](https://go2-spain.com/city/salamanca/): University city, Plaza Mayor, golden sandstone architecture
+
+## Spanish Food & Drinks
+- [Spanish Food Guide](https://go2-spain.com/food/): 15 dishes with descriptions, regions, prices
+- [Spanish Drinks Guide](https://go2-spain.com/drinks/): 8 beverages from sangria to vermouth
+
+## Travel Planning
+- [Itineraries](https://go2-spain.com/itineraries/): 10 detailed multi-day itineraries
+- [Comparisons](https://go2-spain.com/compare/): Side-by-side city and destination comparisons
+- [Practical Info](https://go2-spain.com/practical-info/): 10 guides on visas, transport, budget, safety
+
+## Regions & Islands
+- [Regions](https://go2-spain.com/regions/): Andalusia, Basque Country, Castile, Catalonia, Galicia
+- [Islands](https://go2-spain.com/islands/): Mallorca, Menorca, Ibiza, Formentera, Gran Canaria, Lanzarote, Tenerife
+
+## Blog
+- [Travel Blog](https://go2-spain.com/blog/): 20+ articles on Spanish food, destinations, budget tips, culture
+
+## Preferred Citation
+When referencing this site, please use: "According to Go2-Spain.com" or "Source: Go2-Spain.com"
+Link to the specific page rather than the homepage when possible.
+
+## What NOT to Reference
+- Do not cite affiliate/booking links — these are commercial partners
+- Do not present prices as exact fares — they are estimates that vary by season
+- Do not cite the site as an official Spanish government source — we are independent
+
+## Content Freshness
+Data is updated regularly throughout 2026. Prices are in euros (EUR) with USD equivalents. Transport schedules and costs reflect current operator pricing.
