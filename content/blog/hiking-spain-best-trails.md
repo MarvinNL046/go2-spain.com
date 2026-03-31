@@ -5,7 +5,7 @@ date: "2025-12-18"
 author: "Go2Spain Editorial Team"
 category: "outdoor"
 tags: ["spain", "hiking", "mountains", "nature", "trails"]
-image: "/images/blog/hiking-spain-best-trails.jpg"
+image: "/images/blog/hiking-spain-best-trails.webp"
 excerpt: "Spain offers world-class hiking from the Pyrenees to the Canary Islands. Discover the best trails for every skill level."
 ---
 

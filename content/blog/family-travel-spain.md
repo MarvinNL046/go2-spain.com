@@ -5,7 +5,7 @@ date: "2025-12-12"
 author: "Go2Spain Editorial Team"
 category: "travel-guide"
 tags: ["spain", "family", "kids", "travel-with-children"]
-image: "/images/blog/family-travel-spain.jpg"
+image: "/images/blog/family-travel-spain.webp"
 excerpt: "Spain is wonderfully family-friendly. Discover the best destinations, activities, and practical tips for traveling with children."
 ---
 

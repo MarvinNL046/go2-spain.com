@@ -5,7 +5,7 @@ date: "2026-01-04"
 author: "Go2Spain Editorial Team"
 category: "food-drink"
 tags: ["spain", "wine", "rioja", "ribera-del-duero", "sherry"]
-image: "/images/blog/wine-regions-spain.jpg"
+image: "/images/blog/wine-regions-spain.webp"
 excerpt: "Explore Spain's top wine regions from Rioja to Jerez. Vineyard tours, tastings, and the best wines to try on your trip."
 ---
 

@@ -5,7 +5,7 @@ date: "2025-12-20"
 author: "Go2Spain Editorial Team"
 category: "destination"
 tags: ["basque-country", "san-sebastian", "bilbao", "pintxos"]
-image: "/images/blog/basque-country-guide.jpg"
+image: "/images/blog/basque-country-guide.webp"
 excerpt: "Discover the Basque Country's world-class food scene, striking architecture, rugged coastline, and unique culture."
 ---
 

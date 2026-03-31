@@ -5,7 +5,7 @@ date: "2026-01-08"
 author: "Go2Spain Editorial Team"
 category: "food-drink"
 tags: ["spain", "food", "tapas", "paella", "cuisine"]
-image: "/images/blog/spanish-food-guide.jpg"
+image: "/images/blog/spanish-food-guide.webp"
 excerpt: "From paella to pintxos, discover the essential dishes of Spanish cuisine and the best regions to taste them."
 ---
 

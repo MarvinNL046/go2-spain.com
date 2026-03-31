@@ -5,7 +5,7 @@ date: "2026-01-10"
 author: "Go2Spain Editorial Team"
 category: "city-guide"
 tags: ["barcelona", "first-time", "catalonia", "gaudi"]
-image: "/images/blog/first-time-barcelona.jpg"
+image: "/images/blog/first-time-barcelona.webp"
 excerpt: "Planning your first trip to Barcelona? Here is everything you need to know about Gaudi, Gothic Quarter, beaches, and Catalan cuisine."
 ---
 

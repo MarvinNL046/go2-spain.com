@@ -5,7 +5,7 @@ date: "2025-12-25"
 author: "Go2Spain Editorial Team"
 category: "destination"
 tags: ["costa-del-sol", "malaga", "beaches", "marbella"]
-image: "/images/blog/costa-del-sol-guide.jpg"
+image: "/images/blog/costa-del-sol-guide.webp"
 excerpt: "Everything you need to know about Spain's famous Sun Coast, from the best beaches and towns to day trips and local food."
 ---
 

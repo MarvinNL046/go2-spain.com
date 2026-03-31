@@ -5,7 +5,7 @@ date: "2025-12-01"
 author: "Go2Spain Editorial Team"
 category: "culture"
 tags: ["spain", "festivals", "fiestas", "semana-santa", "la-tomatina"]
-image: "/images/blog/festivals-spain-guide.jpg"
+image: "/images/blog/festivals-spain-guide.webp"
 excerpt: "Spain celebrates more festivals than almost any country in the world. From Semana Santa to La Tomatina, here are the ones worth planning your trip around."
 ---
 

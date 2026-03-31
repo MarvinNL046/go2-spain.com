@@ -5,7 +5,7 @@ date: "2026-01-12"
 author: "Go2Spain Editorial Team"
 category: "travel-guide"
 tags: ["spain", "weather", "planning", "seasons"]
-image: "/images/blog/best-time-to-visit-spain.jpg"
+image: "/images/blog/best-time-to-visit-spain.webp"
 excerpt: "Discover the ideal time to visit Spain based on weather, crowds, prices, and regional events throughout the year."
 ---
 

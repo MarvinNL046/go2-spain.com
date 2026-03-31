@@ -5,7 +5,7 @@ date: "2025-12-28"
 author: "Go2Spain Editorial Team"
 category: "budget"
 tags: ["spain", "budget", "money-saving", "tips"]
-image: "/images/blog/budget-travel-spain.jpg"
+image: "/images/blog/budget-travel-spain.webp"
 excerpt: "Smart tips for traveling Spain on a budget, from cheap eats and free attractions to affordable accommodation and transport."
 ---
 

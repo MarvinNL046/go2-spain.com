@@ -5,7 +5,7 @@ date: "2025-11-28"
 author: "Go2Spain Editorial Team"
 category: "practical"
 tags: ["spain", "digital-nomad", "remote-work", "visa", "coworking"]
-image: "/images/blog/digital-nomad-spain.jpg"
+image: "/images/blog/digital-nomad-spain.webp"
 excerpt: "Spain's digital nomad visa, excellent coworking spaces, and high quality of life make it a top choice for remote workers. Here is everything you need to know."
 ---
 

@@ -5,7 +5,7 @@ date: "2026-01-06"
 author: "Go2Spain Editorial Team"
 category: "transport"
 tags: ["spain", "trains", "renfe", "AVE", "transport"]
-image: "/images/blog/train-travel-spain-renfe.jpg"
+image: "/images/blog/train-travel-spain-renfe.webp"
 excerpt: "How to navigate Spain's excellent train network, from high-speed AVE trains to regional services. Booking tips, routes, and prices."
 ---
 

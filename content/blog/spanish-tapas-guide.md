@@ -5,7 +5,7 @@ date: "2025-12-15"
 author: "Go2Spain Editorial Team"
 category: "food-drink"
 tags: ["spain", "tapas", "food", "dining", "culture"]
-image: "/images/blog/spanish-tapas-guide.jpg"
+image: "/images/blog/spanish-tapas-guide.webp"
 excerpt: "Master the art of tapas with this guide to ordering, etiquette, classic dishes, and the best tapas cities in Spain."
 ---
 

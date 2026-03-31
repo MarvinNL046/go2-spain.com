@@ -5,7 +5,7 @@ date: "2025-12-22"
 author: "Go2Spain Editorial Team"
 category: "experience"
 tags: ["camino", "hiking", "pilgrimage", "santiago"]
-image: "/images/blog/camino-de-santiago-beginner.jpg"
+image: "/images/blog/camino-de-santiago-beginner.webp"
 excerpt: "A beginner's guide to walking the Camino de Santiago, covering routes, preparation, what to pack, and what to expect."
 ---
 

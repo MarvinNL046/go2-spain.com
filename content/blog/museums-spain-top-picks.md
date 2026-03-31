@@ -5,7 +5,7 @@ date: "2025-12-10"
 author: "Go2Spain Editorial Team"
 category: "culture"
 tags: ["spain", "museums", "art", "culture", "prado"]
-image: "/images/blog/museums-spain-top-picks.jpg"
+image: "/images/blog/museums-spain-top-picks.webp"
 excerpt: "From the Prado to the Guggenheim, explore Spain's world-class museums and galleries. Tips on free entry, must-see works, and hidden gems."
 ---
 

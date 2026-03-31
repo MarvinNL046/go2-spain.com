@@ -5,7 +5,7 @@ date: "2026-01-02"
 author: "Go2Spain Editorial Team"
 category: "itinerary"
 tags: ["andalusia", "road-trip", "seville", "granada", "cordoba"]
-image: "/images/blog/andalusia-road-trip.jpg"
+image: "/images/blog/andalusia-road-trip.webp"
 excerpt: "Drive through southern Spain's most enchanting region with this 10-day Andalusia road trip covering Seville, Cordoba, Granada, and the coast."
 ---
 

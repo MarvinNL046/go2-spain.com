@@ -5,7 +5,7 @@ date: "2025-12-05"
 author: "Go2Spain Editorial Team"
 category: "travel-guide"
 tags: ["spain", "romantic", "couples", "honeymoon"]
-image: "/images/blog/romantic-getaways-spain.jpg"
+image: "/images/blog/romantic-getaways-spain.webp"
 excerpt: "From flamenco evenings in Seville to sunset dinners in Mallorca, discover Spain's most romantic destinations for couples."
 ---
 

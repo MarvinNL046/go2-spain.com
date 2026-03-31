@@ -5,7 +5,7 @@ date: "2025-12-03"
 author: "Go2Spain Editorial Team"
 category: "city-guide"
 tags: ["madrid", "barcelona", "neighborhoods", "where-to-stay"]
-image: "/images/blog/best-neighborhoods-madrid-barcelona.jpg"
+image: "/images/blog/best-neighborhoods-madrid-barcelona.webp"
 excerpt: "A neighborhood-by-neighborhood guide to Spain's two largest cities, helping you choose where to stay, eat, and explore."
 ---
 

@@ -5,7 +5,7 @@ date: "2026-01-15"
 author: "Go2Spain Editorial Team"
 category: "travel-guide"
 tags: ["spain", "travel", "guide", "planning"]
-image: "/images/blog/ultimate-spain-travel-guide-2026.jpg"
+image: "/images/blog/ultimate-spain-travel-guide-2026.webp"
 excerpt: "Everything you need to know to plan the perfect trip to Spain in 2026, from visa requirements to must-see destinations."
 featured: true
 ---

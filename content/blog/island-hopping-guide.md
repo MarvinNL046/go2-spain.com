@@ -5,7 +5,7 @@ date: "2025-12-08"
 author: "Go2Spain Editorial Team"
 category: "destination"
 tags: ["spain", "islands", "mallorca", "canary-islands", "balearics"]
-image: "/images/blog/island-hopping-guide.jpg"
+image: "/images/blog/island-hopping-guide.webp"
 excerpt: "Plan the perfect Spanish island-hopping adventure across the Balearic and Canary Islands, with ferry routes, highlights, and tips."
 ---
 
