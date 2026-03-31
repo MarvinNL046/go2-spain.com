@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { useState, useEffect } from 'react';
 import CityCard from '../components/CityCard';
+import EmailCapture from '../components/EmailCapture';
 import { useTranslation } from '../hooks/useTranslation';
 import { siteConfig } from '../site.config';
 import { resolveI18n } from '../utils/i18n';
@@ -94,6 +95,7 @@ export default function Home({ cities, featuredCities, popularDishes, islands }:
                   {t('hero.featuredDestinations') || 'Featured Destinations'}
                 </Link>
               </div>
+              <EmailCapture variant="hero" className="mt-8 max-w-lg" />
             </div>
 
             {/* Right -- Image slider */}
