@@ -50,6 +50,6 @@
     }
   ],
   "popularCities": ["barcelona"],
-  "image": "/images/regions/catalonia.jpg",
-  "gallery": ["/images/regions/catalonia-1.jpg", "/images/regions/catalonia-2.jpg", "/images/regions/catalonia-3.jpg"]
+  "image": "/images/regions/catalonia.webp",
+  "gallery": ["/images/regions/catalonia-1.webp", "/images/regions/catalonia-2.webp", "/images/regions/catalonia-3.webp"]
 }

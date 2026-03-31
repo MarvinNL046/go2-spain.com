@@ -3,7 +3,7 @@
     "slug": "sangria",
     "name": { "en": "Sangria", "es": "Sangría" },
     "region": "Nationwide",
-    "image": "/images/drinks/sangria.jpg",
+    "image": "/images/drinks/sangria.webp",
     "description": {
       "en": "Spain's most famous punch, made with red wine, chopped fruit, sweetener, and a splash of brandy. While tourists love it, locals typically drink it only at summer gatherings and fiestas rather than in bars.",
       "es": "El ponche más famoso de España, hecho con vino tinto, fruta troceada, endulzante y un chorrito de brandy. Aunque los turistas la adoran, los locales típicamente la beben solo en reuniones veraniegas y fiestas, no en bares."
@@ -15,7 +15,7 @@
     "slug": "rioja-wine",
     "name": { "en": "Rioja Wine", "es": "Vino de Rioja" },
     "region": "La Rioja",
-    "image": "/images/drinks/rioja-wine.jpg",
+    "image": "/images/drinks/rioja-wine.webp",
     "description": {
       "en": "Spain's most prestigious wine region produces elegant reds primarily from Tempranillo grapes, aged in oak barrels. Classifications range from young Joven to the complex, oak-aged Gran Reserva (minimum 5 years aging).",
       "es": "La región vinícola más prestigiosa de España produce elegantes tintos principalmente de uva Tempranillo, envejecidos en barricas de roble. Las clasificaciones van desde el joven Joven hasta el complejo Gran Reserva envejecido en roble (mínimo 5 años de crianza)."
@@ -27,7 +27,7 @@
     "slug": "sherry",
     "name": { "en": "Sherry", "es": "Jerez" },
     "region": "Jerez de la Frontera",
-    "image": "/images/drinks/sherry.jpg",
+    "image": "/images/drinks/sherry.webp",
     "description": {
       "en": "A fortified wine produced exclusively in the 'Sherry Triangle' between Jerez, Sanlúcar, and El Puerto de Santa María. Styles range from bone-dry Fino and Manzanilla to rich, sweet Pedro Ximénez.",
       "es": "Un vino fortificado producido exclusivamente en el 'Triángulo del Jerez' entre Jerez, Sanlúcar y El Puerto de Santa María. Los estilos van desde el seco Fino y Manzanilla hasta el rico y dulce Pedro Ximénez."
@@ -39,7 +39,7 @@
     "slug": "cava",
     "name": { "en": "Cava", "es": "Cava" },
     "region": "Penedès (Catalonia)",
-    "image": "/images/drinks/cava.jpg",
+    "image": "/images/drinks/cava.webp",
     "description": {
       "en": "Spain's traditional method sparkling wine, primarily produced in the Penedès region near Barcelona. Made mainly from Macabeo, Parellada, and Xarel·lo grapes, cava offers champagne-quality bubbles at a fraction of the price.",
       "es": "El vino espumoso de método tradicional de España, producido principalmente en la región del Penedès cerca de Barcelona. Hecho principalmente de uvas Macabeo, Parellada y Xarel·lo, el cava ofrece burbujas de calidad champán a una fracción del precio."
@@ -51,7 +51,7 @@
     "slug": "horchata",
     "name": { "en": "Horchata", "es": "Horchata" },
     "region": "Valencia",
-    "image": "/images/drinks/horchata.jpg",
+    "image": "/images/drinks/horchata.webp",
     "description": {
       "en": "A refreshing cold drink made from tiger nuts (chufas), water, and sugar. This Valencian specialty has been enjoyed since Moorish times and is traditionally served with long sugary pastries called fartons.",
       "es": "Una refrescante bebida fría hecha de chufas, agua y azúcar. Esta especialidad valenciana se disfruta desde tiempos moriscos y tradicionalmente se sirve con unos bollos alargados y azucarados llamados fartons."
@@ -63,7 +63,7 @@
     "slug": "tinto-de-verano",
     "name": { "en": "Tinto de Verano", "es": "Tinto de Verano" },
     "region": "Nationwide",
-    "image": "/images/drinks/tinto-de-verano.jpg",
+    "image": "/images/drinks/tinto-de-verano.webp",
     "description": {
       "en": "Literally 'summer red wine' — a simple, refreshing mix of red wine and lemon soda (or Casera). What locals actually drink in summer instead of sangria. Cheaper, simpler, and just as refreshing.",
       "es": "Literalmente 'vino tinto de verano' — una mezcla sencilla y refrescante de vino tinto y gaseosa de limón (o Casera). Lo que los locales realmente beben en verano en lugar de sangría. Más barato, más sencillo e igual de refrescante."
@@ -75,7 +75,7 @@
     "slug": "cafe-con-leche",
     "name": { "en": "Café con Leche", "es": "Café con Leche" },
     "region": "Nationwide",
-    "image": "/images/drinks/cafe-con-leche.jpg",
+    "image": "/images/drinks/cafe-con-leche.webp",
     "description": {
       "en": "Spain's signature coffee: equal parts strong espresso and hot steamed milk. Ordered at any time of day, it's the fuel of Spanish life — from the morning breakfast bar ritual to the afternoon pick-me-up.",
       "es": "El café insignia de España: partes iguales de espresso fuerte y leche caliente. Se pide a cualquier hora del día, es el combustible de la vida española — desde el ritual matinal del desayuno en el bar hasta el reconstituyente de la tarde."
@@ -87,7 +87,7 @@
     "slug": "vermouth",
     "name": { "en": "Vermouth", "es": "Vermut" },
     "region": "Nationwide",
-    "image": "/images/drinks/vermouth.jpg",
+    "image": "/images/drinks/vermouth.webp",
     "description": {
       "en": "Spain is experiencing a vermouth renaissance, reviving the tradition of 'la hora del vermut' — vermouth hour before Sunday lunch. Served on tap with ice, an olive, and an orange slice, Spanish vermouth is typically sweeter and more herbal than Italian versions.",
       "es": "España está viviendo un renacimiento del vermut, reviviendo la tradición de 'la hora del vermut' antes del almuerzo dominical. Servido de grifo con hielo, una aceituna y una rodaja de naranja, el vermut español es típicamente más dulce y herbáceo que las versiones italianas."

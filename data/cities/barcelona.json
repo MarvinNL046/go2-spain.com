@@ -5,8 +5,8 @@
   "province": "Barcelona",
   "population": 1636000,
   "elevation": 12,
-  "image": "/images/cities/barcelona.jpg",
-  "gallery": ["/images/cities/barcelona-1.jpg", "/images/cities/barcelona-2.jpg", "/images/cities/barcelona-3.jpg"],
+  "image": "/images/cities/barcelona.webp",
+  "gallery": ["/images/cities/barcelona-1.webp", "/images/cities/barcelona-2.webp", "/images/cities/barcelona-3.webp"],
   "description": {
     "en": "Barcelona, the capital of Catalonia, is a Mediterranean jewel where Gothic quarters meet modernist masterpieces. Antoni Gaudí's fantastical buildings — the Sagrada Familia, Casa Batlló, and Park Güell — define its skyline and draw millions of visitors each year. The city effortlessly combines beach life with urban culture, offering golden sand just minutes from the Gothic Quarter's medieval alleys. Barcelona's food scene is legendary, from bustling La Boqueria market to innovative restaurants that have helped make Catalonia a global gastronomic powerhouse.",
     "es": "Barcelona, la capital de Cataluña, es una joya mediterránea donde los barrios góticos se encuentran con obras maestras modernistas. Los fantásticos edificios de Antoni Gaudí — la Sagrada Familia, la Casa Batlló y el Park Güell — definen su horizonte y atraen a millones de visitantes cada año. La ciudad combina sin esfuerzo la vida playera con la cultura urbana, ofreciendo arena dorada a pocos minutos de los callejones medievales del Barrio Gótico. La escena gastronómica de Barcelona es legendaria, desde el bullicioso mercado de La Boquería hasta restaurantes innovadores que han ayudado a convertir Cataluña en una potencia gastronómica mundial."

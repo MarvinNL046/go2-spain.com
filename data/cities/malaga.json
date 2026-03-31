@@ -5,8 +5,8 @@
   "province": "Málaga",
   "population": 578000,
   "elevation": 11,
-  "image": "/images/cities/malaga.jpg",
-  "gallery": ["/images/cities/malaga-1.jpg", "/images/cities/malaga-2.jpg", "/images/cities/malaga-3.jpg"],
+  "image": "/images/cities/malaga.webp",
+  "gallery": ["/images/cities/malaga-1.webp", "/images/cities/malaga-2.webp", "/images/cities/malaga-3.webp"],
   "description": {
     "en": "Málaga has emerged from the shadow of the Costa del Sol package-holiday reputation to become one of Spain's most exciting cultural destinations. Picasso's birthplace now boasts over 40 museums, including the Picasso Museum, Centre Pompidou Málaga, and the Carmen Thyssen Museum. The historic center, anchored by the Moorish Alcazaba fortress and the unfinished Renaissance cathedral (affectionately nicknamed 'La Manquita' — the one-armed lady), buzzes with stylish bars, rooftop terraces, and innovative restaurants.",
     "es": "Málaga ha emergido de la sombra de la reputación turística de la Costa del Sol para convertirse en uno de los destinos culturales más emocionantes de España. La ciudad natal de Picasso cuenta ahora con más de 40 museos, incluidos el Museo Picasso, el Centre Pompidou Málaga y el Museo Carmen Thyssen. El centro histórico, anclado por la fortaleza morisca de la Alcazaba y la inacabada catedral renacentista (cariñosamente apodada 'La Manquita'), bulle con bares elegantes, terrazas en azoteas y restaurantes innovadores."

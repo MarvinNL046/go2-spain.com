@@ -50,6 +50,6 @@
     }
   ],
   "popularCities": ["bilbao", "san-sebastian"],
-  "image": "/images/regions/basque-country.jpg",
-  "gallery": ["/images/regions/basque-country-1.jpg", "/images/regions/basque-country-2.jpg", "/images/regions/basque-country-3.jpg"]
+  "image": "/images/regions/basque-country.webp",
+  "gallery": ["/images/regions/basque-country-1.webp", "/images/regions/basque-country-2.webp", "/images/regions/basque-country-3.webp"]
 }

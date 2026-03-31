@@ -50,6 +50,6 @@
     }
   ],
   "popularCities": ["seville", "granada", "malaga"],
-  "image": "/images/regions/andalusia.jpg",
-  "gallery": ["/images/regions/andalusia-1.jpg", "/images/regions/andalusia-2.jpg", "/images/regions/andalusia-3.jpg"]
+  "image": "/images/regions/andalusia.webp",
+  "gallery": ["/images/regions/andalusia-1.webp", "/images/regions/andalusia-2.webp", "/images/regions/andalusia-3.webp"]
 }

@@ -24,10 +24,9 @@ export default function Home({ cities, featuredCities, popularDishes, islands }:
   const { t } = useTranslation('common');
 
   const heroImages = [
-    '/images/homepageHero/sagrada-familia-barcelona.webp',
-    '/images/homepageHero/alhambra-granada.webp',
-    '/images/homepageHero/plaza-espana-seville.webp',
-    '/images/homepageHero/mallorca-coast.webp'
+    '/images/hero/spain-hero-1.webp',
+    '/images/hero/spain-hero-2.webp',
+    '/images/hero/spain-hero-3.webp'
   ];
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0);

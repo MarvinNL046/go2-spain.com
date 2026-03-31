@@ -50,6 +50,6 @@
     }
   ],
   "popularCities": ["toledo", "salamanca"],
-  "image": "/images/regions/castile.jpg",
-  "gallery": ["/images/regions/castile-1.jpg", "/images/regions/castile-2.jpg", "/images/regions/castile-3.jpg"]
+  "image": "/images/regions/castile.webp",
+  "gallery": ["/images/regions/castile-1.webp", "/images/regions/castile-2.webp", "/images/regions/castile-3.webp"]
 }
