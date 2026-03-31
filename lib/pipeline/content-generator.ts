@@ -430,13 +430,29 @@ async function loadSitemapLinks(): Promise<string> {
         return !urlPath.match(/^\/(nl|de|fr|zh|ja|es|it)\//);
       });
 
+    const buildAnchor = (url: string, section: string): string => {
+      const parts = url.split("/").filter(Boolean);
+      const lastPart = parts[parts.length - 1] || section;
+      const name = lastPart.replace(/-/g, " ").replace(/\b\w/g, (c: string) => c.toUpperCase());
+      const sectionLabels: Record<string, string> = {
+        city: "travel guide", islands: "island guide", food: "food guide",
+        blog: "", compare: "comparison", region: "region guide",
+        visa: "", "practical-info": "",
+      };
+      const label = sectionLabels[section];
+      if (label && !name.toLowerCase().includes("guide") && !name.toLowerCase().includes(section)) {
+        return `${name} ${label}`;
+      }
+      return name;
+    };
+
     const groups: Record<string, string[]> = {};
     for (const url of allUrls) {
       const p = url.replace(siteUrl, "");
       if (!p || p === "/") continue;
       const section = p.split("/")[1] || "other";
       if (!groups[section]) groups[section] = [];
-      if (groups[section].length < 12) {
+      if (groups[section].length < 15) {
         groups[section].push(url);
       }
     }
@@ -446,11 +462,7 @@ async function loadSitemapLinks(): Promise<string> {
       if (urls.length === 0) continue;
       result += `${section}:\n`;
       for (const url of urls) {
-        const parts = url.split("/").filter(Boolean);
-        const lastPart = parts[parts.length - 1] || section;
-        const anchor = lastPart
-          .replace(/-/g, " ")
-          .replace(/\b\w/g, (c) => c.toUpperCase());
+        const anchor = buildAnchor(url, section);
         result += `- [${anchor}](${url})\n`;
       }
       result += "\n";
@@ -583,24 +595,34 @@ sources:
 
 7. WIDGET PLACEMENT (3-5 widgets using <!-- WIDGET:type --> syntax).
 
-8. FAQ SECTION (3-5 questions).
+8. FAQ SECTION (5-7 questions targeting People Also Ask — concise answers with specific facts, prices, or dates).
 
 9. CONCLUSION with CTA.
 
 ---
 
-INTERNAL LINKING (5-8 internal links):
+INTERNAL LINKING (10-15 internal links, keyword-rich anchors):
+- Use descriptive anchors like "our Barcelona travel guide" or "Spanish food guide" — NEVER use "click here" or bare URLs.
+- Every H2 section MUST contain at least 1 internal link.
+- No duplicate anchor text — vary phrasing for each link.
+- Domain: go2-spain.com
+
 Available internal links:
 ${sitemapLinks}
 ${widgetReference ? `\nWRITER REFERENCE:\n${widgetReference}\n` : ''}
 ---
 
-E-E-A-T SIGNALS: Reference hands-on visits, use precise details (prices in EUR), cite credible sources.
+E-E-A-T SIGNALS (every 2-3 sections):
+- Reference hands-on visits, use precise details (prices in EUR), cite credible sources.
+- Include first-person experience markers ("when we visited", "in our experience").
+- Add an affiliate disclosure sentence near the top: "This article may contain affiliate links — we earn a small commission at no extra cost to you."
+- Write for trust and AdSense approval: no clickbait, no misleading claims, balanced perspective.
 
 ANTI-HALLUCINATION RULES: Never invent prices or specific venue names not in reference data.
 
-TARGET LENGTH: 1800-2500 words.
+TARGET LENGTH: 2500-3500 words.
 TONE: Knowledgeable, warm, practical.
+ANTI-AI WRITING: Vary sentence length (mix short punchy sentences with longer descriptive ones). Avoid AI clichés like "bustling", "nestled", "vibrant tapestry", "hidden gem", "a testament to". Use concrete sensory details instead of abstract adjectives. Start paragraphs differently — not every one with "The" or "If you".
 ${contextSection}
 
 RESPOND WITH THE COMPLETE BLOG POST -- frontmatter + Markdown body only. No preamble.`;
