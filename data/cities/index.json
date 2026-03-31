@@ -5,7 +5,7 @@
     "name": { "en": "Madrid", "es": "Madrid" },
     "region": "central-spain",
     "province": "Community of Madrid",
-    "image": "/images/cities/madrid.jpg",
+    "image": "/images/cities/madrid.webp",
     "highlights": [
       { "en": "The Prado Museum", "es": "El Museo del Prado" },
       { "en": "Retiro Park", "es": "El Parque del Retiro" },
@@ -22,7 +22,7 @@
     "name": { "en": "Barcelona", "es": "Barcelona" },
     "region": "catalonia",
     "province": "Barcelona",
-    "image": "/images/cities/barcelona.jpg",
+    "image": "/images/cities/barcelona.webp",
     "highlights": [
       { "en": "La Sagrada Familia", "es": "La Sagrada Familia" },
       { "en": "Park Güell", "es": "Park Güell" },
@@ -39,7 +39,7 @@
     "name": { "en": "Seville", "es": "Sevilla" },
     "region": "andalusia",
     "province": "Seville",
-    "image": "/images/cities/seville.jpg",
+    "image": "/images/cities/seville.webp",
     "highlights": [
       { "en": "The Alcázar", "es": "El Real Alcázar" },
       { "en": "Seville Cathedral & Giralda", "es": "La Catedral y la Giralda" },
@@ -56,7 +56,7 @@
     "name": { "en": "Valencia", "es": "Valencia" },
     "region": "valencia",
     "province": "Valencia",
-    "image": "/images/cities/valencia.jpg",
+    "image": "/images/cities/valencia.webp",
     "highlights": [
       { "en": "City of Arts and Sciences", "es": "Ciudad de las Artes y las Ciencias" },
       { "en": "Central Market", "es": "Mercado Central" },
@@ -73,7 +73,7 @@
     "name": { "en": "Granada", "es": "Granada" },
     "region": "andalusia",
     "province": "Granada",
-    "image": "/images/cities/granada.jpg",
+    "image": "/images/cities/granada.webp",
     "highlights": [
       { "en": "The Alhambra", "es": "La Alhambra" },
       { "en": "Albaicín Quarter", "es": "El Albaicín" },
@@ -90,7 +90,7 @@
     "name": { "en": "Bilbao", "es": "Bilbao" },
     "region": "basque-country",
     "province": "Biscay",
-    "image": "/images/cities/bilbao.jpg",
+    "image": "/images/cities/bilbao.webp",
     "highlights": [
       { "en": "Guggenheim Museum", "es": "Museo Guggenheim" },
       { "en": "Casco Viejo (Old Town)", "es": "Casco Viejo" },
@@ -107,7 +107,7 @@
     "name": { "en": "San Sebastián", "es": "San Sebastián" },
     "region": "basque-country",
     "province": "Gipuzkoa",
-    "image": "/images/cities/san-sebastian.jpg",
+    "image": "/images/cities/san-sebastian.webp",
     "highlights": [
       { "en": "La Concha Beach", "es": "Playa de la Concha" },
       { "en": "Old Town Pintxos", "es": "Pintxos del Casco Viejo" },
@@ -124,7 +124,7 @@
     "name": { "en": "Málaga", "es": "Málaga" },
     "region": "andalusia",
     "province": "Málaga",
-    "image": "/images/cities/malaga.jpg",
+    "image": "/images/cities/malaga.webp",
     "highlights": [
       { "en": "Picasso Museum", "es": "Museo Picasso" },
       { "en": "Alcazaba Fortress", "es": "La Alcazaba" },
@@ -141,7 +141,7 @@
     "name": { "en": "Toledo", "es": "Toledo" },
     "region": "castile",
     "province": "Toledo",
-    "image": "/images/cities/toledo.jpg",
+    "image": "/images/cities/toledo.webp",
     "highlights": [
       { "en": "Toledo Cathedral", "es": "Catedral de Toledo" },
       { "en": "Alcázar of Toledo", "es": "Alcázar de Toledo" },
@@ -158,7 +158,7 @@
     "name": { "en": "Salamanca", "es": "Salamanca" },
     "region": "castile",
     "province": "Salamanca",
-    "image": "/images/cities/salamanca.jpg",
+    "image": "/images/cities/salamanca.webp",
     "highlights": [
       { "en": "University of Salamanca", "es": "Universidad de Salamanca" },
       { "en": "Plaza Mayor", "es": "Plaza Mayor" },
