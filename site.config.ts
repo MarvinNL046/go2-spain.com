@@ -138,7 +138,7 @@ export const siteConfig: SiteConfig = {
     siteUrl: 'https://go2-spain.com',
     ogImage: '/images/og-default.jpg',
     twitterHandle: 'go2spain',
-    googleAnalyticsId: '',
+    googleAnalyticsId: 'G-H0NJG4SRE7',
     indexNowKey: '',
   },
 
