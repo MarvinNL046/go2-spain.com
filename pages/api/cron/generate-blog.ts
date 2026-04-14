@@ -12,6 +12,7 @@ export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse
 ) {
+  // Verify cron secret (Vercel sends this automatically for cron jobs)
   const cronSecret = process.env.CRON_SECRET;
   if (!cronSecret || req.headers.authorization !== `Bearer ${cronSecret}`) {
     return res.status(401).json({ error: "Unauthorized" });
@@ -20,31 +21,34 @@ export default async function handler(
   try {
     console.log("[cron/generate-blog] Starting blog generation...");
 
+    // 1. Generate the blog post directly (no internal HTTP call)
     const post = await generateBlogPost({
-      model: "claude-haiku",
+      model: "grok-writer",
       generateImage: true,
       scrapeContext: true,
     });
 
     console.log(`[cron/generate-blog] Generated: "${post.title}" (slug: ${post.slug})`);
 
+    // 2. Fact-check: extract claims and cross-reference against scraped data
     const factCheck = factCheckPost(post.content, post.scrapeData || null);
 
     console.log(`[fact-check] "${post.slug}" — ${factCheck.totalClaims} claims, ${factCheck.unverifiedClaims.length} unverified (${factCheck.riskLevel})`);
     for (const claim of factCheck.unverifiedClaims) {
-      console.warn(`[fact-check]   [!] ${claim.type.toUpperCase()}: "${claim.value}"`);
+      console.warn(`[fact-check]   ⚠ ${claim.type.toUpperCase()}: "${claim.value}"`);
     }
 
-    // NOTE: fact-check metadata is logged above but NOT injected into published
-    // frontmatter — keeps posts clean for AdSense and avoids exposing internal
-    // review signals to readers.
+    // Log fact-check results but do NOT inject into published frontmatter
+    // (fact-check metadata in published posts hurts AdSense/SEO perception)
 
+    // 3. Collect files to commit
     const filesToCommit: Array<{ path: string; content: string; encoding?: "utf-8" | "base64" }> = [];
 
+    // 4. Inject affiliate links into English content
     const contentWithAffiliates = injectAffiliateLinks(post.content, {
       inlineLinks: true,
-      ctaBoxes: true,
-      ctaCount: 3,
+      ctaBoxes: false,
+      ctaCount: 2,
     });
     post.content = contentWithAffiliates;
 
@@ -54,6 +58,7 @@ export default async function handler(
       encoding: "utf-8",
     });
 
+    // 5. Add image file if generated
     if (post.imageBase64) {
       filesToCommit.push({
         path: `public/images/blog/${post.slug}.webp`,
@@ -63,6 +68,7 @@ export default async function handler(
       console.log("[cron/generate-blog] Image queued for commit");
     }
 
+    // 6. Commit all files to GitHub
     const commitResult = await commitFilesToGitHub(
       filesToCommit,
       `Add blog post: ${post.title}\n\nAuto-generated. Category: ${post.category}`

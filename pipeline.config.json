@@ -1,0 +1,11 @@
+{
+  "country": "Spain",
+  "siteName": "Go2Spain",
+  "hostname": "go2-spain.com",
+  "locales": ["en"],
+  "autocompleteSeeds": {
+    "en": ["Spain travel", "Spain backpacker", "Spain digital nomad", "Spain visa"]
+  },
+  "newsQuery": "Spain",
+  "scrapeNewsSources": []
+}
