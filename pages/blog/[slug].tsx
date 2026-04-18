@@ -62,6 +62,13 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
     "publisher": { "@type": "Organization", "name": siteConfig.name, "url": siteConfig.seo.siteUrl, "logo": { "@type": "ImageObject", "url": `${siteConfig.seo.siteUrl}/logo/go2spain-logo.webp` } },
     "mainEntityOfPage": { "@type": "WebPage", "@id": `${siteConfig.seo.siteUrl}/blog/${post.slug}/` }
   };
+  const faqJsonLd = post.faqItems && post.faqItems.length > 0 ? {
+    "@context": "https://schema.org", "@type": "FAQPage",
+    "mainEntity": post.faqItems.map(item => ({
+      "@type": "Question", "name": item.question,
+      "acceptedAnswer": { "@type": "Answer", "text": item.answer }
+    }))
+  } : null;
   const shareUrl = `${siteConfig.seo.siteUrl}/blog/${post.slug}/`;
   const shareImage = `${siteConfig.seo.siteUrl}${post.image}`;
 
@@ -74,6 +81,9 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
         <meta property="article:author" content={typeof post.author === 'string' ? post.author : post.author.name} />
         {post.tags.map(tag => (<meta key={tag} property="article:tag" content={tag} />))}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }} />
+        {faqJsonLd && (
+          <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
+        )}
       </SEOHead>
 
       <article className="bg-surface-cream min-h-screen">

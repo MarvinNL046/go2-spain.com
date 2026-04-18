@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://go2-spain.com/sitemap-index.xml
-LLMs-Txt: https://go2-spain.com/llms.txt
