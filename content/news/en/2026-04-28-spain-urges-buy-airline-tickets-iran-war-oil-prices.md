@@ -1,4 +1,3 @@
-```yaml
 ---
 title: "Spain Urges Travelers to Buy Airline Tickets Now as Iran War Drives Up Oil Prices"
 slug: "2026-04-28-spain-urges-buy-airline-tickets-iran-war-oil-prices"
